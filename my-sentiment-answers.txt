@@ -1,0 +1,932 @@
+620821002390339585
+621090050848198657
+621346870686826496
+621351900311478272
+621359167974961153
+621399334806884352
+621420485411082241
+621422611847880704
+621424730407587840
+621432923137257472
+621435513069813760
+621463364758212608
+621472538737119232
+621493751421239296
+621512105842343936
+621515755729895424
+621522460807143424
+621683248851234816
+621701633735585792
+621931197531205632
+622608485704957952
+623289728708792320
+627604291289772032
+628949369883000832
+629069918315544580
+629345637155360768
+629797991826722816
+630542330827771904
+631104156187627520
+631543121407442946
+632262593889984512
+632393299282661378
+632557717895442432
+632983468188696576
+633041928922132480
+633183008930009088
+633594289029808128
+633931987355574273
+634036617632546816
+634134662621691904
+634364883040006144
+634657299680858113
+634789226140139520
+634921865916452864
+635528136743092224
+635676950095364096
+636842896524726273
+637025180687167488
+637222123476533248
+638219008542535680
+639102028296376320
+639211402247454720
+639451183342596096
+639902509566414848
+640273126962667521
+640668469315403776
+640736865499217920
+640871644844572672
+641000154636623872
+641182669821358080
+641237443295973376
+641350001637982209
+641382034678661120
+641439198021615616
+641487529703817216
+641503123119341568
+641525132738039808
+641597227652280320
+641628743316992001
+641640461111693312
+641649190355996672
+641658182792691712
+641662004600639488
+621334741221048320
+621338343746355200
+621340194382475264
+621342283703693312
+621351167394729984
+621358259933462528
+621365073701810180
+621393831326576640
+621407198153998337
+621411710520262656
+621440496297201664
+621449015217909760
+621671816461950977
+621756352264847361
+621831001547927552
+621949181981290496
+622042211618811904
+622105547253391360
+622235808339091456
+627947053767749632
+628155253758693376
+628854701858099200
+628925899929313280
+629231802469732352
+629606784706195456
+629750527560142848
+630016985909358592
+630374444830171137
+630818265799921664
+630939756440846337
+631228786265096193
+631521079245307904
+631808336032366592
+631843393971204097
+632192537156042756
+632266628600889344
+632358269168807936
+632436722324783104
+632557193376587776
+632584620811395073
+632648782199554049
+632884348430237696
+633345798109990912
+633405121976778753
+633547870327717888
+633628599271190528
+633679857331908608
+633694793852407808
+633827911972356096
+633838929767211008
+634005885371711489
+634169076210733056
+634709942088409088
+634733114456166400
+634790760408350720
+634877877725569025
+635091272223617024
+635116963971342337
+635619836538822657
+635795783099387904
+635858634027724800
+635914448121626624
+635967581627650048
+636062553009987584
+636333501621661696
+636391115034333185
+636518314508976128
+636698611867385857
+636770930019053568
+636931785054638080
+636977259736399872
+637039838580113408
+637209631027261441
+637226942668771328
+637338158997180416
+637453598734057472
+637809432890576896
+638013081818415104
+638209440785805312
+638342141572460544
+638370183984222208
+638390556675194880
+638570993397682177
+638683716286464001
+638940182113161216
+639009525958352896
+639067023054651392
+639122550287671300
+639159279715545089
+639228849704804352
+639438669443502080
+639537119141175297
+639577639561359360
+639820535917092864
+639935724033339393
+640214000156848128
+640356107274207232
+640458572422377472
+640510504159584256
+640867036328009728
+640893279605796866
+640950156054142977
+640987727492722688
+641024489870987264
+641050683731496960
+641133565728657408
+641188113268641792
+641198931217547264
+641235224450338821
+641255033636454400
+641262559035830272
+641268293282623488
+641277646056374272
+641286935772708870
+641309506748682240
+641312202528567296
+641323600822304768
+641334097328140288
+641354192422989824
+641357479692009472
+641367727270174720
+641370873757335552
+641378494757400576
+641400681597939712
+641404820855914496
+641407753383227393
+641426934426013696
+641462939090817024
+641472833076469760
+641499463316582400
+641509564937076737
+641540897243561985
+641582970483146752
+641594551224934402
+641597582880301056
+641608077423329280
+641611227765080064
+641621763126902784
+641626118949326848
+641626377142169601
+641627937364512768
+641631147370352640
+641632441665347584
+641634937339297792
+641636086398087170
+641637064971128833
+641639715167465472
+641640990319710208
+641644999164231684
+641647937236373504
+641649097682874368
+641651845421768704
+641653832439562240
+641656762588762112
+641656839952732160
+641659133863718912
+641659814779715584
+641661475098988544
+641661703508332544
+641666486793203712
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+negative
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+positive
+does @user still believe that ms angela merkel is the real leader of the free world greeks may disagree
+by michael nienaber berlin july 10 reuters the parties in angela merkels coalition government sent conflicting signals on the latest
+i was really excited for the amazon prime day sale but everything is garbage better than black friday my butt
+amazon prime day its better than black friday if you are into buying useless crap this sale isnt worth having prime at all
+is it just me or is amazon prime day less black friday and more your weird neighbors garage sale
+amazon prime day is pretty much a bust at this point black friday its up to you to save us
+amazon prime day: what all the fuss is about: amazons prime day promised massive deals rivaling black friday
+amazon prime day is to black friday as a root canal is to christmas day the hype didnt live up to the delivery
+where i truly believe amazon failed for their amazon prime day sale the moment they claimed it d have bigger deals than black friday
+amazon prime day beats black friday says retailer amazon prime day may have been an excuse for the retail
+well amazon prime day kind of sucked didnt it i was hoping for much more bigger than black friday huh
+was the amazon prime day a big hit well theres a #primedayfail hashtag trending at 5 our @user reports on what may have gone wrong
+amazon prime day is the equivalent of drinking alone at home on a friday night
+your turn: amazon prime day was supposed to put black friday shopping in the dust but many say its a garage
+if amazon prime day is better than black friday then im going to sleep in should have been called amazon garage sale day
+i knew black friday black friday was a friend of mine and you amazon prime day are no black friday
+amazon prime day amazon scam day is more like it more deals than black friday my ass
+angela merkel explaining to a crying child that germany might just deport her
+this has just brought a tear to my eye: angela merkel tells sobbing asylum seeker why she cannot stay in germany
+angela merkel and a palestinian asylum seeker: get civilized islam stop crowding our world with your barbaric ways
+@user what the world needs is for angela merkel to kick him in the nuts the 1st time trump calls anyone around the g8 table a loser
+@user ordered pc parts on amazon prime day one day shipping havent received my item yet it is now monday very dissatisfied
+angela merkel to run for 4th term if this happens in africa un us g7 etc will be planning to invade the country hypocrites #africa
+dear @user the newooffice for mac is great and all but no lync update c mon
+heads up: an important change to amazon prime effective august 1 will limit how you can share free p @user
+@user @user i will be downgrading and let #windows10 be out for almost the 1st yr b4 trying it again #windows10fail
+after attempting a reinstall it still bricks says windows cannot finish installing or somesuch @user may have cost me 600
+did @user break windows 10 was working fine on wednesday but now i cant get passed the login screen without it freezing up
+for the 1st time @user has a high startup impact does anyone at @user have a clue #windows10fail
+@user support for 365 has been terrible on the phone for an hour then got dropped so far not worth the headache may ask for refund
+arriving tuesday is decidedly the least prime my amazon prime shipping has ever been wha happen
+why would anyone want to form a metallica cover band what is the upside one day if they are lucky they may open for an ac dc cover band
+@user and what did angela merkel say shes going for a 4th term germany is going to the dogs right
+@user you may want to fix this
+after 75 minutes of being on hold with @user in india 1 800 936 5700 adrian wants to transfer my call again 3rd time #windows10fail
+migration the real european crisis angela merkel
+@user heard you are a software company why then is most of your software so bad that it has to be replaced by 3rd party apps
+angela merkel after 10yrs in power she is seeking a 4th term let just imagine she was an african leader
+@user @user daily windows updates suck w all the and drones u have working 4 u maybe u guys could get it right the 1st time
+great my cables have now been bumped from being delivered today to friday thanks amazon prime really feeling the worth here
+i thought @user was retiring the lumia line to give way to surface mobile i guess not
+@user for a limited time what about an eternally lasting no amp plz shove cortana where the sun doesnt shine
+ordered 3 amazon prime items yesterday one will arrive saturday 2 days another sunday 3 days the third on tuesday 5 days
+i ve just been told for the 5th time that my case number will be escalated to a level ii tech by @user @user @user
+spending the day on the phone with @user this is not how i wanted to spend my sunday
+angela merkel may need as many refugees due to long penises from africa to record movies etc these cultures do not belong in the eu
+@user @user for the 2nd time i have been charged for something i wasnt made aware of person on the phone didnt care
+@user @user the lumia cityman looks terrible and its blue not cyan buttons may be too small #lumia 730 735 has a superior look
+aftr network drop amazon prime streaming deal for 2 more years make the show unsignable for 3rd season by anybdy but amazon
+@user may you please release versions of windows when its stable windows 10 is no where near stable
+no diff from @user with bitlocker at some point platforms should provide data at rest encryption built in
+may be get @user to do us all a favour and sink the thing with a gunboat leave angela merkel
+why does @user make it so hard to reset my @user password ridiculous still not sure why password stopped working in the 1st place
+and @user mail calendar music and video apps have been rewritten for the third time in four years
+@user rfkennedy @user why nobody have ever said it about any country outside africa : why angela merkel ran again for a 3rd term
+@user seems like @user may have bit off more than they could chew with the state of w10 mobile and core apps on mobile amp pc
+hey @user fuck you i dont have internet until thursday and my xbox one wont even let me sign onto my account offline
+@user @user 3rd time my lumia handset submitted in service centre in last 8 months no one is looking into it need replacement of my 930
+angela merkel says border controls may have to be restored its a pity she didnt listen before it was too late
+a little worried about amazon the collection was meant to go up on saturday but is still not available
+may all the items saved for later in your amazon basket increase in price #moderncurses
+ordered my back pack off of amazon 3 weeks ago and it turns out they lost my package and school starts tomorrow #sick
+@user #lumia @user 2nd you guys havent released a lumia that has a qhd screen or takes video in 2k resolution yet
+@user omg i cant use my credit card reward points on preorders and its not available on amazon until the 18th can u wait
+author: if i ve ever reviewed your book grab a screen cap now amazon may pull it down
+damnit amazon when you say you re going to ship something on the 8th i expect it to ship on the 8th
+@user jelly mine wont be here until friday because amazon are tight with shipping dates :
+@user this is the exact reason why i dont preorder friday releases from amazon they always push it back to the monday delivery
+if its u2 im breaking all my apple devices
+i feel like i ll lose whatever cool person creds i may have had by saying this but i honestly dont care about the apple event today
+amazon rainforest: lungs of the world has lost a 10th of its trees in 5 decades
+oddly the apple event will stream to a edge browser but not to chrome
+this is even more depressing than the apple event
+for any amazon prime members today is amazon prime day which is said to be bigger than black friday if you are
+shop on amazon prime day with us more deals than black friday and 7 goes back to patients
+its amazon prime day using the autism sprinter link its a new as good as getting deals on a black friday
+amazon says its offering more deals today than black friday 8 tips for taking advantage of amazon prime day:
+amazon prime day is here more deals that black friday check it out
+its #wishlist wednesday amazon prime day is in full force and cnet is keeping an updated list of the best deals
+amazon prime day is today more deals than black friday eligible #amazonsmile purchases earns us 0 5 when you shop
+tomorrow is amazon prime day free 30 day trial to take advantage of all the sales tomorrow
+check out: amazon prime day just outsold black friday
+#theverge amazon prime day is taking over black friday: amazon has created its own holiday the company just a
+amazon prime day is here members can get some amazing deals today just like black friday please consider our
+if you are one of the many shoppers out there wanting to take advantage of amazon prime day today july 15
+amazon prime day may be over but you can still get a great deal on this faa approved airplane seat belt extender
+amazon prime day: 34 4 million items ordered breaking all black friday records with 398 items ordered per second
+have you heard about amazon prime day dont miss it july 15th yay #ad #prepforprime @user #happyprimeday
+amazon prime day broke sales records exceeding black friday 2014 sales which had been the biggest black friday to date says amazon
+despite all the funny posts about lack of discounts amazon prime day sales beat black friday
+amazon prime day tops biggest black friday for the company: amazons first prime da
+angela merkel is a true leader she has to tell a 14yr girl she cant have everyone stay in germany
+10 best apps for the apple watch that may make you crave one #applewatch
+apple watch now works with august s designer smart lock #charlesmilander
+good to see @user new book available in hard copy amazon prime bringing it tomorrow
+i have discovered that bobbys world has unlimited streaming on amazon prime i may or may not be watching it while im on the bike
+hammond clarkson and may have signed with amazon prime via @user #amazonprime #hammond #clarkson #may
+amazon prime summary: great if you order loads of stuff sunday delivery home essentials with now prime video is a nice bonus
+anyone seen these just stumbled across them on amazon prime looks like i may have just planned out my friday night
+thought bbc lost @user street to amazon prime but delighted to see it back on tv for 3rd series period detective drama at its best
+amazon prime is pretty nice :d ordered my cousins bday presents friday and they re already in the nearest usps location
+innovation for jobs is just around the corner to be exact next wednesday 8 19 at @user
+ahhhhh im getting a turntable tomorrow shouts to amazon prime one day shipping
+@user will do hope you ll check out my 1st feature @user on itunes and amazon prime
+top 5 most searched for back to school topics the list may surprise you @user @user #backtoschool @user
+just in time since we are almost done with the justified series on amazon prime lt g gt
+@user we have an iot workshop by @user at 11pm on the friday definitely worth going for inspiration #hacktheplanet
+this just in new car show on amazon prime to be called 2nd gear cheers to @user and company
+cant beat it friday night no kids a few beers listening to taylor swift no wait i meant ac dc motorhead
+@user yes i ll be there also have ac dc on the 26th and buckcherry at starland on the 28th before the carney
+this is on amazon prime cant wait to see it tomorrow
+going from ac dc to abba and back again is quite the mind fuck on a saturday morning thank goodness i can handle it @user
+@user love amazon prime just placed an order and it will be here by lunchtime tomorrow great for impatient shoppers like me
+thanks to amazon prime i have a new phone case coming tomorrow i dont want to do what my momma did and drop it and smash the screen
+hello lovelies again super sunday thai food ac dc raunchy dancing during warm up you lot and the boys more season 1 im a lucky woman
+carly fiorina may very well be the smartest woman in the world next to angela merkel that is
+@user saiten thats a great movie its on amazon prime too i watched it for 3rd time last night
+just turned 16 hitched from newcastle to get there went for ac dc left obsessed with van halen carefree days
+@user @user @user @user we already knew the media march in ideological lockstep but it is nice of him to show it
+if you havent seen @user from my husband @user catch it on amazon prime starting sept 5th
+pax prime thursday is overloaded for me with @user and nintendo indie events going down also cider :p
+@user um i may or may not have bought the first season on amazon prime and am kind of excitedly freaking out right now
+and lemme tell you why my amazon prime addiction is real i could go to the store to purchase an umbrella but im online delivery tomorrow
+have you heard the news our next meetup is on september 10th with ryan berry of @user rsvp now for free gt
+pet adoptions are 10 this friday @user la thanks to @user @user #upgradeyourworld with a new best friend
+good friday morning this city is changing are you with it #300menmarch @user @user @user america @user @user @user
+fuck it closed the job down early to grab a flight to boston for ac dc concert tomorrow ride the highs of free money yo #lookoutboston
+reddit if you re going to ac dc tomorrow at gillette dont forget your free brady shirt
+did you know our lunch amp learns are now open to the public join us on august 31 with @user from @user
+surprising my mom with ac dc tickets for wednesday just going to show up
+sitting 14th row for ac dc tonight lets go
+having dinner with @user to plan 12th annual ny arab american comedy festival and ac dc walked in but couldnt get a photo
+@user congratulations on the 20th birth anniversary of @user 95 20 years since we ve come to love you amp backward compatibility
+@user planning on ac dc live in moncton coming up sooner than later in montreal on the 31st at the big o
+looks like @user may still be in the handset smartphone business #surfacephone #windows10
+angus youngs cap flew off six songs into ac dcs set on saturday at gillette stadium but the guitarist didnt
+enjoying feasibility workshop replacing #cognos with @user #bi 4th customer in less than a year
+this time tomorrow ac dc will be melting my fucking face off along with 82 000 other faces #acdc #metlife
+as he stared at his monitor the decision to puchase amazon prime was suddenly an easy one for steve sarkisian
+the day sure snaps awake when your 1st tune is back in black by ac dc good wednesday #hr #hrmusicshare #hrpositive
+@user i used amazon prime to get harper a pete the cat shirt : wish she could have it in time for the pete the cat parade tomorrow
+from september 2nd in japan: netflix amazon prime video hulu and all the other streaming services already operating which one to choose
+just turned on my @user radio and got the ronettes followed by ac dc i just might survive thursday if this keeps up
+for sale: one general admission ticket to ac dc at downsview park on september 10th you will have the pleasure of
+when you re sick of waiting for a book to come in from bn so you ask your husband to order it via amazon prime yup getting it saturday
+treat yourself to tablettv this bank holiday order today with amazon prime and you could have it tomorrow
+@user bucket list tour to see ac dc in ottawa thurs a friends first trip to ont hes 52 his bucket list i will webcast ya
+@user @user @user nothing new under the sun history always repeats @user brilliant article thanks
+friday the 13th the series is on amazon prime see you all monday
+i know more about ac dc concerts than angus young probably remembers and im only getting to witness it live on monday i just
+i just found quest for camelot on amazon prime my sunday afternoon is complete
+tonight i spent 20 minutes looking for someone with amazon prime so i could order a ouija board for friday without my mom finding out #adult
+if ac dc has a really successful show on thursday they will get a second show that bumps one of the one direction shows
+entertainment: ac dc rocks the big o monday night 69
+the 1st season of hand of god with @user will be available 9 4 on amazon prime wtg @user loved you in blacklist
+i cant wait to speak at @user #msapc2015 event tomorrow then fly to #nyc for the weekend amp then #inbound15
+@user this is the field at td place as ac dc gets ready to play on thursday @user
+less than 24 hours to make your bid for the live auction of 2 tickets to the ac dc concert this thursday tickets
+@user @user will be presenting on the 4th i will come we talk about some stuff
+if you are a frequent flier you may want to finally get that amazon prime membership via @user #flying #amazon
+is anyone going to ac dc at ford field next tuesday
+young or old rock fan or not you do not wanna miss ac dc tomorrow #supershow
+grocery delivery services instacart and amazon prime now to the test in this does it work wednesday:
+this friday start your labor day weekend with some led zeppelin aerosmith van halen and ac dc lava rock is
+in honour of the big show we ll play nothing but ac dc tonight on our shop sound system then again because of the big show we may not
+theres a couple here the 3rd row from the stage wearing a tux and long white dress for ac dc lol ok
+@user @user good luck to all pitch battlers may the best pitch win
+look @user i found the 1st #snapdragon phone in my stuff from #toshiba and @user still working :
+its cool outside and i ve got ac dc playing inside this is how you adult on a saturday night
+@user can you get me back stage for ac dc on sept 25th
+angela merkel: europe as a whole must help with refugees video via @user #world #news
+thank you to @user for inviting us to join them at the #ibcshow in amsterdam next thursday
+fun week ahead holiday today ac dc concert tomorrow and off to san diego on thursday for the lions opener on sunday #funtimes
+ac dc tomorrow at ford field someone is going to be tired on the second day of 6th grade #butitshisfavoriteband m m
+@user wish you were at midway i would have bought you a beer safe travels eddie on way to detroit for ac dc tomorrow night m
+should you upgrade to @user new os #windows10 lunch and learn in #palmcoast this wednesday sept 9th:
+#producers catch me in dallas sept 12th at the @user event also at @user in #atl for the on the spot beat shopping
+see how cute she is on her day off i spent my day off in my pjs watching the 1st season of survivor on amazon prime
+ac dc with family tomorrow night in detroit rock city lets go
+@user yep ac dc tonight at ford field then on a plane thursday to san diego
+amazon this amazing company sells anything available under the sun including cloud absolute disruption
+i ve just listed this book for sale on amazon this is the 3rd edition revised of a thorough 410 page
+im going to see ac dc with my dad thurs night and i only know thunderstruck bc when i played boys hockey we were thunder aka it was our song
+nice the man in the high castle will be on amazon instant on november 20th
+deal: nexus 6 drops to 349 at best buy too: on friday amazon cut the price of the nexus 6 across the board b
+good news: @user movement will be releasing us in the us vod itunes and amazon from oct 2nd dvd dec 1st all under a new title: amorous
+while software may be eating the world amazon appears to be eating everything amazon prime will soon include free restaurant delivery
+@user nice to meet you on twitter anything amazon travel related you may need we re here :
+yes highly recommend curiosity by amanda get it on google play amazon or other outlets
+@user i ordered it from amazon should have it by friday
+@user @user @user i just ordered several mongoose from amazon they ll be on my doorstep tomorrow morning
+since its free on amazon prime im gonna watch teenage mutant ninja turtles now may the gods have mercy on my soul
+i want this and yes im playing on amazon instead of reading for class tomorrow because my head is spinning
+dont be on amazon prime at night amazon prime is the new home shopping network you mess around amp have 7 blenders at your door on thursday
+cnet update amazon may be cooking up a 50 tablet oh my god welcome back @user i missed you so much
+@user trudi @user you have to put it on your easter list: release date is april 5th 2016 you can preorder on amazon
+amazon #preorder is #live for vivid go pre order your copy and have it on your kindle october 11th amazon us:
+happiness cause amazon just notified me that my bluray version of gotham will be here tomorrow
+omg see you on amazon
+i ll make these available on amazon tomorrow as well
+had this new planner on my wish list on amazon lets just say its on the way and will be here friday :
+@user march i ll check tomorrow to see if its on amazon or netflix :
+roses are red just received its 10th review on amazon double digits :d
+@user i feel you may have a date with amazon today
+i ordered a 64gb nexus 6 from amazon a couple days ago it just shipped and should be here on thursday
+good morning 2nd day of my two day work week and then more travel tomorrow and its apple event day yay
+know what is event more exciting than the apple event today bit fest thursday amp friday
+in an unprecedented move apple is supporting streaming of todays event on a pc with microsoft edge on windows 10
+here you go @user what to expect from apples big event gt gt fallen off the chair with excitment
+@user thems the breaks i may have made more from the fire phone than amazon did
+email from amazon this morning tells me the new @user book will arrive on tuesday looking forward to the #narrative on #science
+@user patch tuesday incorporated 56 fixes for #security #vulnerabilities some with active #exploits insane
+amazon hiring fair: 11 25 hr with a shift differential free transportation benefits september 10th 2015
+goosebumps i always get before an announcement 10am it will be streaming on apples website get ready
+the apple event starts 10 minutes after i get out of chemistry i may be sprinting back to my dorm to catch it in time
+@user you may check with amazon for kindle as its screen is glare free and can be read in sunlight too
+apple fans: todays the day to watch #appleevent starts at 1pm est watch it live at
+cant wait im so happy i can sub on amazon to see it
+we will be live shortly with apples september 9th iphone and more launch starts at 9am pst via @user
+looks like apple exec @user just confirmed we ll be seeing some big screen news today #appleevent
+this chick bid on the 1st showcase bunch of apple products rookie mistake 2d showcase was a trip a tv and a car her face was hilarious
+@user at the same time as the apple event nope test weapons have to wait until tomorrow #destinythegame #apple #appleevent
+as apple goes bigger expensive on tablets i had a nice chat with @user about amazon going smaller cheaper
+rumor has it apple is likely to unveil 3 new iphones at their 9 sep media event iphone 6s iphone 6s plus iphone 6c
+thats what i did with mine i scoured amazon for months and found a deal just like that and snatched it up so fast
+15 minutes until all of the android fanboys goes squealing for the apples september 9th event
+check out our live coverage of the apple event here
+#appleevent is about to start watch apples live stream here:
+apples @user cook gives an update on the projects launched in june #applewatch has gate 97 satisfaction #applelive
+i dont think they d drop the album at the apple event however it may explain them performing at the apple music event in september a
+apples event is streaming in stereo may seem minor but as a audiophile i just love and appreciate this
+@user riches just finished #thegirlwho pt2 wow just wow you got a date for part 3 yet amazon is saying march 16 but ad says october 15
+that may just be the most shocking moment of todays #appleevent @user doing a demo on the new #ipadpro
+[[('does', '@user'), ('@user', 'still'), ('still', 'believe'), ('believe', 'that'), ('that', 'ms'), ('ms', 'angela'), ('angela', 'merkel'), ('merkel', 'is'), ('is', 'the'), ('the', 'real'), ('real', 'leader'), ('leader', 'of'), ('of', 'the'), ('the', 'free'), ('free', 'world'), ('world', 'greeks'), ('greeks', 'may'), ('may', 'disagree')], 'negative']
+[[('by', 'michael'), ('michael', 'nienaber'), ('nienaber', 'berlin'), ('berlin', 'july'), ('july', '10'), ('10', 'reuters'), ('reuters', 'the'), ('the', 'parties'), ('parties', 'in'), ('in', 'angela'), ('angela', 'merkels'), ('merkels', 'coalition'), ('coalition', 'government'), ('government', 'sent'), ('sent', 'conflicting'), ('conflicting', 'signals'), ('signals', 'on'), ('on', 'the'), ('the', 'latest')], 'negative']
+[[('i', 'was'), ('was', 'really'), ('really', 'excited'), ('excited', 'for'), ('for', 'the'), ('the', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'sale'), ('sale', 'but'), ('but', 'everything'), ('everything', 'is'), ('is', 'garbage'), ('garbage', 'better'), ('better', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'my'), ('my', 'butt')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'its'), ('its', 'better'), ('better', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'if'), ('if', 'you'), ('you', 'are'), ('are', 'into'), ('into', 'buying'), ('buying', 'useless'), ('useless', 'crap'), ('crap', 'this'), ('this', 'sale'), ('sale', 'isnt'), ('isnt', 'worth'), ('worth', 'having'), ('having', 'prime'), ('prime', 'at'), ('at', 'all')], 'negative']
+[[('is', 'it'), ('it', 'just'), ('just', 'me'), ('me', 'or'), ('or', 'is'), ('is', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'less'), ('less', 'black'), ('black', 'friday'), ('friday', 'and'), ('and', 'more'), ('more', 'your'), ('your', 'weird'), ('weird', 'neighbors'), ('neighbors', 'garage'), ('garage', 'sale')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'pretty'), ('pretty', 'much'), ('much', 'a'), ('a', 'bust'), ('bust', 'at'), ('at', 'this'), ('this', 'point'), ('point', 'black'), ('black', 'friday'), ('friday', 'its'), ('its', 'up'), ('up', 'to'), ('to', 'you'), ('you', 'to'), ('to', 'save'), ('save', 'us')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day:'), ('day:', 'what'), ('what', 'all'), ('all', 'the'), ('the', 'fuss'), ('fuss', 'is'), ('is', 'about:'), ('about:', 'amazons'), ('amazons', 'prime'), ('prime', 'day'), ('day', 'promised'), ('promised', 'massive'), ('massive', 'deals'), ('deals', 'rivaling'), ('rivaling', 'black'), ('black', 'friday')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'to'), ('to', 'black'), ('black', 'friday'), ('friday', 'as'), ('as', 'a'), ('a', 'root'), ('root', 'canal'), ('canal', 'is'), ('is', 'to'), ('to', 'christmas'), ('christmas', 'day'), ('day', 'the'), ('the', 'hype'), ('hype', 'didnt'), ('didnt', 'live'), ('live', 'up'), ('up', 'to'), ('to', 'the'), ('the', 'delivery')], 'negative']
+[[('where', 'i'), ('i', 'truly'), ('truly', 'believe'), ('believe', 'amazon'), ('amazon', 'failed'), ('failed', 'for'), ('for', 'their'), ('their', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'sale'), ('sale', 'the'), ('the', 'moment'), ('moment', 'they'), ('they', 'claimed'), ('claimed', 'it'), ('it', 'd'), ('d', 'have'), ('have', 'bigger'), ('bigger', 'deals'), ('deals', 'than'), ('than', 'black'), ('black', 'friday')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'beats'), ('beats', 'black'), ('black', 'friday'), ('friday', 'says'), ('says', 'retailer'), ('retailer', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'may'), ('may', 'have'), ('have', 'been'), ('been', 'an'), ('an', 'excuse'), ('excuse', 'for'), ('for', 'the'), ('the', 'retail')], 'negative']
+[[('well', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'kind'), ('kind', 'of'), ('of', 'sucked'), ('sucked', 'didnt'), ('didnt', 'it'), ('it', 'i'), ('i', 'was'), ('was', 'hoping'), ('hoping', 'for'), ('for', 'much'), ('much', 'more'), ('more', 'bigger'), ('bigger', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'huh')], 'negative']
+[[('was', 'the'), ('the', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'a'), ('a', 'big'), ('big', 'hit'), ('hit', 'well'), ('well', 'theres'), ('theres', 'a'), ('a', '#primedayfail'), ('#primedayfail', 'hashtag'), ('hashtag', 'trending'), ('trending', 'at'), ('at', '5'), ('5', 'our'), ('our', '@user'), ('@user', 'reports'), ('reports', 'on'), ('on', 'what'), ('what', 'may'), ('may', 'have'), ('have', 'gone'), ('gone', 'wrong')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'the'), ('the', 'equivalent'), ('equivalent', 'of'), ('of', 'drinking'), ('drinking', 'alone'), ('alone', 'at'), ('at', 'home'), ('home', 'on'), ('on', 'a'), ('a', 'friday'), ('friday', 'night')], 'negative']
+[[('your', 'turn:'), ('turn:', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'was'), ('was', 'supposed'), ('supposed', 'to'), ('to', 'put'), ('put', 'black'), ('black', 'friday'), ('friday', 'shopping'), ('shopping', 'in'), ('in', 'the'), ('the', 'dust'), ('dust', 'but'), ('but', 'many'), ('many', 'say'), ('say', 'its'), ('its', 'a'), ('a', 'garage')], 'negative']
+[[('if', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'better'), ('better', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'then'), ('then', 'im'), ('im', 'going'), ('going', 'to'), ('to', 'sleep'), ('sleep', 'in'), ('in', 'should'), ('should', 'have'), ('have', 'been'), ('been', 'called'), ('called', 'amazon'), ('amazon', 'garage'), ('garage', 'sale'), ('sale', 'day')], 'negative']
+[[('i', 'knew'), ('knew', 'black'), ('black', 'friday'), ('friday', 'black'), ('black', 'friday'), ('friday', 'was'), ('was', 'a'), ('a', 'friend'), ('friend', 'of'), ('of', 'mine'), ('mine', 'and'), ('and', 'you'), ('you', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'are'), ('are', 'no'), ('no', 'black'), ('black', 'friday')], 'negative']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'amazon'), ('amazon', 'scam'), ('scam', 'day'), ('day', 'is'), ('is', 'more'), ('more', 'like'), ('like', 'it'), ('it', 'more'), ('more', 'deals'), ('deals', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'my'), ('my', 'ass')], 'negative']
+[[('angela', 'merkel'), ('merkel', 'explaining'), ('explaining', 'to'), ('to', 'a'), ('a', 'crying'), ('crying', 'child'), ('child', 'that'), ('that', 'germany'), ('germany', 'might'), ('might', 'just'), ('just', 'deport'), ('deport', 'her')], 'negative']
+[[('this', 'has'), ('has', 'just'), ('just', 'brought'), ('brought', 'a'), ('a', 'tear'), ('tear', 'to'), ('to', 'my'), ('my', 'eye:'), ('eye:', 'angela'), ('angela', 'merkel'), ('merkel', 'tells'), ('tells', 'sobbing'), ('sobbing', 'asylum'), ('asylum', 'seeker'), ('seeker', 'why'), ('why', 'she'), ('she', 'cannot'), ('cannot', 'stay'), ('stay', 'in'), ('in', 'germany')], 'negative']
+[[('angela', 'merkel'), ('merkel', 'and'), ('and', 'a'), ('a', 'palestinian'), ('palestinian', 'asylum'), ('asylum', 'seeker:'), ('seeker:', 'get'), ('get', 'civilized'), ('civilized', 'islam'), ('islam', 'stop'), ('stop', 'crowding'), ('crowding', 'our'), ('our', 'world'), ('world', 'with'), ('with', 'your'), ('your', 'barbaric'), ('barbaric', 'ways')], 'negative']
+[[('@user', 'what'), ('what', 'the'), ('the', 'world'), ('world', 'needs'), ('needs', 'is'), ('is', 'for'), ('for', 'angela'), ('angela', 'merkel'), ('merkel', 'to'), ('to', 'kick'), ('kick', 'him'), ('him', 'in'), ('in', 'the'), ('the', 'nuts'), ('nuts', 'the'), ('the', '1st'), ('1st', 'time'), ('time', 'trump'), ('trump', 'calls'), ('calls', 'anyone'), ('anyone', 'around'), ('around', 'the'), ('the', 'g8'), ('g8', 'table'), ('table', 'a'), ('a', 'loser')], 'negative']
+[[('@user', 'ordered'), ('ordered', 'pc'), ('pc', 'parts'), ('parts', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'one'), ('one', 'day'), ('day', 'shipping'), ('shipping', 'havent'), ('havent', 'received'), ('received', 'my'), ('my', 'item'), ('item', 'yet'), ('yet', 'it'), ('it', 'is'), ('is', 'now'), ('now', 'monday'), ('monday', 'very'), ('very', 'dissatisfied')], 'negative']
+[[('angela', 'merkel'), ('merkel', 'to'), ('to', 'run'), ('run', 'for'), ('for', '4th'), ('4th', 'term'), ('term', 'if'), ('if', 'this'), ('this', 'happens'), ('happens', 'in'), ('in', 'africa'), ('africa', 'un'), ('un', 'us'), ('us', 'g7'), ('g7', 'etc'), ('etc', 'will'), ('will', 'be'), ('be', 'planning'), ('planning', 'to'), ('to', 'invade'), ('invade', 'the'), ('the', 'country'), ('country', 'hypocrites'), ('hypocrites', '#africa')], 'negative']
+[[('dear', '@user'), ('@user', 'the'), ('the', 'newooffice'), ('newooffice', 'for'), ('for', 'mac'), ('mac', 'is'), ('is', 'great'), ('great', 'and'), ('and', 'all'), ('all', 'but'), ('but', 'no'), ('no', 'lync'), ('lync', 'update'), ('update', 'c'), ('c', 'mon')], 'negative']
+[[('heads', 'up:'), ('up:', 'an'), ('an', 'important'), ('important', 'change'), ('change', 'to'), ('to', 'amazon'), ('amazon', 'prime'), ('prime', 'effective'), ('effective', 'august'), ('august', '1'), ('1', 'will'), ('will', 'limit'), ('limit', 'how'), ('how', 'you'), ('you', 'can'), ('can', 'share'), ('share', 'free'), ('free', 'p'), ('p', '@user')], 'negative']
+[[('@user', '@user'), ('@user', 'i'), ('i', 'will'), ('will', 'be'), ('be', 'downgrading'), ('downgrading', 'and'), ('and', 'let'), ('let', '#windows10'), ('#windows10', 'be'), ('be', 'out'), ('out', 'for'), ('for', 'almost'), ('almost', 'the'), ('the', '1st'), ('1st', 'yr'), ('yr', 'b4'), ('b4', 'trying'), ('trying', 'it'), ('it', 'again'), ('again', '#windows10fail')], 'negative']
+[[('after', 'attempting'), ('attempting', 'a'), ('a', 'reinstall'), ('reinstall', 'it'), ('it', 'still'), ('still', 'bricks'), ('bricks', 'says'), ('says', 'windows'), ('windows', 'cannot'), ('cannot', 'finish'), ('finish', 'installing'), ('installing', 'or'), ('or', 'somesuch'), ('somesuch', '@user'), ('@user', 'may'), ('may', 'have'), ('have', 'cost'), ('cost', 'me'), ('me', '600')], 'negative']
+[[('did', '@user'), ('@user', 'break'), ('break', 'windows'), ('windows', '10'), ('10', 'was'), ('was', 'working'), ('working', 'fine'), ('fine', 'on'), ('on', 'wednesday'), ('wednesday', 'but'), ('but', 'now'), ('now', 'i'), ('i', 'cant'), ('cant', 'get'), ('get', 'passed'), ('passed', 'the'), ('the', 'login'), ('login', 'screen'), ('screen', 'without'), ('without', 'it'), ('it', 'freezing'), ('freezing', 'up')], 'negative']
+[[('for', 'the'), ('the', '1st'), ('1st', 'time'), ('time', '@user'), ('@user', 'has'), ('has', 'a'), ('a', 'high'), ('high', 'startup'), ('startup', 'impact'), ('impact', 'does'), ('does', 'anyone'), ('anyone', 'at'), ('at', '@user'), ('@user', 'have'), ('have', 'a'), ('a', 'clue'), ('clue', '#windows10fail')], 'negative']
+[[('@user', 'support'), ('support', 'for'), ('for', '365'), ('365', 'has'), ('has', 'been'), ('been', 'terrible'), ('terrible', 'on'), ('on', 'the'), ('the', 'phone'), ('phone', 'for'), ('for', 'an'), ('an', 'hour'), ('hour', 'then'), ('then', 'got'), ('got', 'dropped'), ('dropped', 'so'), ('so', 'far'), ('far', 'not'), ('not', 'worth'), ('worth', 'the'), ('the', 'headache'), ('headache', 'may'), ('may', 'ask'), ('ask', 'for'), ('for', 'refund')], 'negative']
+[[('arriving', 'tuesday'), ('tuesday', 'is'), ('is', 'decidedly'), ('decidedly', 'the'), ('the', 'least'), ('least', 'prime'), ('prime', 'my'), ('my', 'amazon'), ('amazon', 'prime'), ('prime', 'shipping'), ('shipping', 'has'), ('has', 'ever'), ('ever', 'been'), ('been', 'wha'), ('wha', 'happen')], 'negative']
+[[('why', 'would'), ('would', 'anyone'), ('anyone', 'want'), ('want', 'to'), ('to', 'form'), ('form', 'a'), ('a', 'metallica'), ('metallica', 'cover'), ('cover', 'band'), ('band', 'what'), ('what', 'is'), ('is', 'the'), ('the', 'upside'), ('upside', 'one'), ('one', 'day'), ('day', 'if'), ('if', 'they'), ('they', 'are'), ('are', 'lucky'), ('lucky', 'they'), ('they', 'may'), ('may', 'open'), ('open', 'for'), ('for', 'an'), ('an', 'ac'), ('ac', 'dc'), ('dc', 'cover'), ('cover', 'band')], 'negative']
+[[('@user', 'and'), ('and', 'what'), ('what', 'did'), ('did', 'angela'), ('angela', 'merkel'), ('merkel', 'say'), ('say', 'shes'), ('shes', 'going'), ('going', 'for'), ('for', 'a'), ('a', '4th'), ('4th', 'term'), ('term', 'germany'), ('germany', 'is'), ('is', 'going'), ('going', 'to'), ('to', 'the'), ('the', 'dogs'), ('dogs', 'right')], 'negative']
+[[('@user', 'you'), ('you', 'may'), ('may', 'want'), ('want', 'to'), ('to', 'fix'), ('fix', 'this')], 'negative']
+[[('after', '75'), ('75', 'minutes'), ('minutes', 'of'), ('of', 'being'), ('being', 'on'), ('on', 'hold'), ('hold', 'with'), ('with', '@user'), ('@user', 'in'), ('in', 'india'), ('india', '1'), ('1', '800'), ('800', '936'), ('936', '5700'), ('5700', 'adrian'), ('adrian', 'wants'), ('wants', 'to'), ('to', 'transfer'), ('transfer', 'my'), ('my', 'call'), ('call', 'again'), ('again', '3rd'), ('3rd', 'time'), ('time', '#windows10fail')], 'negative']
+[[('migration', 'the'), ('the', 'real'), ('real', 'european'), ('european', 'crisis'), ('crisis', 'angela'), ('angela', 'merkel')], 'negative']
+[[('@user', 'heard'), ('heard', 'you'), ('you', 'are'), ('are', 'a'), ('a', 'software'), ('software', 'company'), ('company', 'why'), ('why', 'then'), ('then', 'is'), ('is', 'most'), ('most', 'of'), ('of', 'your'), ('your', 'software'), ('software', 'so'), ('so', 'bad'), ('bad', 'that'), ('that', 'it'), ('it', 'has'), ('has', 'to'), ('to', 'be'), ('be', 'replaced'), ('replaced', 'by'), ('by', '3rd'), ('3rd', 'party'), ('party', 'apps')], 'negative']
+[[('angela', 'merkel'), ('merkel', 'after'), ('after', '10yrs'), ('10yrs', 'in'), ('in', 'power'), ('power', 'she'), ('she', 'is'), ('is', 'seeking'), ('seeking', 'a'), ('a', '4th'), ('4th', 'term'), ('term', 'let'), ('let', 'just'), ('just', 'imagine'), ('imagine', 'she'), ('she', 'was'), ('was', 'an'), ('an', 'african'), ('african', 'leader')], 'negative']
+[[('@user', '@user'), ('@user', 'daily'), ('daily', 'windows'), ('windows', 'updates'), ('updates', 'suck'), ('suck', 'w'), ('w', 'all'), ('all', 'the'), ('the', 'and'), ('and', 'drones'), ('drones', 'u'), ('u', 'have'), ('have', 'working'), ('working', '4'), ('4', 'u'), ('u', 'maybe'), ('maybe', 'u'), ('u', 'guys'), ('guys', 'could'), ('could', 'get'), ('get', 'it'), ('it', 'right'), ('right', 'the'), ('the', '1st'), ('1st', 'time')], 'negative']
+[[('great', 'my'), ('my', 'cables'), ('cables', 'have'), ('have', 'now'), ('now', 'been'), ('been', 'bumped'), ('bumped', 'from'), ('from', 'being'), ('being', 'delivered'), ('delivered', 'today'), ('today', 'to'), ('to', 'friday'), ('friday', 'thanks'), ('thanks', 'amazon'), ('amazon', 'prime'), ('prime', 'really'), ('really', 'feeling'), ('feeling', 'the'), ('the', 'worth'), ('worth', 'here')], 'negative']
+[[('i', 'thought'), ('thought', '@user'), ('@user', 'was'), ('was', 'retiring'), ('retiring', 'the'), ('the', 'lumia'), ('lumia', 'line'), ('line', 'to'), ('to', 'give'), ('give', 'way'), ('way', 'to'), ('to', 'surface'), ('surface', 'mobile'), ('mobile', 'i'), ('i', 'guess'), ('guess', 'not')], 'negative']
+[[('@user', 'for'), ('for', 'a'), ('a', 'limited'), ('limited', 'time'), ('time', 'what'), ('what', 'about'), ('about', 'an'), ('an', 'eternally'), ('eternally', 'lasting'), ('lasting', 'no'), ('no', 'amp'), ('amp', 'plz'), ('plz', 'shove'), ('shove', 'cortana'), ('cortana', 'where'), ('where', 'the'), ('the', 'sun'), ('sun', 'doesnt'), ('doesnt', 'shine')], 'negative']
+[[('ordered', '3'), ('3', 'amazon'), ('amazon', 'prime'), ('prime', 'items'), ('items', 'yesterday'), ('yesterday', 'one'), ('one', 'will'), ('will', 'arrive'), ('arrive', 'saturday'), ('saturday', '2'), ('2', 'days'), ('days', 'another'), ('another', 'sunday'), ('sunday', '3'), ('3', 'days'), ('days', 'the'), ('the', 'third'), ('third', 'on'), ('on', 'tuesday'), ('tuesday', '5'), ('5', 'days')], 'negative']
+[[('i', 've'), ('ve', 'just'), ('just', 'been'), ('been', 'told'), ('told', 'for'), ('for', 'the'), ('the', '5th'), ('5th', 'time'), ('time', 'that'), ('that', 'my'), ('my', 'case'), ('case', 'number'), ('number', 'will'), ('will', 'be'), ('be', 'escalated'), ('escalated', 'to'), ('to', 'a'), ('a', 'level'), ('level', 'ii'), ('ii', 'tech'), ('tech', 'by'), ('by', '@user'), ('@user', '@user'), ('@user', '@user')], 'negative']
+[[('spending', 'the'), ('the', 'day'), ('day', 'on'), ('on', 'the'), ('the', 'phone'), ('phone', 'with'), ('with', '@user'), ('@user', 'this'), ('this', 'is'), ('is', 'not'), ('not', 'how'), ('how', 'i'), ('i', 'wanted'), ('wanted', 'to'), ('to', 'spend'), ('spend', 'my'), ('my', 'sunday')], 'negative']
+[[('angela', 'merkel'), ('merkel', 'may'), ('may', 'need'), ('need', 'as'), ('as', 'many'), ('many', 'refugees'), ('refugees', 'due'), ('due', 'to'), ('to', 'long'), ('long', 'penises'), ('penises', 'from'), ('from', 'africa'), ('africa', 'to'), ('to', 'record'), ('record', 'movies'), ('movies', 'etc'), ('etc', 'these'), ('these', 'cultures'), ('cultures', 'do'), ('do', 'not'), ('not', 'belong'), ('belong', 'in'), ('in', 'the'), ('the', 'eu')], 'negative']
+[[('@user', '@user'), ('@user', 'for'), ('for', 'the'), ('the', '2nd'), ('2nd', 'time'), ('time', 'i'), ('i', 'have'), ('have', 'been'), ('been', 'charged'), ('charged', 'for'), ('for', 'something'), ('something', 'i'), ('i', 'wasnt'), ('wasnt', 'made'), ('made', 'aware'), ('aware', 'of'), ('of', 'person'), ('person', 'on'), ('on', 'the'), ('the', 'phone'), ('phone', 'didnt'), ('didnt', 'care')], 'negative']
+[[('@user', '@user'), ('@user', 'the'), ('the', 'lumia'), ('lumia', 'cityman'), ('cityman', 'looks'), ('looks', 'terrible'), ('terrible', 'and'), ('and', 'its'), ('its', 'blue'), ('blue', 'not'), ('not', 'cyan'), ('cyan', 'buttons'), ('buttons', 'may'), ('may', 'be'), ('be', 'too'), ('too', 'small'), ('small', '#lumia'), ('#lumia', '730'), ('730', '735'), ('735', 'has'), ('has', 'a'), ('a', 'superior'), ('superior', 'look')], 'negative']
+[[('aftr', 'network'), ('network', 'drop'), ('drop', 'amazon'), ('amazon', 'prime'), ('prime', 'streaming'), ('streaming', 'deal'), ('deal', 'for'), ('for', '2'), ('2', 'more'), ('more', 'years'), ('years', 'make'), ('make', 'the'), ('the', 'show'), ('show', 'unsignable'), ('unsignable', 'for'), ('for', '3rd'), ('3rd', 'season'), ('season', 'by'), ('by', 'anybdy'), ('anybdy', 'but'), ('but', 'amazon')], 'negative']
+[[('@user', 'may'), ('may', 'you'), ('you', 'please'), ('please', 'release'), ('release', 'versions'), ('versions', 'of'), ('of', 'windows'), ('windows', 'when'), ('when', 'its'), ('its', 'stable'), ('stable', 'windows'), ('windows', '10'), ('10', 'is'), ('is', 'no'), ('no', 'where'), ('where', 'near'), ('near', 'stable')], 'negative']
+[[('no', 'diff'), ('diff', 'from'), ('from', '@user'), ('@user', 'with'), ('with', 'bitlocker'), ('bitlocker', 'at'), ('at', 'some'), ('some', 'point'), ('point', 'platforms'), ('platforms', 'should'), ('should', 'provide'), ('provide', 'data'), ('data', 'at'), ('at', 'rest'), ('rest', 'encryption'), ('encryption', 'built'), ('built', 'in')], 'negative']
+[[('may', 'be'), ('be', 'get'), ('get', '@user'), ('@user', 'to'), ('to', 'do'), ('do', 'us'), ('us', 'all'), ('all', 'a'), ('a', 'favour'), ('favour', 'and'), ('and', 'sink'), ('sink', 'the'), ('the', 'thing'), ('thing', 'with'), ('with', 'a'), ('a', 'gunboat'), ('gunboat', 'leave'), ('leave', 'angela'), ('angela', 'merkel')], 'negative']
+[[('why', 'does'), ('does', '@user'), ('@user', 'make'), ('make', 'it'), ('it', 'so'), ('so', 'hard'), ('hard', 'to'), ('to', 'reset'), ('reset', 'my'), ('my', '@user'), ('@user', 'password'), ('password', 'ridiculous'), ('ridiculous', 'still'), ('still', 'not'), ('not', 'sure'), ('sure', 'why'), ('why', 'password'), ('password', 'stopped'), ('stopped', 'working'), ('working', 'in'), ('in', 'the'), ('the', '1st'), ('1st', 'place')], 'negative']
+[[('and', '@user'), ('@user', 'mail'), ('mail', 'calendar'), ('calendar', 'music'), ('music', 'and'), ('and', 'video'), ('video', 'apps'), ('apps', 'have'), ('have', 'been'), ('been', 'rewritten'), ('rewritten', 'for'), ('for', 'the'), ('the', 'third'), ('third', 'time'), ('time', 'in'), ('in', 'four'), ('four', 'years')], 'negative']
+[[('@user', 'rfkennedy'), ('rfkennedy', '@user'), ('@user', 'why'), ('why', 'nobody'), ('nobody', 'have'), ('have', 'ever'), ('ever', 'said'), ('said', 'it'), ('it', 'about'), ('about', 'any'), ('any', 'country'), ('country', 'outside'), ('outside', 'africa'), ('africa', ':'), (':', 'why'), ('why', 'angela'), ('angela', 'merkel'), ('merkel', 'ran'), ('ran', 'again'), ('again', 'for'), ('for', 'a'), ('a', '3rd'), ('3rd', 'term')], 'negative']
+[[('@user', 'seems'), ('seems', 'like'), ('like', '@user'), ('@user', 'may'), ('may', 'have'), ('have', 'bit'), ('bit', 'off'), ('off', 'more'), ('more', 'than'), ('than', 'they'), ('they', 'could'), ('could', 'chew'), ('chew', 'with'), ('with', 'the'), ('the', 'state'), ('state', 'of'), ('of', 'w10'), ('w10', 'mobile'), ('mobile', 'and'), ('and', 'core'), ('core', 'apps'), ('apps', 'on'), ('on', 'mobile'), ('mobile', 'amp'), ('amp', 'pc')], 'negative']
+[[('hey', '@user'), ('@user', 'fuck'), ('fuck', 'you'), ('you', 'i'), ('i', 'dont'), ('dont', 'have'), ('have', 'internet'), ('internet', 'until'), ('until', 'thursday'), ('thursday', 'and'), ('and', 'my'), ('my', 'xbox'), ('xbox', 'one'), ('one', 'wont'), ('wont', 'even'), ('even', 'let'), ('let', 'me'), ('me', 'sign'), ('sign', 'onto'), ('onto', 'my'), ('my', 'account'), ('account', 'offline')], 'negative']
+[[('@user', '@user'), ('@user', '3rd'), ('3rd', 'time'), ('time', 'my'), ('my', 'lumia'), ('lumia', 'handset'), ('handset', 'submitted'), ('submitted', 'in'), ('in', 'service'), ('service', 'centre'), ('centre', 'in'), ('in', 'last'), ('last', '8'), ('8', 'months'), ('months', 'no'), ('no', 'one'), ('one', 'is'), ('is', 'looking'), ('looking', 'into'), ('into', 'it'), ('it', 'need'), ('need', 'replacement'), ('replacement', 'of'), ('of', 'my'), ('my', '930')], 'negative']
+[[('angela', 'merkel'), ('merkel', 'says'), ('says', 'border'), ('border', 'controls'), ('controls', 'may'), ('may', 'have'), ('have', 'to'), ('to', 'be'), ('be', 'restored'), ('restored', 'its'), ('its', 'a'), ('a', 'pity'), ('pity', 'she'), ('she', 'didnt'), ('didnt', 'listen'), ('listen', 'before'), ('before', 'it'), ('it', 'was'), ('was', 'too'), ('too', 'late')], 'negative']
+[[('a', 'little'), ('little', 'worried'), ('worried', 'about'), ('about', 'amazon'), ('amazon', 'the'), ('the', 'collection'), ('collection', 'was'), ('was', 'meant'), ('meant', 'to'), ('to', 'go'), ('go', 'up'), ('up', 'on'), ('on', 'saturday'), ('saturday', 'but'), ('but', 'is'), ('is', 'still'), ('still', 'not'), ('not', 'available')], 'negative']
+[[('may', 'all'), ('all', 'the'), ('the', 'items'), ('items', 'saved'), ('saved', 'for'), ('for', 'later'), ('later', 'in'), ('in', 'your'), ('your', 'amazon'), ('amazon', 'basket'), ('basket', 'increase'), ('increase', 'in'), ('in', 'price'), ('price', '#moderncurses')], 'negative']
+[[('ordered', 'my'), ('my', 'back'), ('back', 'pack'), ('pack', 'off'), ('off', 'of'), ('of', 'amazon'), ('amazon', '3'), ('3', 'weeks'), ('weeks', 'ago'), ('ago', 'and'), ('and', 'it'), ('it', 'turns'), ('turns', 'out'), ('out', 'they'), ('they', 'lost'), ('lost', 'my'), ('my', 'package'), ('package', 'and'), ('and', 'school'), ('school', 'starts'), ('starts', 'tomorrow'), ('tomorrow', '#sick')], 'negative']
+[[('@user', '#lumia'), ('#lumia', '@user'), ('@user', '2nd'), ('2nd', 'you'), ('you', 'guys'), ('guys', 'havent'), ('havent', 'released'), ('released', 'a'), ('a', 'lumia'), ('lumia', 'that'), ('that', 'has'), ('has', 'a'), ('a', 'qhd'), ('qhd', 'screen'), ('screen', 'or'), ('or', 'takes'), ('takes', 'video'), ('video', 'in'), ('in', '2k'), ('2k', 'resolution'), ('resolution', 'yet')], 'negative']
+[[('@user', 'omg'), ('omg', 'i'), ('i', 'cant'), ('cant', 'use'), ('use', 'my'), ('my', 'credit'), ('credit', 'card'), ('card', 'reward'), ('reward', 'points'), ('points', 'on'), ('on', 'preorders'), ('preorders', 'and'), ('and', 'its'), ('its', 'not'), ('not', 'available'), ('available', 'on'), ('on', 'amazon'), ('amazon', 'until'), ('until', 'the'), ('the', '18th'), ('18th', 'can'), ('can', 'u'), ('u', 'wait')], 'negative']
+[[('author:', 'if'), ('if', 'i'), ('i', 've'), ('ve', 'ever'), ('ever', 'reviewed'), ('reviewed', 'your'), ('your', 'book'), ('book', 'grab'), ('grab', 'a'), ('a', 'screen'), ('screen', 'cap'), ('cap', 'now'), ('now', 'amazon'), ('amazon', 'may'), ('may', 'pull'), ('pull', 'it'), ('it', 'down')], 'negative']
+[[('damnit', 'amazon'), ('amazon', 'when'), ('when', 'you'), ('you', 'say'), ('say', 'you'), ('you', 're'), ('re', 'going'), ('going', 'to'), ('to', 'ship'), ('ship', 'something'), ('something', 'on'), ('on', 'the'), ('the', '8th'), ('8th', 'i'), ('i', 'expect'), ('expect', 'it'), ('it', 'to'), ('to', 'ship'), ('ship', 'on'), ('on', 'the'), ('the', '8th')], 'negative']
+[[('@user', 'jelly'), ('jelly', 'mine'), ('mine', 'wont'), ('wont', 'be'), ('be', 'here'), ('here', 'until'), ('until', 'friday'), ('friday', 'because'), ('because', 'amazon'), ('amazon', 'are'), ('are', 'tight'), ('tight', 'with'), ('with', 'shipping'), ('shipping', 'dates'), ('dates', ':')], 'negative']
+[[('@user', 'this'), ('this', 'is'), ('is', 'the'), ('the', 'exact'), ('exact', 'reason'), ('reason', 'why'), ('why', 'i'), ('i', 'dont'), ('dont', 'preorder'), ('preorder', 'friday'), ('friday', 'releases'), ('releases', 'from'), ('from', 'amazon'), ('amazon', 'they'), ('they', 'always'), ('always', 'push'), ('push', 'it'), ('it', 'back'), ('back', 'to'), ('to', 'the'), ('the', 'monday'), ('monday', 'delivery')], 'negative']
+[[('if', 'its'), ('its', 'u2'), ('u2', 'im'), ('im', 'breaking'), ('breaking', 'all'), ('all', 'my'), ('my', 'apple'), ('apple', 'devices')], 'negative']
+[[('i', 'feel'), ('feel', 'like'), ('like', 'i'), ('i', 'll'), ('ll', 'lose'), ('lose', 'whatever'), ('whatever', 'cool'), ('cool', 'person'), ('person', 'creds'), ('creds', 'i'), ('i', 'may'), ('may', 'have'), ('have', 'had'), ('had', 'by'), ('by', 'saying'), ('saying', 'this'), ('this', 'but'), ('but', 'i'), ('i', 'honestly'), ('honestly', 'dont'), ('dont', 'care'), ('care', 'about'), ('about', 'the'), ('the', 'apple'), ('apple', 'event'), ('event', 'today')], 'negative']
+[[('amazon', 'rainforest:'), ('rainforest:', 'lungs'), ('lungs', 'of'), ('of', 'the'), ('the', 'world'), ('world', 'has'), ('has', 'lost'), ('lost', 'a'), ('a', '10th'), ('10th', 'of'), ('of', 'its'), ('its', 'trees'), ('trees', 'in'), ('in', '5'), ('5', 'decades')], 'negative']
+[[('oddly', 'the'), ('the', 'apple'), ('apple', 'event'), ('event', 'will'), ('will', 'stream'), ('stream', 'to'), ('to', 'a'), ('a', 'edge'), ('edge', 'browser'), ('browser', 'but'), ('but', 'not'), ('not', 'to'), ('to', 'chrome')], 'negative']
+[[('this', 'is'), ('is', 'even'), ('even', 'more'), ('more', 'depressing'), ('depressing', 'than'), ('than', 'the'), ('the', 'apple'), ('apple', 'event')], 'negative']
+[[('for', 'any'), ('any', 'amazon'), ('amazon', 'prime'), ('prime', 'members'), ('members', 'today'), ('today', 'is'), ('is', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'which'), ('which', 'is'), ('is', 'said'), ('said', 'to'), ('to', 'be'), ('be', 'bigger'), ('bigger', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'if'), ('if', 'you'), ('you', 'are')], 'positive']
+[[('shop', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'with'), ('with', 'us'), ('us', 'more'), ('more', 'deals'), ('deals', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'and'), ('and', '7'), ('7', 'goes'), ('goes', 'back'), ('back', 'to'), ('to', 'patients')], 'positive']
+[[('its', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'using'), ('using', 'the'), ('the', 'autism'), ('autism', 'sprinter'), ('sprinter', 'link'), ('link', 'its'), ('its', 'a'), ('a', 'new'), ('new', 'as'), ('as', 'good'), ('good', 'as'), ('as', 'getting'), ('getting', 'deals'), ('deals', 'on'), ('on', 'a'), ('a', 'black'), ('black', 'friday')], 'positive']
+[[('amazon', 'says'), ('says', 'its'), ('its', 'offering'), ('offering', 'more'), ('more', 'deals'), ('deals', 'today'), ('today', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', '8'), ('8', 'tips'), ('tips', 'for'), ('for', 'taking'), ('taking', 'advantage'), ('advantage', 'of'), ('of', 'amazon'), ('amazon', 'prime'), ('prime', 'day:')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'here'), ('here', 'more'), ('more', 'deals'), ('deals', 'that'), ('that', 'black'), ('black', 'friday'), ('friday', 'check'), ('check', 'it'), ('it', 'out')], 'positive']
+[[('its', '#wishlist'), ('#wishlist', 'wednesday'), ('wednesday', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'in'), ('in', 'full'), ('full', 'force'), ('force', 'and'), ('and', 'cnet'), ('cnet', 'is'), ('is', 'keeping'), ('keeping', 'an'), ('an', 'updated'), ('updated', 'list'), ('list', 'of'), ('of', 'the'), ('the', 'best'), ('best', 'deals')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'today'), ('today', 'more'), ('more', 'deals'), ('deals', 'than'), ('than', 'black'), ('black', 'friday'), ('friday', 'eligible'), ('eligible', '#amazonsmile'), ('#amazonsmile', 'purchases'), ('purchases', 'earns'), ('earns', 'us'), ('us', '0'), ('0', '5'), ('5', 'when'), ('when', 'you'), ('you', 'shop')], 'positive']
+[[('tomorrow', 'is'), ('is', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'free'), ('free', '30'), ('30', 'day'), ('day', 'trial'), ('trial', 'to'), ('to', 'take'), ('take', 'advantage'), ('advantage', 'of'), ('of', 'all'), ('all', 'the'), ('the', 'sales'), ('sales', 'tomorrow')], 'positive']
+[[('check', 'out:'), ('out:', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'just'), ('just', 'outsold'), ('outsold', 'black'), ('black', 'friday')], 'positive']
+[[('#theverge', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'taking'), ('taking', 'over'), ('over', 'black'), ('black', 'friday:'), ('friday:', 'amazon'), ('amazon', 'has'), ('has', 'created'), ('created', 'its'), ('its', 'own'), ('own', 'holiday'), ('holiday', 'the'), ('the', 'company'), ('company', 'just'), ('just', 'a')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'is'), ('is', 'here'), ('here', 'members'), ('members', 'can'), ('can', 'get'), ('get', 'some'), ('some', 'amazing'), ('amazing', 'deals'), ('deals', 'today'), ('today', 'just'), ('just', 'like'), ('like', 'black'), ('black', 'friday'), ('friday', 'please'), ('please', 'consider'), ('consider', 'our')], 'positive']
+[[('if', 'you'), ('you', 'are'), ('are', 'one'), ('one', 'of'), ('of', 'the'), ('the', 'many'), ('many', 'shoppers'), ('shoppers', 'out'), ('out', 'there'), ('there', 'wanting'), ('wanting', 'to'), ('to', 'take'), ('take', 'advantage'), ('advantage', 'of'), ('of', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'today'), ('today', 'july'), ('july', '15')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'may'), ('may', 'be'), ('be', 'over'), ('over', 'but'), ('but', 'you'), ('you', 'can'), ('can', 'still'), ('still', 'get'), ('get', 'a'), ('a', 'great'), ('great', 'deal'), ('deal', 'on'), ('on', 'this'), ('this', 'faa'), ('faa', 'approved'), ('approved', 'airplane'), ('airplane', 'seat'), ('seat', 'belt'), ('belt', 'extender')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day:'), ('day:', '34'), ('34', '4'), ('4', 'million'), ('million', 'items'), ('items', 'ordered'), ('ordered', 'breaking'), ('breaking', 'all'), ('all', 'black'), ('black', 'friday'), ('friday', 'records'), ('records', 'with'), ('with', '398'), ('398', 'items'), ('items', 'ordered'), ('ordered', 'per'), ('per', 'second')], 'positive']
+[[('have', 'you'), ('you', 'heard'), ('heard', 'about'), ('about', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'dont'), ('dont', 'miss'), ('miss', 'it'), ('it', 'july'), ('july', '15th'), ('15th', 'yay'), ('yay', '#ad'), ('#ad', '#prepforprime'), ('#prepforprime', '@user'), ('@user', '#happyprimeday')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'broke'), ('broke', 'sales'), ('sales', 'records'), ('records', 'exceeding'), ('exceeding', 'black'), ('black', 'friday'), ('friday', '2014'), ('2014', 'sales'), ('sales', 'which'), ('which', 'had'), ('had', 'been'), ('been', 'the'), ('the', 'biggest'), ('biggest', 'black'), ('black', 'friday'), ('friday', 'to'), ('to', 'date'), ('date', 'says'), ('says', 'amazon')], 'positive']
+[[('despite', 'all'), ('all', 'the'), ('the', 'funny'), ('funny', 'posts'), ('posts', 'about'), ('about', 'lack'), ('lack', 'of'), ('of', 'discounts'), ('discounts', 'amazon'), ('amazon', 'prime'), ('prime', 'day'), ('day', 'sales'), ('sales', 'beat'), ('beat', 'black'), ('black', 'friday')], 'positive']
+[[('amazon', 'prime'), ('prime', 'day'), ('day', 'tops'), ('tops', 'biggest'), ('biggest', 'black'), ('black', 'friday'), ('friday', 'for'), ('for', 'the'), ('the', 'company:'), ('company:', 'amazons'), ('amazons', 'first'), ('first', 'prime'), ('prime', 'da')], 'positive']
+[[('angela', 'merkel'), ('merkel', 'is'), ('is', 'a'), ('a', 'true'), ('true', 'leader'), ('leader', 'she'), ('she', 'has'), ('has', 'to'), ('to', 'tell'), ('tell', 'a'), ('a', '14yr'), ('14yr', 'girl'), ('girl', 'she'), ('she', 'cant'), ('cant', 'have'), ('have', 'everyone'), ('everyone', 'stay'), ('stay', 'in'), ('in', 'germany')], 'positive']
+[[('10', 'best'), ('best', 'apps'), ('apps', 'for'), ('for', 'the'), ('the', 'apple'), ('apple', 'watch'), ('watch', 'that'), ('that', 'may'), ('may', 'make'), ('make', 'you'), ('you', 'crave'), ('crave', 'one'), ('one', '#applewatch')], 'positive']
+[[('apple', 'watch'), ('watch', 'now'), ('now', 'works'), ('works', 'with'), ('with', 'august'), ('august', 's'), ('s', 'designer'), ('designer', 'smart'), ('smart', 'lock'), ('lock', '#charlesmilander')], 'positive']
+[[('good', 'to'), ('to', 'see'), ('see', '@user'), ('@user', 'new'), ('new', 'book'), ('book', 'available'), ('available', 'in'), ('in', 'hard'), ('hard', 'copy'), ('copy', 'amazon'), ('amazon', 'prime'), ('prime', 'bringing'), ('bringing', 'it'), ('it', 'tomorrow')], 'positive']
+[[('i', 'have'), ('have', 'discovered'), ('discovered', 'that'), ('that', 'bobbys'), ('bobbys', 'world'), ('world', 'has'), ('has', 'unlimited'), ('unlimited', 'streaming'), ('streaming', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'i'), ('i', 'may'), ('may', 'or'), ('or', 'may'), ('may', 'not'), ('not', 'be'), ('be', 'watching'), ('watching', 'it'), ('it', 'while'), ('while', 'im'), ('im', 'on'), ('on', 'the'), ('the', 'bike')], 'positive']
+[[('hammond', 'clarkson'), ('clarkson', 'and'), ('and', 'may'), ('may', 'have'), ('have', 'signed'), ('signed', 'with'), ('with', 'amazon'), ('amazon', 'prime'), ('prime', 'via'), ('via', '@user'), ('@user', '#amazonprime'), ('#amazonprime', '#hammond'), ('#hammond', '#clarkson'), ('#clarkson', '#may')], 'positive']
+[[('amazon', 'prime'), ('prime', 'summary:'), ('summary:', 'great'), ('great', 'if'), ('if', 'you'), ('you', 'order'), ('order', 'loads'), ('loads', 'of'), ('of', 'stuff'), ('stuff', 'sunday'), ('sunday', 'delivery'), ('delivery', 'home'), ('home', 'essentials'), ('essentials', 'with'), ('with', 'now'), ('now', 'prime'), ('prime', 'video'), ('video', 'is'), ('is', 'a'), ('a', 'nice'), ('nice', 'bonus')], 'positive']
+[[('anyone', 'seen'), ('seen', 'these'), ('these', 'just'), ('just', 'stumbled'), ('stumbled', 'across'), ('across', 'them'), ('them', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'looks'), ('looks', 'like'), ('like', 'i'), ('i', 'may'), ('may', 'have'), ('have', 'just'), ('just', 'planned'), ('planned', 'out'), ('out', 'my'), ('my', 'friday'), ('friday', 'night')], 'positive']
+[[('thought', 'bbc'), ('bbc', 'lost'), ('lost', '@user'), ('@user', 'street'), ('street', 'to'), ('to', 'amazon'), ('amazon', 'prime'), ('prime', 'but'), ('but', 'delighted'), ('delighted', 'to'), ('to', 'see'), ('see', 'it'), ('it', 'back'), ('back', 'on'), ('on', 'tv'), ('tv', 'for'), ('for', '3rd'), ('3rd', 'series'), ('series', 'period'), ('period', 'detective'), ('detective', 'drama'), ('drama', 'at'), ('at', 'its'), ('its', 'best')], 'positive']
+[[('amazon', 'prime'), ('prime', 'is'), ('is', 'pretty'), ('pretty', 'nice'), ('nice', ':d'), (':d', 'ordered'), ('ordered', 'my'), ('my', 'cousins'), ('cousins', 'bday'), ('bday', 'presents'), ('presents', 'friday'), ('friday', 'and'), ('and', 'they'), ('they', 're'), ('re', 'already'), ('already', 'in'), ('in', 'the'), ('the', 'nearest'), ('nearest', 'usps'), ('usps', 'location')], 'positive']
+[[('innovation', 'for'), ('for', 'jobs'), ('jobs', 'is'), ('is', 'just'), ('just', 'around'), ('around', 'the'), ('the', 'corner'), ('corner', 'to'), ('to', 'be'), ('be', 'exact'), ('exact', 'next'), ('next', 'wednesday'), ('wednesday', '8'), ('8', '19'), ('19', 'at'), ('at', '@user')], 'positive']
+[[('ahhhhh', 'im'), ('im', 'getting'), ('getting', 'a'), ('a', 'turntable'), ('turntable', 'tomorrow'), ('tomorrow', 'shouts'), ('shouts', 'to'), ('to', 'amazon'), ('amazon', 'prime'), ('prime', 'one'), ('one', 'day'), ('day', 'shipping')], 'positive']
+[[('@user', 'will'), ('will', 'do'), ('do', 'hope'), ('hope', 'you'), ('you', 'll'), ('ll', 'check'), ('check', 'out'), ('out', 'my'), ('my', '1st'), ('1st', 'feature'), ('feature', '@user'), ('@user', 'on'), ('on', 'itunes'), ('itunes', 'and'), ('and', 'amazon'), ('amazon', 'prime')], 'positive']
+[[('top', '5'), ('5', 'most'), ('most', 'searched'), ('searched', 'for'), ('for', 'back'), ('back', 'to'), ('to', 'school'), ('school', 'topics'), ('topics', 'the'), ('the', 'list'), ('list', 'may'), ('may', 'surprise'), ('surprise', 'you'), ('you', '@user'), ('@user', '@user'), ('@user', '#backtoschool'), ('#backtoschool', '@user')], 'positive']
+[[('just', 'in'), ('in', 'time'), ('time', 'since'), ('since', 'we'), ('we', 'are'), ('are', 'almost'), ('almost', 'done'), ('done', 'with'), ('with', 'the'), ('the', 'justified'), ('justified', 'series'), ('series', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'lt'), ('lt', 'g'), ('g', 'gt')], 'positive']
+[[('@user', 'we'), ('we', 'have'), ('have', 'an'), ('an', 'iot'), ('iot', 'workshop'), ('workshop', 'by'), ('by', '@user'), ('@user', 'at'), ('at', '11pm'), ('11pm', 'on'), ('on', 'the'), ('the', 'friday'), ('friday', 'definitely'), ('definitely', 'worth'), ('worth', 'going'), ('going', 'for'), ('for', 'inspiration'), ('inspiration', '#hacktheplanet')], 'positive']
+[[('this', 'just'), ('just', 'in'), ('in', 'new'), ('new', 'car'), ('car', 'show'), ('show', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'to'), ('to', 'be'), ('be', 'called'), ('called', '2nd'), ('2nd', 'gear'), ('gear', 'cheers'), ('cheers', 'to'), ('to', '@user'), ('@user', 'and'), ('and', 'company')], 'positive']
+[[('cant', 'beat'), ('beat', 'it'), ('it', 'friday'), ('friday', 'night'), ('night', 'no'), ('no', 'kids'), ('kids', 'a'), ('a', 'few'), ('few', 'beers'), ('beers', 'listening'), ('listening', 'to'), ('to', 'taylor'), ('taylor', 'swift'), ('swift', 'no'), ('no', 'wait'), ('wait', 'i'), ('i', 'meant'), ('meant', 'ac'), ('ac', 'dc'), ('dc', 'motorhead')], 'positive']
+[[('@user', 'yes'), ('yes', 'i'), ('i', 'll'), ('ll', 'be'), ('be', 'there'), ('there', 'also'), ('also', 'have'), ('have', 'ac'), ('ac', 'dc'), ('dc', 'on'), ('on', 'the'), ('the', '26th'), ('26th', 'and'), ('and', 'buckcherry'), ('buckcherry', 'at'), ('at', 'starland'), ('starland', 'on'), ('on', 'the'), ('the', '28th'), ('28th', 'before'), ('before', 'the'), ('the', 'carney')], 'positive']
+[[('this', 'is'), ('is', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'cant'), ('cant', 'wait'), ('wait', 'to'), ('to', 'see'), ('see', 'it'), ('it', 'tomorrow')], 'positive']
+[[('going', 'from'), ('from', 'ac'), ('ac', 'dc'), ('dc', 'to'), ('to', 'abba'), ('abba', 'and'), ('and', 'back'), ('back', 'again'), ('again', 'is'), ('is', 'quite'), ('quite', 'the'), ('the', 'mind'), ('mind', 'fuck'), ('fuck', 'on'), ('on', 'a'), ('a', 'saturday'), ('saturday', 'morning'), ('morning', 'thank'), ('thank', 'goodness'), ('goodness', 'i'), ('i', 'can'), ('can', 'handle'), ('handle', 'it'), ('it', '@user')], 'positive']
+[[('@user', 'love'), ('love', 'amazon'), ('amazon', 'prime'), ('prime', 'just'), ('just', 'placed'), ('placed', 'an'), ('an', 'order'), ('order', 'and'), ('and', 'it'), ('it', 'will'), ('will', 'be'), ('be', 'here'), ('here', 'by'), ('by', 'lunchtime'), ('lunchtime', 'tomorrow'), ('tomorrow', 'great'), ('great', 'for'), ('for', 'impatient'), ('impatient', 'shoppers'), ('shoppers', 'like'), ('like', 'me')], 'positive']
+[[('thanks', 'to'), ('to', 'amazon'), ('amazon', 'prime'), ('prime', 'i'), ('i', 'have'), ('have', 'a'), ('a', 'new'), ('new', 'phone'), ('phone', 'case'), ('case', 'coming'), ('coming', 'tomorrow'), ('tomorrow', 'i'), ('i', 'dont'), ('dont', 'want'), ('want', 'to'), ('to', 'do'), ('do', 'what'), ('what', 'my'), ('my', 'momma'), ('momma', 'did'), ('did', 'and'), ('and', 'drop'), ('drop', 'it'), ('it', 'and'), ('and', 'smash'), ('smash', 'the'), ('the', 'screen')], 'positive']
+[[('hello', 'lovelies'), ('lovelies', 'again'), ('again', 'super'), ('super', 'sunday'), ('sunday', 'thai'), ('thai', 'food'), ('food', 'ac'), ('ac', 'dc'), ('dc', 'raunchy'), ('raunchy', 'dancing'), ('dancing', 'during'), ('during', 'warm'), ('warm', 'up'), ('up', 'you'), ('you', 'lot'), ('lot', 'and'), ('and', 'the'), ('the', 'boys'), ('boys', 'more'), ('more', 'season'), ('season', '1'), ('1', 'im'), ('im', 'a'), ('a', 'lucky'), ('lucky', 'woman')], 'positive']
+[[('carly', 'fiorina'), ('fiorina', 'may'), ('may', 'very'), ('very', 'well'), ('well', 'be'), ('be', 'the'), ('the', 'smartest'), ('smartest', 'woman'), ('woman', 'in'), ('in', 'the'), ('the', 'world'), ('world', 'next'), ('next', 'to'), ('to', 'angela'), ('angela', 'merkel'), ('merkel', 'that'), ('that', 'is')], 'positive']
+[[('@user', 'saiten'), ('saiten', 'thats'), ('thats', 'a'), ('a', 'great'), ('great', 'movie'), ('movie', 'its'), ('its', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'too'), ('too', 'i'), ('i', 'watched'), ('watched', 'it'), ('it', 'for'), ('for', '3rd'), ('3rd', 'time'), ('time', 'last'), ('last', 'night')], 'positive']
+[[('just', 'turned'), ('turned', '16'), ('16', 'hitched'), ('hitched', 'from'), ('from', 'newcastle'), ('newcastle', 'to'), ('to', 'get'), ('get', 'there'), ('there', 'went'), ('went', 'for'), ('for', 'ac'), ('ac', 'dc'), ('dc', 'left'), ('left', 'obsessed'), ('obsessed', 'with'), ('with', 'van'), ('van', 'halen'), ('halen', 'carefree'), ('carefree', 'days')], 'positive']
+[[('@user', '@user'), ('@user', '@user'), ('@user', '@user'), ('@user', 'we'), ('we', 'already'), ('already', 'knew'), ('knew', 'the'), ('the', 'media'), ('media', 'march'), ('march', 'in'), ('in', 'ideological'), ('ideological', 'lockstep'), ('lockstep', 'but'), ('but', 'it'), ('it', 'is'), ('is', 'nice'), ('nice', 'of'), ('of', 'him'), ('him', 'to'), ('to', 'show'), ('show', 'it')], 'positive']
+[[('if', 'you'), ('you', 'havent'), ('havent', 'seen'), ('seen', '@user'), ('@user', 'from'), ('from', 'my'), ('my', 'husband'), ('husband', '@user'), ('@user', 'catch'), ('catch', 'it'), ('it', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'starting'), ('starting', 'sept'), ('sept', '5th')], 'positive']
+[[('pax', 'prime'), ('prime', 'thursday'), ('thursday', 'is'), ('is', 'overloaded'), ('overloaded', 'for'), ('for', 'me'), ('me', 'with'), ('with', '@user'), ('@user', 'and'), ('and', 'nintendo'), ('nintendo', 'indie'), ('indie', 'events'), ('events', 'going'), ('going', 'down'), ('down', 'also'), ('also', 'cider'), ('cider', ':p')], 'positive']
+[[('@user', 'um'), ('um', 'i'), ('i', 'may'), ('may', 'or'), ('or', 'may'), ('may', 'not'), ('not', 'have'), ('have', 'bought'), ('bought', 'the'), ('the', 'first'), ('first', 'season'), ('season', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'and'), ('and', 'am'), ('am', 'kind'), ('kind', 'of'), ('of', 'excitedly'), ('excitedly', 'freaking'), ('freaking', 'out'), ('out', 'right'), ('right', 'now')], 'positive']
+[[('and', 'lemme'), ('lemme', 'tell'), ('tell', 'you'), ('you', 'why'), ('why', 'my'), ('my', 'amazon'), ('amazon', 'prime'), ('prime', 'addiction'), ('addiction', 'is'), ('is', 'real'), ('real', 'i'), ('i', 'could'), ('could', 'go'), ('go', 'to'), ('to', 'the'), ('the', 'store'), ('store', 'to'), ('to', 'purchase'), ('purchase', 'an'), ('an', 'umbrella'), ('umbrella', 'but'), ('but', 'im'), ('im', 'online'), ('online', 'delivery'), ('delivery', 'tomorrow')], 'positive']
+[[('have', 'you'), ('you', 'heard'), ('heard', 'the'), ('the', 'news'), ('news', 'our'), ('our', 'next'), ('next', 'meetup'), ('meetup', 'is'), ('is', 'on'), ('on', 'september'), ('september', '10th'), ('10th', 'with'), ('with', 'ryan'), ('ryan', 'berry'), ('berry', 'of'), ('of', '@user'), ('@user', 'rsvp'), ('rsvp', 'now'), ('now', 'for'), ('for', 'free'), ('free', 'gt')], 'positive']
+[[('pet', 'adoptions'), ('adoptions', 'are'), ('are', '10'), ('10', 'this'), ('this', 'friday'), ('friday', '@user'), ('@user', 'la'), ('la', 'thanks'), ('thanks', 'to'), ('to', '@user'), ('@user', '@user'), ('@user', '#upgradeyourworld'), ('#upgradeyourworld', 'with'), ('with', 'a'), ('a', 'new'), ('new', 'best'), ('best', 'friend')], 'positive']
+[[('good', 'friday'), ('friday', 'morning'), ('morning', 'this'), ('this', 'city'), ('city', 'is'), ('is', 'changing'), ('changing', 'are'), ('are', 'you'), ('you', 'with'), ('with', 'it'), ('it', '#300menmarch'), ('#300menmarch', '@user'), ('@user', '@user'), ('@user', '@user'), ('@user', 'america'), ('america', '@user'), ('@user', '@user'), ('@user', '@user')], 'positive']
+[[('fuck', 'it'), ('it', 'closed'), ('closed', 'the'), ('the', 'job'), ('job', 'down'), ('down', 'early'), ('early', 'to'), ('to', 'grab'), ('grab', 'a'), ('a', 'flight'), ('flight', 'to'), ('to', 'boston'), ('boston', 'for'), ('for', 'ac'), ('ac', 'dc'), ('dc', 'concert'), ('concert', 'tomorrow'), ('tomorrow', 'ride'), ('ride', 'the'), ('the', 'highs'), ('highs', 'of'), ('of', 'free'), ('free', 'money'), ('money', 'yo'), ('yo', '#lookoutboston')], 'positive']
+[[('reddit', 'if'), ('if', 'you'), ('you', 're'), ('re', 'going'), ('going', 'to'), ('to', 'ac'), ('ac', 'dc'), ('dc', 'tomorrow'), ('tomorrow', 'at'), ('at', 'gillette'), ('gillette', 'dont'), ('dont', 'forget'), ('forget', 'your'), ('your', 'free'), ('free', 'brady'), ('brady', 'shirt')], 'positive']
+[[('did', 'you'), ('you', 'know'), ('know', 'our'), ('our', 'lunch'), ('lunch', 'amp'), ('amp', 'learns'), ('learns', 'are'), ('are', 'now'), ('now', 'open'), ('open', 'to'), ('to', 'the'), ('the', 'public'), ('public', 'join'), ('join', 'us'), ('us', 'on'), ('on', 'august'), ('august', '31'), ('31', 'with'), ('with', '@user'), ('@user', 'from'), ('from', '@user')], 'positive']
+[[('surprising', 'my'), ('my', 'mom'), ('mom', 'with'), ('with', 'ac'), ('ac', 'dc'), ('dc', 'tickets'), ('tickets', 'for'), ('for', 'wednesday'), ('wednesday', 'just'), ('just', 'going'), ('going', 'to'), ('to', 'show'), ('show', 'up')], 'positive']
+[[('sitting', '14th'), ('14th', 'row'), ('row', 'for'), ('for', 'ac'), ('ac', 'dc'), ('dc', 'tonight'), ('tonight', 'lets'), ('lets', 'go')], 'positive']
+[[('having', 'dinner'), ('dinner', 'with'), ('with', '@user'), ('@user', 'to'), ('to', 'plan'), ('plan', '12th'), ('12th', 'annual'), ('annual', 'ny'), ('ny', 'arab'), ('arab', 'american'), ('american', 'comedy'), ('comedy', 'festival'), ('festival', 'and'), ('and', 'ac'), ('ac', 'dc'), ('dc', 'walked'), ('walked', 'in'), ('in', 'but'), ('but', 'couldnt'), ('couldnt', 'get'), ('get', 'a'), ('a', 'photo')], 'positive']
+[[('@user', 'congratulations'), ('congratulations', 'on'), ('on', 'the'), ('the', '20th'), ('20th', 'birth'), ('birth', 'anniversary'), ('anniversary', 'of'), ('of', '@user'), ('@user', '95'), ('95', '20'), ('20', 'years'), ('years', 'since'), ('since', 'we'), ('we', 've'), ('ve', 'come'), ('come', 'to'), ('to', 'love'), ('love', 'you'), ('you', 'amp'), ('amp', 'backward'), ('backward', 'compatibility')], 'positive']
+[[('@user', 'planning'), ('planning', 'on'), ('on', 'ac'), ('ac', 'dc'), ('dc', 'live'), ('live', 'in'), ('in', 'moncton'), ('moncton', 'coming'), ('coming', 'up'), ('up', 'sooner'), ('sooner', 'than'), ('than', 'later'), ('later', 'in'), ('in', 'montreal'), ('montreal', 'on'), ('on', 'the'), ('the', '31st'), ('31st', 'at'), ('at', 'the'), ('the', 'big'), ('big', 'o')], 'positive']
+[[('looks', 'like'), ('like', '@user'), ('@user', 'may'), ('may', 'still'), ('still', 'be'), ('be', 'in'), ('in', 'the'), ('the', 'handset'), ('handset', 'smartphone'), ('smartphone', 'business'), ('business', '#surfacephone'), ('#surfacephone', '#windows10')], 'positive']
+[[('angus', 'youngs'), ('youngs', 'cap'), ('cap', 'flew'), ('flew', 'off'), ('off', 'six'), ('six', 'songs'), ('songs', 'into'), ('into', 'ac'), ('ac', 'dcs'), ('dcs', 'set'), ('set', 'on'), ('on', 'saturday'), ('saturday', 'at'), ('at', 'gillette'), ('gillette', 'stadium'), ('stadium', 'but'), ('but', 'the'), ('the', 'guitarist'), ('guitarist', 'didnt')], 'positive']
+[[('enjoying', 'feasibility'), ('feasibility', 'workshop'), ('workshop', 'replacing'), ('replacing', '#cognos'), ('#cognos', 'with'), ('with', '@user'), ('@user', '#bi'), ('#bi', '4th'), ('4th', 'customer'), ('customer', 'in'), ('in', 'less'), ('less', 'than'), ('than', 'a'), ('a', 'year')], 'positive']
+[[('this', 'time'), ('time', 'tomorrow'), ('tomorrow', 'ac'), ('ac', 'dc'), ('dc', 'will'), ('will', 'be'), ('be', 'melting'), ('melting', 'my'), ('my', 'fucking'), ('fucking', 'face'), ('face', 'off'), ('off', 'along'), ('along', 'with'), ('with', '82'), ('82', '000'), ('000', 'other'), ('other', 'faces'), ('faces', '#acdc'), ('#acdc', '#metlife')], 'positive']
+[[('as', 'he'), ('he', 'stared'), ('stared', 'at'), ('at', 'his'), ('his', 'monitor'), ('monitor', 'the'), ('the', 'decision'), ('decision', 'to'), ('to', 'puchase'), ('puchase', 'amazon'), ('amazon', 'prime'), ('prime', 'was'), ('was', 'suddenly'), ('suddenly', 'an'), ('an', 'easy'), ('easy', 'one'), ('one', 'for'), ('for', 'steve'), ('steve', 'sarkisian')], 'positive']
+[[('the', 'day'), ('day', 'sure'), ('sure', 'snaps'), ('snaps', 'awake'), ('awake', 'when'), ('when', 'your'), ('your', '1st'), ('1st', 'tune'), ('tune', 'is'), ('is', 'back'), ('back', 'in'), ('in', 'black'), ('black', 'by'), ('by', 'ac'), ('ac', 'dc'), ('dc', 'good'), ('good', 'wednesday'), ('wednesday', '#hr'), ('#hr', '#hrmusicshare'), ('#hrmusicshare', '#hrpositive')], 'positive']
+[[('@user', 'i'), ('i', 'used'), ('used', 'amazon'), ('amazon', 'prime'), ('prime', 'to'), ('to', 'get'), ('get', 'harper'), ('harper', 'a'), ('a', 'pete'), ('pete', 'the'), ('the', 'cat'), ('cat', 'shirt'), ('shirt', ':'), (':', 'wish'), ('wish', 'she'), ('she', 'could'), ('could', 'have'), ('have', 'it'), ('it', 'in'), ('in', 'time'), ('time', 'for'), ('for', 'the'), ('the', 'pete'), ('pete', 'the'), ('the', 'cat'), ('cat', 'parade'), ('parade', 'tomorrow')], 'positive']
+[[('from', 'september'), ('september', '2nd'), ('2nd', 'in'), ('in', 'japan:'), ('japan:', 'netflix'), ('netflix', 'amazon'), ('amazon', 'prime'), ('prime', 'video'), ('video', 'hulu'), ('hulu', 'and'), ('and', 'all'), ('all', 'the'), ('the', 'other'), ('other', 'streaming'), ('streaming', 'services'), ('services', 'already'), ('already', 'operating'), ('operating', 'which'), ('which', 'one'), ('one', 'to'), ('to', 'choose')], 'positive']
+[[('just', 'turned'), ('turned', 'on'), ('on', 'my'), ('my', '@user'), ('@user', 'radio'), ('radio', 'and'), ('and', 'got'), ('got', 'the'), ('the', 'ronettes'), ('ronettes', 'followed'), ('followed', 'by'), ('by', 'ac'), ('ac', 'dc'), ('dc', 'i'), ('i', 'just'), ('just', 'might'), ('might', 'survive'), ('survive', 'thursday'), ('thursday', 'if'), ('if', 'this'), ('this', 'keeps'), ('keeps', 'up')], 'positive']
+[[('for', 'sale:'), ('sale:', 'one'), ('one', 'general'), ('general', 'admission'), ('admission', 'ticket'), ('ticket', 'to'), ('to', 'ac'), ('ac', 'dc'), ('dc', 'at'), ('at', 'downsview'), ('downsview', 'park'), ('park', 'on'), ('on', 'september'), ('september', '10th'), ('10th', 'you'), ('you', 'will'), ('will', 'have'), ('have', 'the'), ('the', 'pleasure'), ('pleasure', 'of')], 'positive']
+[[('when', 'you'), ('you', 're'), ('re', 'sick'), ('sick', 'of'), ('of', 'waiting'), ('waiting', 'for'), ('for', 'a'), ('a', 'book'), ('book', 'to'), ('to', 'come'), ('come', 'in'), ('in', 'from'), ('from', 'bn'), ('bn', 'so'), ('so', 'you'), ('you', 'ask'), ('ask', 'your'), ('your', 'husband'), ('husband', 'to'), ('to', 'order'), ('order', 'it'), ('it', 'via'), ('via', 'amazon'), ('amazon', 'prime'), ('prime', 'yup'), ('yup', 'getting'), ('getting', 'it'), ('it', 'saturday')], 'positive']
+[[('treat', 'yourself'), ('yourself', 'to'), ('to', 'tablettv'), ('tablettv', 'this'), ('this', 'bank'), ('bank', 'holiday'), ('holiday', 'order'), ('order', 'today'), ('today', 'with'), ('with', 'amazon'), ('amazon', 'prime'), ('prime', 'and'), ('and', 'you'), ('you', 'could'), ('could', 'have'), ('have', 'it'), ('it', 'tomorrow')], 'positive']
+[[('@user', 'bucket'), ('bucket', 'list'), ('list', 'tour'), ('tour', 'to'), ('to', 'see'), ('see', 'ac'), ('ac', 'dc'), ('dc', 'in'), ('in', 'ottawa'), ('ottawa', 'thurs'), ('thurs', 'a'), ('a', 'friends'), ('friends', 'first'), ('first', 'trip'), ('trip', 'to'), ('to', 'ont'), ('ont', 'hes'), ('hes', '52'), ('52', 'his'), ('his', 'bucket'), ('bucket', 'list'), ('list', 'i'), ('i', 'will'), ('will', 'webcast'), ('webcast', 'ya')], 'positive']
+[[('@user', '@user'), ('@user', '@user'), ('@user', 'nothing'), ('nothing', 'new'), ('new', 'under'), ('under', 'the'), ('the', 'sun'), ('sun', 'history'), ('history', 'always'), ('always', 'repeats'), ('repeats', '@user'), ('@user', 'brilliant'), ('brilliant', 'article'), ('article', 'thanks')], 'positive']
+[[('friday', 'the'), ('the', '13th'), ('13th', 'the'), ('the', 'series'), ('series', 'is'), ('is', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'see'), ('see', 'you'), ('you', 'all'), ('all', 'monday')], 'positive']
+[[('i', 'know'), ('know', 'more'), ('more', 'about'), ('about', 'ac'), ('ac', 'dc'), ('dc', 'concerts'), ('concerts', 'than'), ('than', 'angus'), ('angus', 'young'), ('young', 'probably'), ('probably', 'remembers'), ('remembers', 'and'), ('and', 'im'), ('im', 'only'), ('only', 'getting'), ('getting', 'to'), ('to', 'witness'), ('witness', 'it'), ('it', 'live'), ('live', 'on'), ('on', 'monday'), ('monday', 'i'), ('i', 'just')], 'positive']
+[[('i', 'just'), ('just', 'found'), ('found', 'quest'), ('quest', 'for'), ('for', 'camelot'), ('camelot', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'my'), ('my', 'sunday'), ('sunday', 'afternoon'), ('afternoon', 'is'), ('is', 'complete')], 'positive']
+[[('tonight', 'i'), ('i', 'spent'), ('spent', '20'), ('20', 'minutes'), ('minutes', 'looking'), ('looking', 'for'), ('for', 'someone'), ('someone', 'with'), ('with', 'amazon'), ('amazon', 'prime'), ('prime', 'so'), ('so', 'i'), ('i', 'could'), ('could', 'order'), ('order', 'a'), ('a', 'ouija'), ('ouija', 'board'), ('board', 'for'), ('for', 'friday'), ('friday', 'without'), ('without', 'my'), ('my', 'mom'), ('mom', 'finding'), ('finding', 'out'), ('out', '#adult')], 'positive']
+[[('if', 'ac'), ('ac', 'dc'), ('dc', 'has'), ('has', 'a'), ('a', 'really'), ('really', 'successful'), ('successful', 'show'), ('show', 'on'), ('on', 'thursday'), ('thursday', 'they'), ('they', 'will'), ('will', 'get'), ('get', 'a'), ('a', 'second'), ('second', 'show'), ('show', 'that'), ('that', 'bumps'), ('bumps', 'one'), ('one', 'of'), ('of', 'the'), ('the', 'one'), ('one', 'direction'), ('direction', 'shows')], 'positive']
+[[('entertainment:', 'ac'), ('ac', 'dc'), ('dc', 'rocks'), ('rocks', 'the'), ('the', 'big'), ('big', 'o'), ('o', 'monday'), ('monday', 'night'), ('night', '69')], 'positive']
+[[('the', '1st'), ('1st', 'season'), ('season', 'of'), ('of', 'hand'), ('hand', 'of'), ('of', 'god'), ('god', 'with'), ('with', '@user'), ('@user', 'will'), ('will', 'be'), ('be', 'available'), ('available', '9'), ('9', '4'), ('4', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'wtg'), ('wtg', '@user'), ('@user', 'loved'), ('loved', 'you'), ('you', 'in'), ('in', 'blacklist')], 'positive']
+[[('i', 'cant'), ('cant', 'wait'), ('wait', 'to'), ('to', 'speak'), ('speak', 'at'), ('at', '@user'), ('@user', '#msapc2015'), ('#msapc2015', 'event'), ('event', 'tomorrow'), ('tomorrow', 'then'), ('then', 'fly'), ('fly', 'to'), ('to', '#nyc'), ('#nyc', 'for'), ('for', 'the'), ('the', 'weekend'), ('weekend', 'amp'), ('amp', 'then'), ('then', '#inbound15')], 'positive']
+[[('@user', 'this'), ('this', 'is'), ('is', 'the'), ('the', 'field'), ('field', 'at'), ('at', 'td'), ('td', 'place'), ('place', 'as'), ('as', 'ac'), ('ac', 'dc'), ('dc', 'gets'), ('gets', 'ready'), ('ready', 'to'), ('to', 'play'), ('play', 'on'), ('on', 'thursday'), ('thursday', '@user')], 'positive']
+[[('less', 'than'), ('than', '24'), ('24', 'hours'), ('hours', 'to'), ('to', 'make'), ('make', 'your'), ('your', 'bid'), ('bid', 'for'), ('for', 'the'), ('the', 'live'), ('live', 'auction'), ('auction', 'of'), ('of', '2'), ('2', 'tickets'), ('tickets', 'to'), ('to', 'the'), ('the', 'ac'), ('ac', 'dc'), ('dc', 'concert'), ('concert', 'this'), ('this', 'thursday'), ('thursday', 'tickets')], 'positive']
+[[('@user', '@user'), ('@user', 'will'), ('will', 'be'), ('be', 'presenting'), ('presenting', 'on'), ('on', 'the'), ('the', '4th'), ('4th', 'i'), ('i', 'will'), ('will', 'come'), ('come', 'we'), ('we', 'talk'), ('talk', 'about'), ('about', 'some'), ('some', 'stuff')], 'positive']
+[[('if', 'you'), ('you', 'are'), ('are', 'a'), ('a', 'frequent'), ('frequent', 'flier'), ('flier', 'you'), ('you', 'may'), ('may', 'want'), ('want', 'to'), ('to', 'finally'), ('finally', 'get'), ('get', 'that'), ('that', 'amazon'), ('amazon', 'prime'), ('prime', 'membership'), ('membership', 'via'), ('via', '@user'), ('@user', '#flying'), ('#flying', '#amazon')], 'positive']
+[[('is', 'anyone'), ('anyone', 'going'), ('going', 'to'), ('to', 'ac'), ('ac', 'dc'), ('dc', 'at'), ('at', 'ford'), ('ford', 'field'), ('field', 'next'), ('next', 'tuesday')], 'positive']
+[[('young', 'or'), ('or', 'old'), ('old', 'rock'), ('rock', 'fan'), ('fan', 'or'), ('or', 'not'), ('not', 'you'), ('you', 'do'), ('do', 'not'), ('not', 'wanna'), ('wanna', 'miss'), ('miss', 'ac'), ('ac', 'dc'), ('dc', 'tomorrow'), ('tomorrow', '#supershow')], 'positive']
+[[('grocery', 'delivery'), ('delivery', 'services'), ('services', 'instacart'), ('instacart', 'and'), ('and', 'amazon'), ('amazon', 'prime'), ('prime', 'now'), ('now', 'to'), ('to', 'the'), ('the', 'test'), ('test', 'in'), ('in', 'this'), ('this', 'does'), ('does', 'it'), ('it', 'work'), ('work', 'wednesday:')], 'positive']
+[[('this', 'friday'), ('friday', 'start'), ('start', 'your'), ('your', 'labor'), ('labor', 'day'), ('day', 'weekend'), ('weekend', 'with'), ('with', 'some'), ('some', 'led'), ('led', 'zeppelin'), ('zeppelin', 'aerosmith'), ('aerosmith', 'van'), ('van', 'halen'), ('halen', 'and'), ('and', 'ac'), ('ac', 'dc'), ('dc', 'lava'), ('lava', 'rock'), ('rock', 'is')], 'positive']
+[[('in', 'honour'), ('honour', 'of'), ('of', 'the'), ('the', 'big'), ('big', 'show'), ('show', 'we'), ('we', 'll'), ('ll', 'play'), ('play', 'nothing'), ('nothing', 'but'), ('but', 'ac'), ('ac', 'dc'), ('dc', 'tonight'), ('tonight', 'on'), ('on', 'our'), ('our', 'shop'), ('shop', 'sound'), ('sound', 'system'), ('system', 'then'), ('then', 'again'), ('again', 'because'), ('because', 'of'), ('of', 'the'), ('the', 'big'), ('big', 'show'), ('show', 'we'), ('we', 'may'), ('may', 'not')], 'positive']
+[[('theres', 'a'), ('a', 'couple'), ('couple', 'here'), ('here', 'the'), ('the', '3rd'), ('3rd', 'row'), ('row', 'from'), ('from', 'the'), ('the', 'stage'), ('stage', 'wearing'), ('wearing', 'a'), ('a', 'tux'), ('tux', 'and'), ('and', 'long'), ('long', 'white'), ('white', 'dress'), ('dress', 'for'), ('for', 'ac'), ('ac', 'dc'), ('dc', 'lol'), ('lol', 'ok')], 'positive']
+[[('@user', '@user'), ('@user', 'good'), ('good', 'luck'), ('luck', 'to'), ('to', 'all'), ('all', 'pitch'), ('pitch', 'battlers'), ('battlers', 'may'), ('may', 'the'), ('the', 'best'), ('best', 'pitch'), ('pitch', 'win')], 'positive']
+[[('look', '@user'), ('@user', 'i'), ('i', 'found'), ('found', 'the'), ('the', '1st'), ('1st', '#snapdragon'), ('#snapdragon', 'phone'), ('phone', 'in'), ('in', 'my'), ('my', 'stuff'), ('stuff', 'from'), ('from', '#toshiba'), ('#toshiba', 'and'), ('and', '@user'), ('@user', 'still'), ('still', 'working'), ('working', ':')], 'positive']
+[[('its', 'cool'), ('cool', 'outside'), ('outside', 'and'), ('and', 'i'), ('i', 've'), ('ve', 'got'), ('got', 'ac'), ('ac', 'dc'), ('dc', 'playing'), ('playing', 'inside'), ('inside', 'this'), ('this', 'is'), ('is', 'how'), ('how', 'you'), ('you', 'adult'), ('adult', 'on'), ('on', 'a'), ('a', 'saturday'), ('saturday', 'night')], 'positive']
+[[('@user', 'can'), ('can', 'you'), ('you', 'get'), ('get', 'me'), ('me', 'back'), ('back', 'stage'), ('stage', 'for'), ('for', 'ac'), ('ac', 'dc'), ('dc', 'on'), ('on', 'sept'), ('sept', '25th')], 'positive']
+[[('angela', 'merkel:'), ('merkel:', 'europe'), ('europe', 'as'), ('as', 'a'), ('a', 'whole'), ('whole', 'must'), ('must', 'help'), ('help', 'with'), ('with', 'refugees'), ('refugees', 'video'), ('video', 'via'), ('via', '@user'), ('@user', '#world'), ('#world', '#news')], 'positive']
+[[('thank', 'you'), ('you', 'to'), ('to', '@user'), ('@user', 'for'), ('for', 'inviting'), ('inviting', 'us'), ('us', 'to'), ('to', 'join'), ('join', 'them'), ('them', 'at'), ('at', 'the'), ('the', '#ibcshow'), ('#ibcshow', 'in'), ('in', 'amsterdam'), ('amsterdam', 'next'), ('next', 'thursday')], 'positive']
+[[('fun', 'week'), ('week', 'ahead'), ('ahead', 'holiday'), ('holiday', 'today'), ('today', 'ac'), ('ac', 'dc'), ('dc', 'concert'), ('concert', 'tomorrow'), ('tomorrow', 'and'), ('and', 'off'), ('off', 'to'), ('to', 'san'), ('san', 'diego'), ('diego', 'on'), ('on', 'thursday'), ('thursday', 'for'), ('for', 'the'), ('the', 'lions'), ('lions', 'opener'), ('opener', 'on'), ('on', 'sunday'), ('sunday', '#funtimes')], 'positive']
+[[('ac', 'dc'), ('dc', 'tomorrow'), ('tomorrow', 'at'), ('at', 'ford'), ('ford', 'field'), ('field', 'someone'), ('someone', 'is'), ('is', 'going'), ('going', 'to'), ('to', 'be'), ('be', 'tired'), ('tired', 'on'), ('on', 'the'), ('the', 'second'), ('second', 'day'), ('day', 'of'), ('of', '6th'), ('6th', 'grade'), ('grade', '#butitshisfavoriteband'), ('#butitshisfavoriteband', 'm'), ('m', 'm')], 'positive']
+[[('@user', 'wish'), ('wish', 'you'), ('you', 'were'), ('were', 'at'), ('at', 'midway'), ('midway', 'i'), ('i', 'would'), ('would', 'have'), ('have', 'bought'), ('bought', 'you'), ('you', 'a'), ('a', 'beer'), ('beer', 'safe'), ('safe', 'travels'), ('travels', 'eddie'), ('eddie', 'on'), ('on', 'way'), ('way', 'to'), ('to', 'detroit'), ('detroit', 'for'), ('for', 'ac'), ('ac', 'dc'), ('dc', 'tomorrow'), ('tomorrow', 'night'), ('night', 'm')], 'positive']
+[[('should', 'you'), ('you', 'upgrade'), ('upgrade', 'to'), ('to', '@user'), ('@user', 'new'), ('new', 'os'), ('os', '#windows10'), ('#windows10', 'lunch'), ('lunch', 'and'), ('and', 'learn'), ('learn', 'in'), ('in', '#palmcoast'), ('#palmcoast', 'this'), ('this', 'wednesday'), ('wednesday', 'sept'), ('sept', '9th:')], 'positive']
+[[('#producers', 'catch'), ('catch', 'me'), ('me', 'in'), ('in', 'dallas'), ('dallas', 'sept'), ('sept', '12th'), ('12th', 'at'), ('at', 'the'), ('the', '@user'), ('@user', 'event'), ('event', 'also'), ('also', 'at'), ('at', '@user'), ('@user', 'in'), ('in', '#atl'), ('#atl', 'for'), ('for', 'the'), ('the', 'on'), ('on', 'the'), ('the', 'spot'), ('spot', 'beat'), ('beat', 'shopping')], 'positive']
+[[('see', 'how'), ('how', 'cute'), ('cute', 'she'), ('she', 'is'), ('is', 'on'), ('on', 'her'), ('her', 'day'), ('day', 'off'), ('off', 'i'), ('i', 'spent'), ('spent', 'my'), ('my', 'day'), ('day', 'off'), ('off', 'in'), ('in', 'my'), ('my', 'pjs'), ('pjs', 'watching'), ('watching', 'the'), ('the', '1st'), ('1st', 'season'), ('season', 'of'), ('of', 'survivor'), ('survivor', 'on'), ('on', 'amazon'), ('amazon', 'prime')], 'positive']
+[[('ac', 'dc'), ('dc', 'with'), ('with', 'family'), ('family', 'tomorrow'), ('tomorrow', 'night'), ('night', 'in'), ('in', 'detroit'), ('detroit', 'rock'), ('rock', 'city'), ('city', 'lets'), ('lets', 'go')], 'positive']
+[[('@user', 'yep'), ('yep', 'ac'), ('ac', 'dc'), ('dc', 'tonight'), ('tonight', 'at'), ('at', 'ford'), ('ford', 'field'), ('field', 'then'), ('then', 'on'), ('on', 'a'), ('a', 'plane'), ('plane', 'thursday'), ('thursday', 'to'), ('to', 'san'), ('san', 'diego')], 'positive']
+[[('amazon', 'this'), ('this', 'amazing'), ('amazing', 'company'), ('company', 'sells'), ('sells', 'anything'), ('anything', 'available'), ('available', 'under'), ('under', 'the'), ('the', 'sun'), ('sun', 'including'), ('including', 'cloud'), ('cloud', 'absolute'), ('absolute', 'disruption')], 'positive']
+[[('i', 've'), ('ve', 'just'), ('just', 'listed'), ('listed', 'this'), ('this', 'book'), ('book', 'for'), ('for', 'sale'), ('sale', 'on'), ('on', 'amazon'), ('amazon', 'this'), ('this', 'is'), ('is', 'the'), ('the', '3rd'), ('3rd', 'edition'), ('edition', 'revised'), ('revised', 'of'), ('of', 'a'), ('a', 'thorough'), ('thorough', '410'), ('410', 'page')], 'positive']
+[[('im', 'going'), ('going', 'to'), ('to', 'see'), ('see', 'ac'), ('ac', 'dc'), ('dc', 'with'), ('with', 'my'), ('my', 'dad'), ('dad', 'thurs'), ('thurs', 'night'), ('night', 'and'), ('and', 'i'), ('i', 'only'), ('only', 'know'), ('know', 'thunderstruck'), ('thunderstruck', 'bc'), ('bc', 'when'), ('when', 'i'), ('i', 'played'), ('played', 'boys'), ('boys', 'hockey'), ('hockey', 'we'), ('we', 'were'), ('were', 'thunder'), ('thunder', 'aka'), ('aka', 'it'), ('it', 'was'), ('was', 'our'), ('our', 'song')], 'positive']
+[[('nice', 'the'), ('the', 'man'), ('man', 'in'), ('in', 'the'), ('the', 'high'), ('high', 'castle'), ('castle', 'will'), ('will', 'be'), ('be', 'on'), ('on', 'amazon'), ('amazon', 'instant'), ('instant', 'on'), ('on', 'november'), ('november', '20th')], 'positive']
+[[('deal:', 'nexus'), ('nexus', '6'), ('6', 'drops'), ('drops', 'to'), ('to', '349'), ('349', 'at'), ('at', 'best'), ('best', 'buy'), ('buy', 'too:'), ('too:', 'on'), ('on', 'friday'), ('friday', 'amazon'), ('amazon', 'cut'), ('cut', 'the'), ('the', 'price'), ('price', 'of'), ('of', 'the'), ('the', 'nexus'), ('nexus', '6'), ('6', 'across'), ('across', 'the'), ('the', 'board'), ('board', 'b')], 'positive']
+[[('good', 'news:'), ('news:', '@user'), ('@user', 'movement'), ('movement', 'will'), ('will', 'be'), ('be', 'releasing'), ('releasing', 'us'), ('us', 'in'), ('in', 'the'), ('the', 'us'), ('us', 'vod'), ('vod', 'itunes'), ('itunes', 'and'), ('and', 'amazon'), ('amazon', 'from'), ('from', 'oct'), ('oct', '2nd'), ('2nd', 'dvd'), ('dvd', 'dec'), ('dec', '1st'), ('1st', 'all'), ('all', 'under'), ('under', 'a'), ('a', 'new'), ('new', 'title:'), ('title:', 'amorous')], 'positive']
+[[('while', 'software'), ('software', 'may'), ('may', 'be'), ('be', 'eating'), ('eating', 'the'), ('the', 'world'), ('world', 'amazon'), ('amazon', 'appears'), ('appears', 'to'), ('to', 'be'), ('be', 'eating'), ('eating', 'everything'), ('everything', 'amazon'), ('amazon', 'prime'), ('prime', 'will'), ('will', 'soon'), ('soon', 'include'), ('include', 'free'), ('free', 'restaurant'), ('restaurant', 'delivery')], 'positive']
+[[('@user', 'nice'), ('nice', 'to'), ('to', 'meet'), ('meet', 'you'), ('you', 'on'), ('on', 'twitter'), ('twitter', 'anything'), ('anything', 'amazon'), ('amazon', 'travel'), ('travel', 'related'), ('related', 'you'), ('you', 'may'), ('may', 'need'), ('need', 'we'), ('we', 're'), ('re', 'here'), ('here', ':')], 'positive']
+[[('yes', 'highly'), ('highly', 'recommend'), ('recommend', 'curiosity'), ('curiosity', 'by'), ('by', 'amanda'), ('amanda', 'get'), ('get', 'it'), ('it', 'on'), ('on', 'google'), ('google', 'play'), ('play', 'amazon'), ('amazon', 'or'), ('or', 'other'), ('other', 'outlets')], 'positive']
+[[('@user', 'i'), ('i', 'ordered'), ('ordered', 'it'), ('it', 'from'), ('from', 'amazon'), ('amazon', 'should'), ('should', 'have'), ('have', 'it'), ('it', 'by'), ('by', 'friday')], 'positive']
+[[('@user', '@user'), ('@user', '@user'), ('@user', 'i'), ('i', 'just'), ('just', 'ordered'), ('ordered', 'several'), ('several', 'mongoose'), ('mongoose', 'from'), ('from', 'amazon'), ('amazon', 'they'), ('they', 'll'), ('ll', 'be'), ('be', 'on'), ('on', 'my'), ('my', 'doorstep'), ('doorstep', 'tomorrow'), ('tomorrow', 'morning')], 'positive']
+[[('since', 'its'), ('its', 'free'), ('free', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'im'), ('im', 'gonna'), ('gonna', 'watch'), ('watch', 'teenage'), ('teenage', 'mutant'), ('mutant', 'ninja'), ('ninja', 'turtles'), ('turtles', 'now'), ('now', 'may'), ('may', 'the'), ('the', 'gods'), ('gods', 'have'), ('have', 'mercy'), ('mercy', 'on'), ('on', 'my'), ('my', 'soul')], 'positive']
+[[('i', 'want'), ('want', 'this'), ('this', 'and'), ('and', 'yes'), ('yes', 'im'), ('im', 'playing'), ('playing', 'on'), ('on', 'amazon'), ('amazon', 'instead'), ('instead', 'of'), ('of', 'reading'), ('reading', 'for'), ('for', 'class'), ('class', 'tomorrow'), ('tomorrow', 'because'), ('because', 'my'), ('my', 'head'), ('head', 'is'), ('is', 'spinning')], 'positive']
+[[('dont', 'be'), ('be', 'on'), ('on', 'amazon'), ('amazon', 'prime'), ('prime', 'at'), ('at', 'night'), ('night', 'amazon'), ('amazon', 'prime'), ('prime', 'is'), ('is', 'the'), ('the', 'new'), ('new', 'home'), ('home', 'shopping'), ('shopping', 'network'), ('network', 'you'), ('you', 'mess'), ('mess', 'around'), ('around', 'amp'), ('amp', 'have'), ('have', '7'), ('7', 'blenders'), ('blenders', 'at'), ('at', 'your'), ('your', 'door'), ('door', 'on'), ('on', 'thursday')], 'positive']
+[[('cnet', 'update'), ('update', 'amazon'), ('amazon', 'may'), ('may', 'be'), ('be', 'cooking'), ('cooking', 'up'), ('up', 'a'), ('a', '50'), ('50', 'tablet'), ('tablet', 'oh'), ('oh', 'my'), ('my', 'god'), ('god', 'welcome'), ('welcome', 'back'), ('back', '@user'), ('@user', 'i'), ('i', 'missed'), ('missed', 'you'), ('you', 'so'), ('so', 'much')], 'positive']
+[[('@user', 'trudi'), ('trudi', '@user'), ('@user', 'you'), ('you', 'have'), ('have', 'to'), ('to', 'put'), ('put', 'it'), ('it', 'on'), ('on', 'your'), ('your', 'easter'), ('easter', 'list:'), ('list:', 'release'), ('release', 'date'), ('date', 'is'), ('is', 'april'), ('april', '5th'), ('5th', '2016'), ('2016', 'you'), ('you', 'can'), ('can', 'preorder'), ('preorder', 'on'), ('on', 'amazon')], 'positive']
+[[('amazon', '#preorder'), ('#preorder', 'is'), ('is', '#live'), ('#live', 'for'), ('for', 'vivid'), ('vivid', 'go'), ('go', 'pre'), ('pre', 'order'), ('order', 'your'), ('your', 'copy'), ('copy', 'and'), ('and', 'have'), ('have', 'it'), ('it', 'on'), ('on', 'your'), ('your', 'kindle'), ('kindle', 'october'), ('october', '11th'), ('11th', 'amazon'), ('amazon', 'us:')], 'positive']
+[[('happiness', 'cause'), ('cause', 'amazon'), ('amazon', 'just'), ('just', 'notified'), ('notified', 'me'), ('me', 'that'), ('that', 'my'), ('my', 'bluray'), ('bluray', 'version'), ('version', 'of'), ('of', 'gotham'), ('gotham', 'will'), ('will', 'be'), ('be', 'here'), ('here', 'tomorrow')], 'positive']
+[[('omg', 'see'), ('see', 'you'), ('you', 'on'), ('on', 'amazon')], 'positive']
+[[('i', 'll'), ('ll', 'make'), ('make', 'these'), ('these', 'available'), ('available', 'on'), ('on', 'amazon'), ('amazon', 'tomorrow'), ('tomorrow', 'as'), ('as', 'well')], 'positive']
+[[('had', 'this'), ('this', 'new'), ('new', 'planner'), ('planner', 'on'), ('on', 'my'), ('my', 'wish'), ('wish', 'list'), ('list', 'on'), ('on', 'amazon'), ('amazon', 'lets'), ('lets', 'just'), ('just', 'say'), ('say', 'its'), ('its', 'on'), ('on', 'the'), ('the', 'way'), ('way', 'and'), ('and', 'will'), ('will', 'be'), ('be', 'here'), ('here', 'friday'), ('friday', ':')], 'positive']
+[[('@user', 'march'), ('march', 'i'), ('i', 'll'), ('ll', 'check'), ('check', 'tomorrow'), ('tomorrow', 'to'), ('to', 'see'), ('see', 'if'), ('if', 'its'), ('its', 'on'), ('on', 'amazon'), ('amazon', 'or'), ('or', 'netflix'), ('netflix', ':')], 'positive']
+[[('roses', 'are'), ('are', 'red'), ('red', 'just'), ('just', 'received'), ('received', 'its'), ('its', '10th'), ('10th', 'review'), ('review', 'on'), ('on', 'amazon'), ('amazon', 'double'), ('double', 'digits'), ('digits', ':d')], 'positive']
+[[('@user', 'i'), ('i', 'feel'), ('feel', 'you'), ('you', 'may'), ('may', 'have'), ('have', 'a'), ('a', 'date'), ('date', 'with'), ('with', 'amazon'), ('amazon', 'today')], 'positive']
+[[('i', 'ordered'), ('ordered', 'a'), ('a', '64gb'), ('64gb', 'nexus'), ('nexus', '6'), ('6', 'from'), ('from', 'amazon'), ('amazon', 'a'), ('a', 'couple'), ('couple', 'days'), ('days', 'ago'), ('ago', 'it'), ('it', 'just'), ('just', 'shipped'), ('shipped', 'and'), ('and', 'should'), ('should', 'be'), ('be', 'here'), ('here', 'on'), ('on', 'thursday')], 'positive']
+[[('good', 'morning'), ('morning', '2nd'), ('2nd', 'day'), ('day', 'of'), ('of', 'my'), ('my', 'two'), ('two', 'day'), ('day', 'work'), ('work', 'week'), ('week', 'and'), ('and', 'then'), ('then', 'more'), ('more', 'travel'), ('travel', 'tomorrow'), ('tomorrow', 'and'), ('and', 'its'), ('its', 'apple'), ('apple', 'event'), ('event', 'day'), ('day', 'yay')], 'positive']
+[[('know', 'what'), ('what', 'is'), ('is', 'event'), ('event', 'more'), ('more', 'exciting'), ('exciting', 'than'), ('than', 'the'), ('the', 'apple'), ('apple', 'event'), ('event', 'today'), ('today', 'bit'), ('bit', 'fest'), ('fest', 'thursday'), ('thursday', 'amp'), ('amp', 'friday')], 'positive']
+[[('in', 'an'), ('an', 'unprecedented'), ('unprecedented', 'move'), ('move', 'apple'), ('apple', 'is'), ('is', 'supporting'), ('supporting', 'streaming'), ('streaming', 'of'), ('of', 'todays'), ('todays', 'event'), ('event', 'on'), ('on', 'a'), ('a', 'pc'), ('pc', 'with'), ('with', 'microsoft'), ('microsoft', 'edge'), ('edge', 'on'), ('on', 'windows'), ('windows', '10')], 'positive']
+[[('here', 'you'), ('you', 'go'), ('go', '@user'), ('@user', 'what'), ('what', 'to'), ('to', 'expect'), ('expect', 'from'), ('from', 'apples'), ('apples', 'big'), ('big', 'event'), ('event', 'gt'), ('gt', 'gt'), ('gt', 'fallen'), ('fallen', 'off'), ('off', 'the'), ('the', 'chair'), ('chair', 'with'), ('with', 'excitment')], 'positive']
+[[('@user', 'thems'), ('thems', 'the'), ('the', 'breaks'), ('breaks', 'i'), ('i', 'may'), ('may', 'have'), ('have', 'made'), ('made', 'more'), ('more', 'from'), ('from', 'the'), ('the', 'fire'), ('fire', 'phone'), ('phone', 'than'), ('than', 'amazon'), ('amazon', 'did')], 'positive']
+[[('email', 'from'), ('from', 'amazon'), ('amazon', 'this'), ('this', 'morning'), ('morning', 'tells'), ('tells', 'me'), ('me', 'the'), ('the', 'new'), ('new', '@user'), ('@user', 'book'), ('book', 'will'), ('will', 'arrive'), ('arrive', 'on'), ('on', 'tuesday'), ('tuesday', 'looking'), ('looking', 'forward'), ('forward', 'to'), ('to', 'the'), ('the', '#narrative'), ('#narrative', 'on'), ('on', '#science')], 'positive']
+[[('@user', 'patch'), ('patch', 'tuesday'), ('tuesday', 'incorporated'), ('incorporated', '56'), ('56', 'fixes'), ('fixes', 'for'), ('for', '#security'), ('#security', '#vulnerabilities'), ('#vulnerabilities', 'some'), ('some', 'with'), ('with', 'active'), ('active', '#exploits'), ('#exploits', 'insane')], 'positive']
+[[('amazon', 'hiring'), ('hiring', 'fair:'), ('fair:', '11'), ('11', '25'), ('25', 'hr'), ('hr', 'with'), ('with', 'a'), ('a', 'shift'), ('shift', 'differential'), ('differential', 'free'), ('free', 'transportation'), ('transportation', 'benefits'), ('benefits', 'september'), ('september', '10th'), ('10th', '2015')], 'positive']
+[[('goosebumps', 'i'), ('i', 'always'), ('always', 'get'), ('get', 'before'), ('before', 'an'), ('an', 'announcement'), ('announcement', '10am'), ('10am', 'it'), ('it', 'will'), ('will', 'be'), ('be', 'streaming'), ('streaming', 'on'), ('on', 'apples'), ('apples', 'website'), ('website', 'get'), ('get', 'ready')], 'positive']
+[[('the', 'apple'), ('apple', 'event'), ('event', 'starts'), ('starts', '10'), ('10', 'minutes'), ('minutes', 'after'), ('after', 'i'), ('i', 'get'), ('get', 'out'), ('out', 'of'), ('of', 'chemistry'), ('chemistry', 'i'), ('i', 'may'), ('may', 'be'), ('be', 'sprinting'), ('sprinting', 'back'), ('back', 'to'), ('to', 'my'), ('my', 'dorm'), ('dorm', 'to'), ('to', 'catch'), ('catch', 'it'), ('it', 'in'), ('in', 'time')], 'positive']
+[[('@user', 'you'), ('you', 'may'), ('may', 'check'), ('check', 'with'), ('with', 'amazon'), ('amazon', 'for'), ('for', 'kindle'), ('kindle', 'as'), ('as', 'its'), ('its', 'screen'), ('screen', 'is'), ('is', 'glare'), ('glare', 'free'), ('free', 'and'), ('and', 'can'), ('can', 'be'), ('be', 'read'), ('read', 'in'), ('in', 'sunlight'), ('sunlight', 'too')], 'positive']
+[[('apple', 'fans:'), ('fans:', 'todays'), ('todays', 'the'), ('the', 'day'), ('day', 'to'), ('to', 'watch'), ('watch', '#appleevent'), ('#appleevent', 'starts'), ('starts', 'at'), ('at', '1pm'), ('1pm', 'est'), ('est', 'watch'), ('watch', 'it'), ('it', 'live'), ('live', 'at')], 'positive']
+[[('cant', 'wait'), ('wait', 'im'), ('im', 'so'), ('so', 'happy'), ('happy', 'i'), ('i', 'can'), ('can', 'sub'), ('sub', 'on'), ('on', 'amazon'), ('amazon', 'to'), ('to', 'see'), ('see', 'it')], 'positive']
+[[('we', 'will'), ('will', 'be'), ('be', 'live'), ('live', 'shortly'), ('shortly', 'with'), ('with', 'apples'), ('apples', 'september'), ('september', '9th'), ('9th', 'iphone'), ('iphone', 'and'), ('and', 'more'), ('more', 'launch'), ('launch', 'starts'), ('starts', 'at'), ('at', '9am'), ('9am', 'pst'), ('pst', 'via'), ('via', '@user')], 'positive']
+[[('looks', 'like'), ('like', 'apple'), ('apple', 'exec'), ('exec', '@user'), ('@user', 'just'), ('just', 'confirmed'), ('confirmed', 'we'), ('we', 'll'), ('ll', 'be'), ('be', 'seeing'), ('seeing', 'some'), ('some', 'big'), ('big', 'screen'), ('screen', 'news'), ('news', 'today'), ('today', '#appleevent')], 'positive']
+[[('this', 'chick'), ('chick', 'bid'), ('bid', 'on'), ('on', 'the'), ('the', '1st'), ('1st', 'showcase'), ('showcase', 'bunch'), ('bunch', 'of'), ('of', 'apple'), ('apple', 'products'), ('products', 'rookie'), ('rookie', 'mistake'), ('mistake', '2d'), ('2d', 'showcase'), ('showcase', 'was'), ('was', 'a'), ('a', 'trip'), ('trip', 'a'), ('a', 'tv'), ('tv', 'and'), ('and', 'a'), ('a', 'car'), ('car', 'her'), ('her', 'face'), ('face', 'was'), ('was', 'hilarious')], 'positive']
+[[('@user', 'at'), ('at', 'the'), ('the', 'same'), ('same', 'time'), ('time', 'as'), ('as', 'the'), ('the', 'apple'), ('apple', 'event'), ('event', 'nope'), ('nope', 'test'), ('test', 'weapons'), ('weapons', 'have'), ('have', 'to'), ('to', 'wait'), ('wait', 'until'), ('until', 'tomorrow'), ('tomorrow', '#destinythegame'), ('#destinythegame', '#apple'), ('#apple', '#appleevent')], 'positive']
+[[('as', 'apple'), ('apple', 'goes'), ('goes', 'bigger'), ('bigger', 'expensive'), ('expensive', 'on'), ('on', 'tablets'), ('tablets', 'i'), ('i', 'had'), ('had', 'a'), ('a', 'nice'), ('nice', 'chat'), ('chat', 'with'), ('with', '@user'), ('@user', 'about'), ('about', 'amazon'), ('amazon', 'going'), ('going', 'smaller'), ('smaller', 'cheaper')], 'positive']
+[[('rumor', 'has'), ('has', 'it'), ('it', 'apple'), ('apple', 'is'), ('is', 'likely'), ('likely', 'to'), ('to', 'unveil'), ('unveil', '3'), ('3', 'new'), ('new', 'iphones'), ('iphones', 'at'), ('at', 'their'), ('their', '9'), ('9', 'sep'), ('sep', 'media'), ('media', 'event'), ('event', 'iphone'), ('iphone', '6s'), ('6s', 'iphone'), ('iphone', '6s'), ('6s', 'plus'), ('plus', 'iphone'), ('iphone', '6c')], 'positive']
+[[('thats', 'what'), ('what', 'i'), ('i', 'did'), ('did', 'with'), ('with', 'mine'), ('mine', 'i'), ('i', 'scoured'), ('scoured', 'amazon'), ('amazon', 'for'), ('for', 'months'), ('months', 'and'), ('and', 'found'), ('found', 'a'), ('a', 'deal'), ('deal', 'just'), ('just', 'like'), ('like', 'that'), ('that', 'and'), ('and', 'snatched'), ('snatched', 'it'), ('it', 'up'), ('up', 'so'), ('so', 'fast')], 'positive']
+[[('15', 'minutes'), ('minutes', 'until'), ('until', 'all'), ('all', 'of'), ('of', 'the'), ('the', 'android'), ('android', 'fanboys'), ('fanboys', 'goes'), ('goes', 'squealing'), ('squealing', 'for'), ('for', 'the'), ('the', 'apples'), ('apples', 'september'), ('september', '9th'), ('9th', 'event')], 'positive']
+[[('check', 'out'), ('out', 'our'), ('our', 'live'), ('live', 'coverage'), ('coverage', 'of'), ('of', 'the'), ('the', 'apple'), ('apple', 'event'), ('event', 'here')], 'positive']
+[[('#appleevent', 'is'), ('is', 'about'), ('about', 'to'), ('to', 'start'), ('start', 'watch'), ('watch', 'apples'), ('apples', 'live'), ('live', 'stream'), ('stream', 'here:')], 'positive']
+[[('apples', '@user'), ('@user', 'cook'), ('cook', 'gives'), ('gives', 'an'), ('an', 'update'), ('update', 'on'), ('on', 'the'), ('the', 'projects'), ('projects', 'launched'), ('launched', 'in'), ('in', 'june'), ('june', '#applewatch'), ('#applewatch', 'has'), ('has', 'gate'), ('gate', '97'), ('97', 'satisfaction'), ('satisfaction', '#applelive')], 'positive']
+[[('i', 'dont'), ('dont', 'think'), ('think', 'they'), ('they', 'd'), ('d', 'drop'), ('drop', 'the'), ('the', 'album'), ('album', 'at'), ('at', 'the'), ('the', 'apple'), ('apple', 'event'), ('event', 'however'), ('however', 'it'), ('it', 'may'), ('may', 'explain'), ('explain', 'them'), ('them', 'performing'), ('performing', 'at'), ('at', 'the'), ('the', 'apple'), ('apple', 'music'), ('music', 'event'), ('event', 'in'), ('in', 'september'), ('september', 'a')], 'positive']
+[[('apples', 'event'), ('event', 'is'), ('is', 'streaming'), ('streaming', 'in'), ('in', 'stereo'), ('stereo', 'may'), ('may', 'seem'), ('seem', 'minor'), ('minor', 'but'), ('but', 'as'), ('as', 'a'), ('a', 'audiophile'), ('audiophile', 'i'), ('i', 'just'), ('just', 'love'), ('love', 'and'), ('and', 'appreciate'), ('appreciate', 'this')], 'positive']
+[[('@user', 'riches'), ('riches', 'just'), ('just', 'finished'), ('finished', '#thegirlwho'), ('#thegirlwho', 'pt2'), ('pt2', 'wow'), ('wow', 'just'), ('just', 'wow'), ('wow', 'you'), ('you', 'got'), ('got', 'a'), ('a', 'date'), ('date', 'for'), ('for', 'part'), ('part', '3'), ('3', 'yet'), ('yet', 'amazon'), ('amazon', 'is'), ('is', 'saying'), ('saying', 'march'), ('march', '16'), ('16', 'but'), ('but', 'ad'), ('ad', 'says'), ('says', 'october'), ('october', '15')], 'positive']
+[[('that', 'may'), ('may', 'just'), ('just', 'be'), ('be', 'the'), ('the', 'most'), ('most', 'shocking'), ('shocking', 'moment'), ('moment', 'of'), ('of', 'todays'), ('todays', '#appleevent'), ('#appleevent', '@user'), ('@user', 'doing'), ('doing', 'a'), ('a', 'demo'), ('demo', 'on'), ('on', 'the'), ('the', 'new'), ('new', '#ipadpro')], 'positive']
