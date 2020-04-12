@@ -104,12 +104,12 @@ def combine(lst1, lst2):
 #
 # in: (list: [list: [any]])
 # out: dictionary in above form
+#
+# now attempting normalizing to make up for uneven input (second half of method)
 def createTrainingDict(ContextSense):
     tdict = {}
-    inner_dict = {'positive': 0,
-                  'negative': 0,
-                  'certainty': 0}
-
+    pcounter = 0
+    ncounter = 0
     for entries in ContextSense:
         context = entries[0]
         sentiment = entries[1]
@@ -119,6 +119,32 @@ def createTrainingDict(ContextSense):
                                  'negative': 0,
                                  'certainty': 0}
             tdict[bigram][sentiment] += 1
+            if sentiment == 'positive':
+                pcounter += 1
+            elif sentiment == 'negative':
+                ncounter += 1
+
+
+    # attempted normalization:
+    '''
+    if pcounter > ncounter:
+        pdict = {}
+        for bgram, sentiment in tdict.items():
+            pdict[bgram] = {'positive': sentiment['positive'],
+                            'negative': round(sentiment['negative'] * (pcounter / ncounter)),
+                            'certainty': 0}
+        tdict = pdict
+    elif ncounter > pcounter:
+        ndict = {}
+        for bgram, sentiment in tdict.items():
+            ndict[bgram] = {'positive': round(sentiment['positive'] * (ncounter / pcounter)),
+                            'negative': sentiment['negative'],
+                            'certainty': 0}
+        tdict = ndict
+    count = 10
+    '''
+    ######END attempted normalization, I think it made it overall less accurate but significantly increased "negative" accuracy. might need to delete this
+
     return tdict
 
 
@@ -166,15 +192,16 @@ def printToMyModel(filename, dic):
     modelfile.close()  # to change file access modes
     return
 
-#takes the training dict and the list of test instances paired with the bigrams
-#finds sentiment for test based off the training dictionary
+
+# takes the training dict and the list of test instances paired with the bigrams
+# finds sentiment for test based off the training dictionary
 # by testing every bigram against dictionary and making a sum of negative certainties
 # enountered vs positive certainties
-#then choosing the sentiment with the highest sum of certainties for all bigrams in the sentence
+# then choosing the sentiment with the highest sum of certainties for all bigrams in the sentence
 # output in form: list [instance#, list of bigrams, sentiment,
 # #       positve sentiment certainty sum, negative sentiment certainty sum]
 def findTestSolutions(traind, testIB):
-    testIBS = [] # Insantance, Bigram, Sentiment not Internal Bowel Syndrome
+    testIBS = []  # Insantance, Bigram, Sentiment not Internal Bowel Syndrome
     for tweet in testIB:
         instance = tweet[0]
         sentence = tweet[1]
@@ -260,12 +287,11 @@ for sentence in testContext:
 # in form [[(w1, w2), (w2, w3), ... (Wn-1, Wn)], sense]
 testInstanceBigrams = combine(testInstance, testBigrams)
 
-
 # compare data against training dictionary and find solution:
 # option 1: pick single highest bigram certainty other
 # option 2: make sum of positive certainties and negative certainties and compare them. whichever sum higher is
 # assigned
-testSolutions = findTestSolutions(trainingDict, testInstanceBigrams) #i used option 2. made more sense
+testSolutions = findTestSolutions(trainingDict, testInstanceBigrams)  # i used option 2. made more sense
 # testSolutions list in format: list [instance#, list of bigrams, sentiment,
 #       positve sentiment certainty sum, negative sentiment certainty sum]
 
@@ -285,6 +311,6 @@ printlist(formatted_solution)
 # printlist(testInstance)
 # printlist(testContext)
 # printlist(testBigrams)
-#printlist(testInstanceBigrams)
-#printlist(testSolutions)
+# printlist(testInstanceBigrams)
+# printlist(testSolutions)
 #####END TEST#####
