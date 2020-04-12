@@ -1,0 +1,13864 @@
+feature: does @user 
+negative: 2
+certainty: 4
+
+feature: @user still 
+positive: 1
+certainty: 0.0
+
+feature: still believe 
+negative: 1
+certainty: 4
+
+feature: believe that 
+negative: 1
+certainty: 4
+
+feature: that ms 
+negative: 1
+certainty: 4
+
+feature: ms angela 
+negative: 1
+certainty: 4
+
+feature: angela merkel 
+negative: 13
+certainty: 1.466337068793427
+
+feature: merkel is 
+positive: 1
+certainty: 0.0
+
+feature: is the 
+negative: 4
+certainty: 0.2876820724517809
+
+feature: the real 
+negative: 2
+certainty: 4
+
+feature: real leader 
+negative: 1
+certainty: 4
+
+feature: leader of 
+negative: 1
+certainty: 4
+
+feature: of the 
+positive: 8
+certainty: 1.3862943611198906
+
+feature: the free 
+negative: 1
+certainty: 4
+
+feature: free world 
+negative: 1
+certainty: 4
+
+feature: world greeks 
+negative: 1
+certainty: 4
+
+feature: greeks may 
+negative: 1
+certainty: 4
+
+feature: may disagree 
+negative: 1
+certainty: 4
+
+feature: by michael 
+negative: 1
+certainty: 4
+
+feature: michael nienaber 
+negative: 1
+certainty: 4
+
+feature: nienaber berlin 
+negative: 1
+certainty: 4
+
+feature: berlin july 
+negative: 1
+certainty: 4
+
+feature: july 10 
+negative: 1
+certainty: 4
+
+feature: 10 reuters 
+negative: 1
+certainty: 4
+
+feature: reuters the 
+negative: 1
+certainty: 4
+
+feature: the parties 
+negative: 1
+certainty: 4
+
+feature: parties in 
+negative: 1
+certainty: 4
+
+feature: in angela 
+negative: 1
+certainty: 4
+
+feature: angela merkels 
+negative: 1
+certainty: 4
+
+feature: merkels coalition 
+negative: 1
+certainty: 4
+
+feature: coalition government 
+negative: 1
+certainty: 4
+
+feature: government sent 
+negative: 1
+certainty: 4
+
+feature: sent conflicting 
+negative: 1
+certainty: 4
+
+feature: conflicting signals 
+negative: 1
+certainty: 4
+
+feature: signals on 
+negative: 1
+certainty: 4
+
+feature: on the 
+positive: 13
+certainty: 0.7731898882334819
+
+feature: the latest 
+negative: 1
+certainty: 4
+
+feature: i was 
+negative: 2
+certainty: 4
+
+feature: was really 
+negative: 1
+certainty: 4
+
+feature: really excited 
+negative: 1
+certainty: 4
+
+feature: excited for 
+negative: 1
+certainty: 4
+
+feature: for the 
+positive: 8
+certainty: 0.28768207245178085
+
+feature: the amazon 
+negative: 2
+certainty: 4
+
+feature: amazon prime 
+positive: 53
+certainty: 0.879249460193806
+
+feature: prime day 
+positive: 18
+certainty: 0.0
+
+feature: day sale 
+negative: 2
+certainty: 4
+
+feature: sale but 
+negative: 1
+certainty: 4
+
+feature: but everything 
+negative: 1
+certainty: 4
+
+feature: everything is 
+negative: 1
+certainty: 4
+
+feature: is garbage 
+negative: 1
+certainty: 4
+
+feature: garbage better 
+negative: 1
+certainty: 4
+
+feature: better than 
+negative: 3
+certainty: 4
+
+feature: than black 
+negative: 6
+certainty: 0.4054651081081643
+
+feature: black friday 
+negative: 15
+certainty: 0.06899287148695143
+
+feature: friday my 
+negative: 2
+certainty: 4
+
+feature: my butt 
+negative: 1
+certainty: 4
+
+feature: day its 
+negative: 1
+certainty: 4
+
+feature: its better 
+negative: 1
+certainty: 4
+
+feature: friday if 
+positive: 1
+certainty: 0.0
+
+feature: if you 
+positive: 6
+certainty: 1.791759469228055
+
+feature: you are 
+positive: 3
+certainty: 0.4054651081081642
+
+feature: are into 
+negative: 1
+certainty: 4
+
+feature: into buying 
+negative: 1
+certainty: 4
+
+feature: buying useless 
+negative: 1
+certainty: 4
+
+feature: useless crap 
+negative: 1
+certainty: 4
+
+feature: crap this 
+negative: 1
+certainty: 4
+
+feature: this sale 
+negative: 1
+certainty: 4
+
+feature: sale isnt 
+negative: 1
+certainty: 4
+
+feature: isnt worth 
+negative: 1
+certainty: 4
+
+feature: worth having 
+negative: 1
+certainty: 4
+
+feature: having prime 
+negative: 1
+certainty: 4
+
+feature: prime at 
+positive: 1
+certainty: 0.0
+
+feature: at all 
+negative: 1
+certainty: 4
+
+feature: is it 
+negative: 1
+certainty: 4
+
+feature: it just 
+positive: 1
+certainty: 0.0
+
+feature: just me 
+negative: 1
+certainty: 4
+
+feature: me or 
+negative: 1
+certainty: 4
+
+feature: or is 
+negative: 1
+certainty: 4
+
+feature: is amazon 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: day less 
+negative: 1
+certainty: 4
+
+feature: less black 
+negative: 1
+certainty: 4
+
+feature: friday and 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: and more 
+positive: 1
+certainty: 0.0
+
+feature: more your 
+negative: 1
+certainty: 4
+
+feature: your weird 
+negative: 1
+certainty: 4
+
+feature: weird neighbors 
+negative: 1
+certainty: 4
+
+feature: neighbors garage 
+negative: 1
+certainty: 4
+
+feature: garage sale 
+negative: 2
+certainty: 4
+
+feature: day is 
+positive: 5
+certainty: 0.0
+
+feature: is pretty 
+positive: 1
+certainty: 0.0
+
+feature: pretty much 
+negative: 1
+certainty: 4
+
+feature: much a 
+negative: 1
+certainty: 4
+
+feature: a bust 
+negative: 1
+certainty: 4
+
+feature: bust at 
+negative: 1
+certainty: 4
+
+feature: at this 
+negative: 1
+certainty: 4
+
+feature: this point 
+negative: 1
+certainty: 4
+
+feature: point black 
+negative: 1
+certainty: 4
+
+feature: friday its 
+negative: 1
+certainty: 4
+
+feature: its up 
+negative: 1
+certainty: 4
+
+feature: up to 
+negative: 2
+certainty: 4
+
+feature: to you 
+negative: 1
+certainty: 4
+
+feature: you to 
+positive: 1
+certainty: 0.0
+
+feature: to save 
+negative: 1
+certainty: 4
+
+feature: save us 
+negative: 1
+certainty: 4
+
+feature: day what 
+negative: 1
+certainty: 4
+
+feature: what all 
+negative: 1
+certainty: 4
+
+feature: all the 
+positive: 3
+certainty: 0.0
+
+feature: the fuss 
+negative: 1
+certainty: 4
+
+feature: fuss is 
+negative: 1
+certainty: 4
+
+feature: is about 
+positive: 1
+certainty: 0.0
+
+feature: about amazons 
+negative: 1
+certainty: 4
+
+feature: amazons prime 
+negative: 1
+certainty: 4
+
+feature: day promised 
+negative: 1
+certainty: 4
+
+feature: promised massive 
+negative: 1
+certainty: 4
+
+feature: massive deals 
+negative: 1
+certainty: 4
+
+feature: deals rivaling 
+negative: 1
+certainty: 4
+
+feature: rivaling black 
+negative: 1
+certainty: 4
+
+feature: is to 
+negative: 2
+certainty: 4
+
+feature: to black 
+negative: 1
+certainty: 4
+
+feature: friday as 
+negative: 1
+certainty: 4
+
+feature: as a 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: a root 
+negative: 1
+certainty: 4
+
+feature: root canal 
+negative: 1
+certainty: 4
+
+feature: canal is 
+negative: 1
+certainty: 4
+
+feature: to christmas 
+negative: 1
+certainty: 4
+
+feature: christmas day 
+negative: 1
+certainty: 4
+
+feature: day the 
+negative: 1
+certainty: 4
+
+feature: the hype 
+negative: 1
+certainty: 4
+
+feature: hype didnt 
+negative: 1
+certainty: 4
+
+feature: didnt live 
+negative: 1
+certainty: 4
+
+feature: live up 
+negative: 1
+certainty: 4
+
+feature: to the 
+positive: 5
+certainty: 0.5108256237659907
+
+feature: the delivery 
+negative: 1
+certainty: 4
+
+feature: where i 
+negative: 1
+certainty: 4
+
+feature: i truly 
+negative: 1
+certainty: 4
+
+feature: truly believe 
+negative: 1
+certainty: 4
+
+feature: believe amazon 
+negative: 1
+certainty: 4
+
+feature: amazon failed 
+negative: 1
+certainty: 4
+
+feature: failed for 
+negative: 1
+certainty: 4
+
+feature: for their 
+negative: 1
+certainty: 4
+
+feature: their amazon 
+negative: 1
+certainty: 4
+
+feature: sale the 
+negative: 1
+certainty: 4
+
+feature: the moment 
+negative: 1
+certainty: 4
+
+feature: moment they 
+negative: 1
+certainty: 4
+
+feature: they claimed 
+negative: 1
+certainty: 4
+
+feature: claimed it 
+negative: 1
+certainty: 4
+
+feature: it d 
+negative: 1
+certainty: 4
+
+feature: d have 
+negative: 1
+certainty: 4
+
+feature: have bigger 
+negative: 1
+certainty: 4
+
+feature: bigger deals 
+negative: 1
+certainty: 4
+
+feature: deals than 
+positive: 2
+certainty: 0.0
+
+feature: day beats 
+negative: 1
+certainty: 4
+
+feature: beats black 
+negative: 1
+certainty: 4
+
+feature: friday says 
+negative: 1
+certainty: 4
+
+feature: says retailer 
+negative: 1
+certainty: 4
+
+feature: retailer amazon 
+negative: 1
+certainty: 4
+
+feature: day may 
+positive: 1
+certainty: 0.0
+
+feature: may have 
+negative: 6
+certainty: 0.4054651081081643
+
+feature: have been 
+negative: 4
+certainty: 4
+
+feature: been an 
+negative: 1
+certainty: 4
+
+feature: an excuse 
+negative: 1
+certainty: 4
+
+feature: excuse for 
+negative: 1
+certainty: 4
+
+feature: the retail 
+negative: 1
+certainty: 4
+
+feature: well amazon 
+negative: 1
+certainty: 4
+
+feature: day kind 
+negative: 1
+certainty: 4
+
+feature: kind of 
+positive: 1
+certainty: 0.0
+
+feature: of sucked 
+negative: 1
+certainty: 4
+
+feature: sucked didnt 
+negative: 1
+certainty: 4
+
+feature: didnt it 
+negative: 1
+certainty: 4
+
+feature: it i 
+negative: 1
+certainty: 4
+
+feature: was hoping 
+negative: 1
+certainty: 4
+
+feature: hoping for 
+negative: 1
+certainty: 4
+
+feature: for much 
+negative: 1
+certainty: 4
+
+feature: much more 
+negative: 1
+certainty: 4
+
+feature: more bigger 
+negative: 1
+certainty: 4
+
+feature: bigger than 
+positive: 1
+certainty: 0.0
+
+feature: friday huh 
+negative: 1
+certainty: 4
+
+feature: was the 
+negative: 1
+certainty: 4
+
+feature: day a 
+negative: 1
+certainty: 4
+
+feature: a big 
+negative: 1
+certainty: 4
+
+feature: big hit 
+negative: 1
+certainty: 4
+
+feature: hit well 
+negative: 1
+certainty: 4
+
+feature: well theres 
+negative: 1
+certainty: 4
+
+feature: theres a 
+positive: 1
+certainty: 0.0
+
+feature: a #primedayfail 
+negative: 1
+certainty: 4
+
+feature: #primedayfail hashtag 
+negative: 1
+certainty: 4
+
+feature: hashtag trending 
+negative: 1
+certainty: 4
+
+feature: trending at 
+negative: 1
+certainty: 4
+
+feature: at 5 
+negative: 1
+certainty: 4
+
+feature: 5 our 
+negative: 1
+certainty: 4
+
+feature: our @user 
+negative: 1
+certainty: 4
+
+feature: @user reports 
+negative: 1
+certainty: 4
+
+feature: reports on 
+negative: 1
+certainty: 4
+
+feature: on what 
+negative: 1
+certainty: 4
+
+feature: what may 
+negative: 1
+certainty: 4
+
+feature: have gone 
+negative: 1
+certainty: 4
+
+feature: gone wrong 
+negative: 1
+certainty: 4
+
+feature: the equivalent 
+negative: 1
+certainty: 4
+
+feature: equivalent of 
+negative: 1
+certainty: 4
+
+feature: of drinking 
+negative: 1
+certainty: 4
+
+feature: drinking alone 
+negative: 1
+certainty: 4
+
+feature: alone at 
+negative: 1
+certainty: 4
+
+feature: at home 
+negative: 1
+certainty: 4
+
+feature: home on 
+negative: 1
+certainty: 4
+
+feature: on a 
+positive: 5
+certainty: 1.6094379124341005
+
+feature: a friday 
+negative: 1
+certainty: 4
+
+feature: friday night 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: your turn 
+negative: 1
+certainty: 4
+
+feature: turn amazon 
+negative: 1
+certainty: 4
+
+feature: day was 
+negative: 1
+certainty: 4
+
+feature: was supposed 
+negative: 1
+certainty: 4
+
+feature: supposed to 
+negative: 1
+certainty: 4
+
+feature: to put 
+positive: 1
+certainty: 0.0
+
+feature: put black 
+negative: 1
+certainty: 4
+
+feature: friday shopping 
+negative: 1
+certainty: 4
+
+feature: shopping in 
+negative: 1
+certainty: 4
+
+feature: in the 
+positive: 5
+certainty: 0.22314355131420993
+
+feature: the dust 
+negative: 1
+certainty: 4
+
+feature: dust but 
+negative: 1
+certainty: 4
+
+feature: but many 
+negative: 1
+certainty: 4
+
+feature: many say 
+negative: 1
+certainty: 4
+
+feature: say its 
+positive: 1
+certainty: 0.0
+
+feature: its a 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: a garage 
+negative: 1
+certainty: 4
+
+feature: if amazon 
+negative: 1
+certainty: 4
+
+feature: is better 
+negative: 1
+certainty: 4
+
+feature: friday then 
+negative: 1
+certainty: 4
+
+feature: then im 
+negative: 1
+certainty: 4
+
+feature: im going 
+positive: 1
+certainty: 0.0
+
+feature: going to 
+positive: 5
+certainty: 0.5108256237659907
+
+feature: to sleep 
+negative: 1
+certainty: 4
+
+feature: sleep in 
+negative: 1
+certainty: 4
+
+feature: in should 
+negative: 1
+certainty: 4
+
+feature: should have 
+positive: 1
+certainty: 0.0
+
+feature: been called 
+negative: 1
+certainty: 4
+
+feature: called amazon 
+negative: 1
+certainty: 4
+
+feature: amazon garage 
+negative: 1
+certainty: 4
+
+feature: sale day 
+negative: 1
+certainty: 4
+
+feature: i knew 
+negative: 1
+certainty: 4
+
+feature: knew black 
+negative: 1
+certainty: 4
+
+feature: friday black 
+negative: 1
+certainty: 4
+
+feature: friday was 
+negative: 1
+certainty: 4
+
+feature: was a 
+positive: 1
+certainty: 0.0
+
+feature: a friend 
+negative: 1
+certainty: 4
+
+feature: friend of 
+negative: 1
+certainty: 4
+
+feature: of mine 
+negative: 1
+certainty: 4
+
+feature: mine and 
+negative: 1
+certainty: 4
+
+feature: and you 
+positive: 1
+certainty: 0.0
+
+feature: you amazon 
+negative: 1
+certainty: 4
+
+feature: day are 
+negative: 1
+certainty: 4
+
+feature: are no 
+negative: 1
+certainty: 4
+
+feature: no black 
+negative: 1
+certainty: 4
+
+feature: day amazon 
+negative: 1
+certainty: 4
+
+feature: amazon scam 
+negative: 1
+certainty: 4
+
+feature: scam day 
+negative: 1
+certainty: 4
+
+feature: is more 
+negative: 1
+certainty: 4
+
+feature: more like 
+negative: 1
+certainty: 4
+
+feature: like it 
+negative: 1
+certainty: 4
+
+feature: it more 
+negative: 1
+certainty: 4
+
+feature: more deals 
+positive: 4
+certainty: 1.3862943611198906
+
+feature: my ass 
+negative: 1
+certainty: 4
+
+feature: merkel explaining 
+negative: 1
+certainty: 4
+
+feature: explaining to 
+negative: 1
+certainty: 4
+
+feature: to a 
+negative: 3
+certainty: 4
+
+feature: a crying 
+negative: 1
+certainty: 4
+
+feature: crying child 
+negative: 1
+certainty: 4
+
+feature: child that 
+negative: 1
+certainty: 4
+
+feature: that germany 
+negative: 1
+certainty: 4
+
+feature: germany might 
+negative: 1
+certainty: 4
+
+feature: might just 
+negative: 1
+certainty: 4
+
+feature: just deport 
+negative: 1
+certainty: 4
+
+feature: deport her 
+negative: 1
+certainty: 4
+
+feature: this has 
+negative: 1
+certainty: 4
+
+feature: has just 
+negative: 1
+certainty: 4
+
+feature: just brought 
+negative: 1
+certainty: 4
+
+feature: brought a 
+negative: 1
+certainty: 4
+
+feature: a tear 
+negative: 1
+certainty: 4
+
+feature: tear to 
+negative: 1
+certainty: 4
+
+feature: to my 
+positive: 1
+certainty: 0.0
+
+feature: my eye 
+negative: 1
+certainty: 4
+
+feature: eye angela 
+negative: 1
+certainty: 4
+
+feature: merkel tells 
+negative: 1
+certainty: 4
+
+feature: tells sobbing 
+negative: 1
+certainty: 4
+
+feature: sobbing asylum 
+negative: 1
+certainty: 4
+
+feature: asylum seeker 
+negative: 2
+certainty: 4
+
+feature: seeker why 
+negative: 1
+certainty: 4
+
+feature: why she 
+negative: 1
+certainty: 4
+
+feature: she cannot 
+negative: 1
+certainty: 4
+
+feature: cannot stay 
+negative: 1
+certainty: 4
+
+feature: stay in 
+positive: 1
+certainty: 0.0
+
+feature: in germany 
+positive: 1
+certainty: 0.0
+
+feature: merkel and 
+negative: 1
+certainty: 4
+
+feature: and a 
+positive: 1
+certainty: 0.0
+
+feature: a palestinian 
+negative: 1
+certainty: 4
+
+feature: palestinian asylum 
+negative: 1
+certainty: 4
+
+feature: seeker get 
+negative: 1
+certainty: 4
+
+feature: get civilized 
+negative: 1
+certainty: 4
+
+feature: civilized islam 
+negative: 1
+certainty: 4
+
+feature: islam stop 
+negative: 1
+certainty: 4
+
+feature: stop crowding 
+negative: 1
+certainty: 4
+
+feature: crowding our 
+negative: 1
+certainty: 4
+
+feature: our world 
+negative: 1
+certainty: 4
+
+feature: world with 
+negative: 1
+certainty: 4
+
+feature: with your 
+negative: 1
+certainty: 4
+
+feature: your barbaric 
+negative: 1
+certainty: 4
+
+feature: barbaric ways 
+negative: 1
+certainty: 4
+
+feature: @user what 
+positive: 1
+certainty: 0.0
+
+feature: what the 
+negative: 1
+certainty: 4
+
+feature: the world 
+positive: 2
+certainty: 0.0
+
+feature: world needs 
+negative: 1
+certainty: 4
+
+feature: needs is 
+negative: 1
+certainty: 4
+
+feature: is for 
+negative: 1
+certainty: 4
+
+feature: for angela 
+negative: 1
+certainty: 4
+
+feature: merkel to 
+negative: 2
+certainty: 4
+
+feature: to kick 
+negative: 1
+certainty: 4
+
+feature: kick him 
+negative: 1
+certainty: 4
+
+feature: him in 
+negative: 1
+certainty: 4
+
+feature: the nuts 
+negative: 1
+certainty: 4
+
+feature: nuts the 
+negative: 1
+certainty: 4
+
+feature: the 1st 
+negative: 5
+certainty: 0.22314355131420985
+
+feature: 1st time 
+negative: 3
+certainty: 4
+
+feature: time trump 
+negative: 1
+certainty: 4
+
+feature: trump calls 
+negative: 1
+certainty: 4
+
+feature: calls anyone 
+negative: 1
+certainty: 4
+
+feature: anyone around 
+negative: 1
+certainty: 4
+
+feature: around the 
+positive: 1
+certainty: 0.0
+
+feature: the g8 
+negative: 1
+certainty: 4
+
+feature: g8 table 
+negative: 1
+certainty: 4
+
+feature: table a 
+negative: 1
+certainty: 4
+
+feature: a loser 
+negative: 1
+certainty: 4
+
+feature: @user ordered 
+negative: 1
+certainty: 4
+
+feature: ordered pc 
+negative: 1
+certainty: 4
+
+feature: pc parts 
+negative: 1
+certainty: 4
+
+feature: parts on 
+negative: 1
+certainty: 4
+
+feature: on amazon 
+positive: 25
+certainty: 2.5257286443082556
+
+feature: day one 
+negative: 1
+certainty: 4
+
+feature: one day 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: day shipping 
+positive: 1
+certainty: 0.0
+
+feature: shipping havent 
+negative: 1
+certainty: 4
+
+feature: havent received 
+negative: 1
+certainty: 4
+
+feature: received my 
+negative: 1
+certainty: 4
+
+feature: my item 
+negative: 1
+certainty: 4
+
+feature: item yet 
+negative: 1
+certainty: 4
+
+feature: yet it 
+negative: 1
+certainty: 4
+
+feature: it is 
+positive: 1
+certainty: 0.0
+
+feature: is now 
+negative: 1
+certainty: 4
+
+feature: now monday 
+negative: 1
+certainty: 4
+
+feature: monday very 
+negative: 1
+certainty: 4
+
+feature: very dissatisfied 
+negative: 1
+certainty: 4
+
+feature: to run 
+negative: 1
+certainty: 4
+
+feature: run for 
+negative: 1
+certainty: 4
+
+feature: for 4th 
+negative: 1
+certainty: 4
+
+feature: 4th term 
+negative: 3
+certainty: 4
+
+feature: term if 
+negative: 1
+certainty: 4
+
+feature: if this 
+positive: 1
+certainty: 0.0
+
+feature: this happens 
+negative: 1
+certainty: 4
+
+feature: happens in 
+negative: 1
+certainty: 4
+
+feature: in africa 
+negative: 1
+certainty: 4
+
+feature: africa un 
+negative: 1
+certainty: 4
+
+feature: un us 
+negative: 1
+certainty: 4
+
+feature: us g7 
+negative: 1
+certainty: 4
+
+feature: g7 etc 
+negative: 1
+certainty: 4
+
+feature: etc will 
+negative: 1
+certainty: 4
+
+feature: will be 
+positive: 10
+certainty: 1.2039728043259361
+
+feature: be planning 
+negative: 1
+certainty: 4
+
+feature: planning to 
+negative: 1
+certainty: 4
+
+feature: to invade 
+negative: 1
+certainty: 4
+
+feature: invade the 
+negative: 1
+certainty: 4
+
+feature: the country 
+negative: 1
+certainty: 4
+
+feature: country hypocrites 
+negative: 1
+certainty: 4
+
+feature: hypocrites #africa 
+negative: 1
+certainty: 4
+
+feature: dear @user 
+negative: 1
+certainty: 4
+
+feature: @user the 
+negative: 2
+certainty: 4
+
+feature: the newooffice 
+negative: 1
+certainty: 4
+
+feature: newooffice for 
+negative: 1
+certainty: 4
+
+feature: for mac 
+negative: 1
+certainty: 4
+
+feature: mac is 
+negative: 1
+certainty: 4
+
+feature: is great 
+negative: 1
+certainty: 4
+
+feature: great and 
+negative: 1
+certainty: 4
+
+feature: and all 
+positive: 1
+certainty: 0.0
+
+feature: all but 
+negative: 1
+certainty: 4
+
+feature: but no 
+negative: 1
+certainty: 4
+
+feature: no lync 
+negative: 1
+certainty: 4
+
+feature: lync update 
+negative: 1
+certainty: 4
+
+feature: update c 
+negative: 1
+certainty: 4
+
+feature: c mon 
+negative: 1
+certainty: 4
+
+feature: heads up 
+negative: 1
+certainty: 4
+
+feature: up an 
+negative: 1
+certainty: 4
+
+feature: an important 
+negative: 1
+certainty: 4
+
+feature: important change 
+negative: 1
+certainty: 4
+
+feature: change to 
+negative: 1
+certainty: 4
+
+feature: to amazon 
+positive: 3
+certainty: 1.0986122886681098
+
+feature: prime effective 
+negative: 1
+certainty: 4
+
+feature: effective august 
+negative: 1
+certainty: 4
+
+feature: august 1 
+negative: 1
+certainty: 4
+
+feature: 1 will 
+negative: 1
+certainty: 4
+
+feature: will limit 
+negative: 1
+certainty: 4
+
+feature: limit how 
+negative: 1
+certainty: 4
+
+feature: how you 
+positive: 1
+certainty: 0.0
+
+feature: you can 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: can share 
+negative: 1
+certainty: 4
+
+feature: share free 
+negative: 1
+certainty: 4
+
+feature: free p 
+negative: 1
+certainty: 4
+
+feature: p @user 
+negative: 1
+certainty: 4
+
+feature: @user @user 
+positive: 15
+certainty: 0.7621400520468967
+
+feature: @user i 
+positive: 6
+certainty: 1.791759469228055
+
+feature: i will 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: be downgrading 
+negative: 1
+certainty: 4
+
+feature: downgrading and 
+negative: 1
+certainty: 4
+
+feature: and let 
+negative: 1
+certainty: 4
+
+feature: let #windows10 
+negative: 1
+certainty: 4
+
+feature: #windows10 be 
+negative: 1
+certainty: 4
+
+feature: be out 
+negative: 1
+certainty: 4
+
+feature: out for 
+negative: 1
+certainty: 4
+
+feature: for almost 
+negative: 1
+certainty: 4
+
+feature: almost the 
+negative: 1
+certainty: 4
+
+feature: 1st yr 
+negative: 1
+certainty: 4
+
+feature: yr b4 
+negative: 1
+certainty: 4
+
+feature: b4 trying 
+negative: 1
+certainty: 4
+
+feature: trying it 
+negative: 1
+certainty: 4
+
+feature: it again 
+negative: 1
+certainty: 4
+
+feature: again #windows10fail 
+negative: 1
+certainty: 4
+
+feature: after attempting 
+negative: 1
+certainty: 4
+
+feature: attempting a 
+negative: 1
+certainty: 4
+
+feature: a reinstall 
+negative: 1
+certainty: 4
+
+feature: reinstall it 
+negative: 1
+certainty: 4
+
+feature: it still 
+negative: 1
+certainty: 4
+
+feature: still bricks 
+negative: 1
+certainty: 4
+
+feature: bricks says 
+negative: 1
+certainty: 4
+
+feature: says windows 
+negative: 1
+certainty: 4
+
+feature: windows cannot 
+negative: 1
+certainty: 4
+
+feature: cannot finish 
+negative: 1
+certainty: 4
+
+feature: finish installing 
+negative: 1
+certainty: 4
+
+feature: installing or 
+negative: 1
+certainty: 4
+
+feature: or somesuch 
+negative: 1
+certainty: 4
+
+feature: somesuch @user 
+negative: 1
+certainty: 4
+
+feature: @user may 
+negative: 3
+certainty: 1.0986122886681098
+
+feature: have cost 
+negative: 1
+certainty: 4
+
+feature: cost me 
+negative: 1
+certainty: 4
+
+feature: me 600 
+negative: 1
+certainty: 4
+
+feature: did @user 
+negative: 1
+certainty: 4
+
+feature: @user break 
+negative: 1
+certainty: 4
+
+feature: break windows 
+negative: 1
+certainty: 4
+
+feature: windows 10 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: 10 was 
+negative: 1
+certainty: 4
+
+feature: was working 
+negative: 1
+certainty: 4
+
+feature: working fine 
+negative: 1
+certainty: 4
+
+feature: fine on 
+negative: 1
+certainty: 4
+
+feature: on wednesday 
+negative: 1
+certainty: 4
+
+feature: wednesday but 
+negative: 1
+certainty: 4
+
+feature: but now 
+negative: 1
+certainty: 4
+
+feature: now i 
+negative: 1
+certainty: 4
+
+feature: i cant 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: cant get 
+negative: 1
+certainty: 4
+
+feature: get passed 
+negative: 1
+certainty: 4
+
+feature: passed the 
+negative: 1
+certainty: 4
+
+feature: the login 
+negative: 1
+certainty: 4
+
+feature: login screen 
+negative: 1
+certainty: 4
+
+feature: screen without 
+negative: 1
+certainty: 4
+
+feature: without it 
+negative: 1
+certainty: 4
+
+feature: it freezing 
+negative: 1
+certainty: 4
+
+feature: freezing up 
+negative: 1
+certainty: 4
+
+feature: time @user 
+negative: 1
+certainty: 4
+
+feature: @user has 
+negative: 1
+certainty: 4
+
+feature: has a 
+negative: 3
+certainty: 1.0986122886681098
+
+feature: a high 
+negative: 1
+certainty: 4
+
+feature: high startup 
+negative: 1
+certainty: 4
+
+feature: startup impact 
+negative: 1
+certainty: 4
+
+feature: impact does 
+negative: 1
+certainty: 4
+
+feature: does anyone 
+negative: 1
+certainty: 4
+
+feature: anyone at 
+negative: 1
+certainty: 4
+
+feature: at @user 
+positive: 3
+certainty: 1.0986122886681098
+
+feature: @user have 
+negative: 1
+certainty: 4
+
+feature: have a 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: a clue 
+negative: 1
+certainty: 4
+
+feature: clue #windows10fail 
+negative: 1
+certainty: 4
+
+feature: @user support 
+negative: 1
+certainty: 4
+
+feature: support for 
+negative: 1
+certainty: 4
+
+feature: for 365 
+negative: 1
+certainty: 4
+
+feature: 365 has 
+negative: 1
+certainty: 4
+
+feature: has been 
+negative: 1
+certainty: 4
+
+feature: been terrible 
+negative: 1
+certainty: 4
+
+feature: terrible on 
+negative: 1
+certainty: 4
+
+feature: the phone 
+negative: 3
+certainty: 4
+
+feature: phone for 
+negative: 1
+certainty: 4
+
+feature: for an 
+negative: 2
+certainty: 4
+
+feature: an hour 
+negative: 1
+certainty: 4
+
+feature: hour then 
+negative: 1
+certainty: 4
+
+feature: then got 
+negative: 1
+certainty: 4
+
+feature: got dropped 
+negative: 1
+certainty: 4
+
+feature: dropped so 
+negative: 1
+certainty: 4
+
+feature: so far 
+negative: 1
+certainty: 4
+
+feature: far not 
+negative: 1
+certainty: 4
+
+feature: not worth 
+negative: 1
+certainty: 4
+
+feature: worth the 
+negative: 1
+certainty: 4
+
+feature: the headache 
+negative: 1
+certainty: 4
+
+feature: headache may 
+negative: 1
+certainty: 4
+
+feature: may ask 
+negative: 1
+certainty: 4
+
+feature: ask for 
+negative: 1
+certainty: 4
+
+feature: for refund 
+negative: 1
+certainty: 4
+
+feature: arriving tuesday 
+negative: 1
+certainty: 4
+
+feature: tuesday is 
+negative: 1
+certainty: 4
+
+feature: is decidedly 
+negative: 1
+certainty: 4
+
+feature: decidedly the 
+negative: 1
+certainty: 4
+
+feature: the least 
+negative: 1
+certainty: 4
+
+feature: least prime 
+negative: 1
+certainty: 4
+
+feature: prime my 
+positive: 1
+certainty: 0.0
+
+feature: my amazon 
+positive: 1
+certainty: 0.0
+
+feature: prime shipping 
+negative: 1
+certainty: 4
+
+feature: shipping has 
+negative: 1
+certainty: 4
+
+feature: has ever 
+negative: 1
+certainty: 4
+
+feature: ever been 
+negative: 1
+certainty: 4
+
+feature: been wha 
+negative: 1
+certainty: 4
+
+feature: wha happen 
+negative: 1
+certainty: 4
+
+feature: why would 
+negative: 1
+certainty: 4
+
+feature: would anyone 
+negative: 1
+certainty: 4
+
+feature: anyone want 
+negative: 1
+certainty: 4
+
+feature: want to 
+positive: 2
+certainty: 0.0
+
+feature: to form 
+negative: 1
+certainty: 4
+
+feature: form a 
+negative: 1
+certainty: 4
+
+feature: a metallica 
+negative: 1
+certainty: 4
+
+feature: metallica cover 
+negative: 1
+certainty: 4
+
+feature: cover band 
+negative: 2
+certainty: 4
+
+feature: band what 
+negative: 1
+certainty: 4
+
+feature: what is 
+positive: 1
+certainty: 0.0
+
+feature: the upside 
+negative: 1
+certainty: 4
+
+feature: upside one 
+negative: 1
+certainty: 4
+
+feature: day if 
+negative: 1
+certainty: 4
+
+feature: if they 
+negative: 1
+certainty: 4
+
+feature: they are 
+negative: 1
+certainty: 4
+
+feature: are lucky 
+negative: 1
+certainty: 4
+
+feature: lucky they 
+negative: 1
+certainty: 4
+
+feature: they may 
+negative: 1
+certainty: 4
+
+feature: may open 
+negative: 1
+certainty: 4
+
+feature: open for 
+negative: 1
+certainty: 4
+
+feature: an ac 
+negative: 1
+certainty: 4
+
+feature: ac dc 
+positive: 34
+certainty: 3.5263605246161616
+
+feature: dc cover 
+negative: 1
+certainty: 4
+
+feature: @user and 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: and what 
+negative: 1
+certainty: 4
+
+feature: what did 
+negative: 1
+certainty: 4
+
+feature: did angela 
+negative: 1
+certainty: 4
+
+feature: merkel say 
+negative: 1
+certainty: 4
+
+feature: say shes 
+negative: 1
+certainty: 4
+
+feature: shes going 
+negative: 1
+certainty: 4
+
+feature: going for 
+positive: 1
+certainty: 0.0
+
+feature: for a 
+negative: 3
+certainty: 1.0986122886681098
+
+feature: a 4th 
+negative: 2
+certainty: 4
+
+feature: term germany 
+negative: 1
+certainty: 4
+
+feature: germany is 
+negative: 1
+certainty: 4
+
+feature: is going 
+positive: 1
+certainty: 0.0
+
+feature: the dogs 
+negative: 1
+certainty: 4
+
+feature: dogs right 
+negative: 1
+certainty: 4
+
+feature: @user you 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: you may 
+positive: 4
+certainty: 1.3862943611198906
+
+feature: may want 
+positive: 1
+certainty: 0.0
+
+feature: to fix 
+negative: 1
+certainty: 4
+
+feature: fix this 
+negative: 1
+certainty: 4
+
+feature: after 75 
+negative: 1
+certainty: 4
+
+feature: 75 minutes 
+negative: 1
+certainty: 4
+
+feature: minutes of 
+negative: 1
+certainty: 4
+
+feature: of being 
+negative: 1
+certainty: 4
+
+feature: being on 
+negative: 1
+certainty: 4
+
+feature: on hold 
+negative: 1
+certainty: 4
+
+feature: hold with 
+negative: 1
+certainty: 4
+
+feature: with @user 
+positive: 6
+certainty: 1.0986122886681098
+
+feature: @user in 
+positive: 1
+certainty: 0.0
+
+feature: in india 
+negative: 1
+certainty: 4
+
+feature: india 1 
+negative: 1
+certainty: 4
+
+feature: 1 800 
+negative: 1
+certainty: 4
+
+feature: 800 936 
+negative: 1
+certainty: 4
+
+feature: 936 5700 
+negative: 1
+certainty: 4
+
+feature: 5700 adrian 
+negative: 1
+certainty: 4
+
+feature: adrian wants 
+negative: 1
+certainty: 4
+
+feature: wants to 
+negative: 1
+certainty: 4
+
+feature: to transfer 
+negative: 1
+certainty: 4
+
+feature: transfer my 
+negative: 1
+certainty: 4
+
+feature: my call 
+negative: 1
+certainty: 4
+
+feature: call again 
+negative: 1
+certainty: 4
+
+feature: again 3rd 
+negative: 1
+certainty: 4
+
+feature: 3rd time 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: time #windows10fail 
+negative: 1
+certainty: 4
+
+feature: migration the 
+negative: 1
+certainty: 4
+
+feature: real european 
+negative: 1
+certainty: 4
+
+feature: european crisis 
+negative: 1
+certainty: 4
+
+feature: crisis angela 
+negative: 1
+certainty: 4
+
+feature: @user heard 
+negative: 1
+certainty: 4
+
+feature: heard you 
+negative: 1
+certainty: 4
+
+feature: are a 
+positive: 1
+certainty: 0.0
+
+feature: a software 
+negative: 1
+certainty: 4
+
+feature: software company 
+negative: 1
+certainty: 4
+
+feature: company why 
+negative: 1
+certainty: 4
+
+feature: why then 
+negative: 1
+certainty: 4
+
+feature: then is 
+negative: 1
+certainty: 4
+
+feature: is most 
+negative: 1
+certainty: 4
+
+feature: most of 
+negative: 1
+certainty: 4
+
+feature: of your 
+negative: 1
+certainty: 4
+
+feature: your software 
+negative: 1
+certainty: 4
+
+feature: software so 
+negative: 1
+certainty: 4
+
+feature: so bad 
+negative: 1
+certainty: 4
+
+feature: bad that 
+negative: 1
+certainty: 4
+
+feature: that it 
+negative: 1
+certainty: 4
+
+feature: it has 
+negative: 1
+certainty: 4
+
+feature: has to 
+positive: 1
+certainty: 0.0
+
+feature: to be 
+positive: 5
+certainty: 0.9162907318741551
+
+feature: be replaced 
+negative: 1
+certainty: 4
+
+feature: replaced by 
+negative: 1
+certainty: 4
+
+feature: by 3rd 
+negative: 1
+certainty: 4
+
+feature: 3rd party 
+negative: 1
+certainty: 4
+
+feature: party apps 
+negative: 1
+certainty: 4
+
+feature: merkel after 
+negative: 1
+certainty: 4
+
+feature: after 10yrs 
+negative: 1
+certainty: 4
+
+feature: 10yrs in 
+negative: 1
+certainty: 4
+
+feature: in power 
+negative: 1
+certainty: 4
+
+feature: power she 
+negative: 1
+certainty: 4
+
+feature: she is 
+positive: 1
+certainty: 0.0
+
+feature: is seeking 
+negative: 1
+certainty: 4
+
+feature: seeking a 
+negative: 1
+certainty: 4
+
+feature: term let 
+negative: 1
+certainty: 4
+
+feature: let just 
+negative: 1
+certainty: 4
+
+feature: just imagine 
+negative: 1
+certainty: 4
+
+feature: imagine she 
+negative: 1
+certainty: 4
+
+feature: she was 
+negative: 1
+certainty: 4
+
+feature: was an 
+negative: 1
+certainty: 4
+
+feature: an african 
+negative: 1
+certainty: 4
+
+feature: african leader 
+negative: 1
+certainty: 4
+
+feature: @user daily 
+negative: 1
+certainty: 4
+
+feature: daily windows 
+negative: 1
+certainty: 4
+
+feature: windows updates 
+negative: 1
+certainty: 4
+
+feature: updates suck 
+negative: 1
+certainty: 4
+
+feature: suck w 
+negative: 1
+certainty: 4
+
+feature: w all 
+negative: 1
+certainty: 4
+
+feature: the and 
+negative: 1
+certainty: 4
+
+feature: and drones 
+negative: 1
+certainty: 4
+
+feature: drones u 
+negative: 1
+certainty: 4
+
+feature: u have 
+negative: 1
+certainty: 4
+
+feature: have working 
+negative: 1
+certainty: 4
+
+feature: working 4 
+negative: 1
+certainty: 4
+
+feature: 4 u 
+negative: 1
+certainty: 4
+
+feature: u maybe 
+negative: 1
+certainty: 4
+
+feature: maybe u 
+negative: 1
+certainty: 4
+
+feature: u guys 
+negative: 1
+certainty: 4
+
+feature: guys could 
+negative: 1
+certainty: 4
+
+feature: could get 
+negative: 1
+certainty: 4
+
+feature: get it 
+positive: 1
+certainty: 0.0
+
+feature: it right 
+negative: 1
+certainty: 4
+
+feature: right the 
+negative: 1
+certainty: 4
+
+feature: great my 
+negative: 1
+certainty: 4
+
+feature: my cables 
+negative: 1
+certainty: 4
+
+feature: cables have 
+negative: 1
+certainty: 4
+
+feature: have now 
+negative: 1
+certainty: 4
+
+feature: now been 
+negative: 1
+certainty: 4
+
+feature: been bumped 
+negative: 1
+certainty: 4
+
+feature: bumped from 
+negative: 1
+certainty: 4
+
+feature: from being 
+negative: 1
+certainty: 4
+
+feature: being delivered 
+negative: 1
+certainty: 4
+
+feature: delivered today 
+negative: 1
+certainty: 4
+
+feature: today to 
+negative: 1
+certainty: 4
+
+feature: to friday 
+negative: 1
+certainty: 4
+
+feature: friday thanks 
+negative: 1
+certainty: 4
+
+feature: thanks amazon 
+negative: 1
+certainty: 4
+
+feature: prime really 
+negative: 1
+certainty: 4
+
+feature: really feeling 
+negative: 1
+certainty: 4
+
+feature: feeling the 
+negative: 1
+certainty: 4
+
+feature: the worth 
+negative: 1
+certainty: 4
+
+feature: worth here 
+negative: 1
+certainty: 4
+
+feature: i thought 
+negative: 1
+certainty: 4
+
+feature: thought @user 
+negative: 1
+certainty: 4
+
+feature: @user was 
+negative: 1
+certainty: 4
+
+feature: was retiring 
+negative: 1
+certainty: 4
+
+feature: retiring the 
+negative: 1
+certainty: 4
+
+feature: the lumia 
+negative: 2
+certainty: 4
+
+feature: lumia line 
+negative: 1
+certainty: 4
+
+feature: line to 
+negative: 1
+certainty: 4
+
+feature: to give 
+negative: 1
+certainty: 4
+
+feature: give way 
+negative: 1
+certainty: 4
+
+feature: way to 
+positive: 1
+certainty: 0.0
+
+feature: to surface 
+negative: 1
+certainty: 4
+
+feature: surface mobile 
+negative: 1
+certainty: 4
+
+feature: mobile i 
+negative: 1
+certainty: 4
+
+feature: i guess 
+negative: 1
+certainty: 4
+
+feature: guess not 
+negative: 1
+certainty: 4
+
+feature: @user for 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: a limited 
+negative: 1
+certainty: 4
+
+feature: limited time 
+negative: 1
+certainty: 4
+
+feature: time what 
+negative: 1
+certainty: 4
+
+feature: what about 
+negative: 1
+certainty: 4
+
+feature: about an 
+negative: 1
+certainty: 4
+
+feature: an eternally 
+negative: 1
+certainty: 4
+
+feature: eternally lasting 
+negative: 1
+certainty: 4
+
+feature: lasting no 
+negative: 1
+certainty: 4
+
+feature: no amp 
+negative: 1
+certainty: 4
+
+feature: amp plz 
+negative: 1
+certainty: 4
+
+feature: plz shove 
+negative: 1
+certainty: 4
+
+feature: shove cortana 
+negative: 1
+certainty: 4
+
+feature: cortana where 
+negative: 1
+certainty: 4
+
+feature: where the 
+negative: 1
+certainty: 4
+
+feature: the sun 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: sun doesnt 
+negative: 1
+certainty: 4
+
+feature: doesnt shine 
+negative: 1
+certainty: 4
+
+feature: ordered 3 
+negative: 1
+certainty: 4
+
+feature: 3 amazon 
+negative: 1
+certainty: 4
+
+feature: prime items 
+negative: 1
+certainty: 4
+
+feature: items yesterday 
+negative: 1
+certainty: 4
+
+feature: yesterday one 
+negative: 1
+certainty: 4
+
+feature: one will 
+negative: 1
+certainty: 4
+
+feature: will arrive 
+positive: 1
+certainty: 0.0
+
+feature: arrive saturday 
+negative: 1
+certainty: 4
+
+feature: saturday 2 
+negative: 1
+certainty: 4
+
+feature: 2 days 
+negative: 1
+certainty: 4
+
+feature: days another 
+negative: 1
+certainty: 4
+
+feature: another sunday 
+negative: 1
+certainty: 4
+
+feature: sunday 3 
+negative: 1
+certainty: 4
+
+feature: 3 days 
+negative: 1
+certainty: 4
+
+feature: days the 
+negative: 1
+certainty: 4
+
+feature: the third 
+negative: 2
+certainty: 4
+
+feature: third on 
+negative: 1
+certainty: 4
+
+feature: on tuesday 
+positive: 1
+certainty: 0.0
+
+feature: tuesday 5 
+negative: 1
+certainty: 4
+
+feature: 5 days 
+negative: 1
+certainty: 4
+
+feature: i ve 
+positive: 2
+certainty: 0.0
+
+feature: ve just 
+positive: 1
+certainty: 0.0
+
+feature: just been 
+negative: 1
+certainty: 4
+
+feature: been told 
+negative: 1
+certainty: 4
+
+feature: told for 
+negative: 1
+certainty: 4
+
+feature: the 5th 
+negative: 1
+certainty: 4
+
+feature: 5th time 
+negative: 1
+certainty: 4
+
+feature: time that 
+negative: 1
+certainty: 4
+
+feature: that my 
+positive: 1
+certainty: 0.0
+
+feature: my case 
+negative: 1
+certainty: 4
+
+feature: case number 
+negative: 1
+certainty: 4
+
+feature: number will 
+negative: 1
+certainty: 4
+
+feature: be escalated 
+negative: 1
+certainty: 4
+
+feature: escalated to 
+negative: 1
+certainty: 4
+
+feature: a level 
+negative: 1
+certainty: 4
+
+feature: level ii 
+negative: 1
+certainty: 4
+
+feature: ii tech 
+negative: 1
+certainty: 4
+
+feature: tech by 
+negative: 1
+certainty: 4
+
+feature: by @user 
+positive: 1
+certainty: 0.0
+
+feature: spending the 
+negative: 1
+certainty: 4
+
+feature: the day 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: day on 
+negative: 1
+certainty: 4
+
+feature: phone with 
+negative: 1
+certainty: 4
+
+feature: @user this 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: this is 
+positive: 4
+certainty: 0.28768207245178085
+
+feature: is not 
+negative: 1
+certainty: 4
+
+feature: not how 
+negative: 1
+certainty: 4
+
+feature: how i 
+negative: 1
+certainty: 4
+
+feature: i wanted 
+negative: 1
+certainty: 4
+
+feature: wanted to 
+negative: 1
+certainty: 4
+
+feature: to spend 
+negative: 1
+certainty: 4
+
+feature: spend my 
+negative: 1
+certainty: 4
+
+feature: my sunday 
+positive: 1
+certainty: 0.0
+
+feature: merkel may 
+negative: 1
+certainty: 4
+
+feature: may need 
+positive: 1
+certainty: 0.0
+
+feature: need as 
+negative: 1
+certainty: 4
+
+feature: as many 
+negative: 1
+certainty: 4
+
+feature: many refugees 
+negative: 1
+certainty: 4
+
+feature: refugees due 
+negative: 1
+certainty: 4
+
+feature: due to 
+negative: 1
+certainty: 4
+
+feature: to long 
+negative: 1
+certainty: 4
+
+feature: long penises 
+negative: 1
+certainty: 4
+
+feature: penises from 
+negative: 1
+certainty: 4
+
+feature: from africa 
+negative: 1
+certainty: 4
+
+feature: africa to 
+negative: 1
+certainty: 4
+
+feature: to record 
+negative: 1
+certainty: 4
+
+feature: record movies 
+negative: 1
+certainty: 4
+
+feature: movies etc 
+negative: 1
+certainty: 4
+
+feature: etc these 
+negative: 1
+certainty: 4
+
+feature: these cultures 
+negative: 1
+certainty: 4
+
+feature: cultures do 
+negative: 1
+certainty: 4
+
+feature: do not 
+positive: 1
+certainty: 0.0
+
+feature: not belong 
+negative: 1
+certainty: 4
+
+feature: belong in 
+negative: 1
+certainty: 4
+
+feature: the eu 
+negative: 1
+certainty: 4
+
+feature: the 2nd 
+negative: 1
+certainty: 4
+
+feature: 2nd time 
+negative: 1
+certainty: 4
+
+feature: time i 
+negative: 1
+certainty: 4
+
+feature: i have 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: been charged 
+negative: 1
+certainty: 4
+
+feature: charged for 
+negative: 1
+certainty: 4
+
+feature: for something 
+negative: 1
+certainty: 4
+
+feature: something i 
+negative: 1
+certainty: 4
+
+feature: i wasnt 
+negative: 1
+certainty: 4
+
+feature: wasnt made 
+negative: 1
+certainty: 4
+
+feature: made aware 
+negative: 1
+certainty: 4
+
+feature: aware of 
+negative: 1
+certainty: 4
+
+feature: of person 
+negative: 1
+certainty: 4
+
+feature: person on 
+negative: 1
+certainty: 4
+
+feature: phone didnt 
+negative: 1
+certainty: 4
+
+feature: didnt care 
+negative: 1
+certainty: 4
+
+feature: lumia cityman 
+negative: 1
+certainty: 4
+
+feature: cityman looks 
+negative: 1
+certainty: 4
+
+feature: looks terrible 
+negative: 1
+certainty: 4
+
+feature: terrible and 
+negative: 1
+certainty: 4
+
+feature: and its 
+negative: 2
+certainty: 0.6931471805599453
+
+feature: its blue 
+negative: 1
+certainty: 4
+
+feature: blue not 
+negative: 1
+certainty: 4
+
+feature: not cyan 
+negative: 1
+certainty: 4
+
+feature: cyan buttons 
+negative: 1
+certainty: 4
+
+feature: buttons may 
+negative: 1
+certainty: 4
+
+feature: may be 
+positive: 4
+certainty: 0.6931471805599453
+
+feature: be too 
+negative: 1
+certainty: 4
+
+feature: too small 
+negative: 1
+certainty: 4
+
+feature: small #lumia 
+negative: 1
+certainty: 4
+
+feature: #lumia 730 
+negative: 1
+certainty: 4
+
+feature: 730 735 
+negative: 1
+certainty: 4
+
+feature: 735 has 
+negative: 1
+certainty: 4
+
+feature: a superior 
+negative: 1
+certainty: 4
+
+feature: superior look 
+negative: 1
+certainty: 4
+
+feature: aftr network 
+negative: 1
+certainty: 4
+
+feature: network drop 
+negative: 1
+certainty: 4
+
+feature: drop amazon 
+negative: 1
+certainty: 4
+
+feature: prime streaming 
+negative: 1
+certainty: 4
+
+feature: streaming deal 
+negative: 1
+certainty: 4
+
+feature: deal for 
+negative: 1
+certainty: 4
+
+feature: for 2 
+negative: 1
+certainty: 4
+
+feature: 2 more 
+negative: 1
+certainty: 4
+
+feature: more years 
+negative: 1
+certainty: 4
+
+feature: years make 
+negative: 1
+certainty: 4
+
+feature: make the 
+negative: 1
+certainty: 4
+
+feature: the show 
+negative: 1
+certainty: 4
+
+feature: show unsignable 
+negative: 1
+certainty: 4
+
+feature: unsignable for 
+negative: 1
+certainty: 4
+
+feature: for 3rd 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: 3rd season 
+negative: 1
+certainty: 4
+
+feature: season by 
+negative: 1
+certainty: 4
+
+feature: by anybdy 
+negative: 1
+certainty: 4
+
+feature: anybdy but 
+negative: 1
+certainty: 4
+
+feature: but amazon 
+negative: 1
+certainty: 4
+
+feature: may you 
+negative: 1
+certainty: 4
+
+feature: you please 
+negative: 1
+certainty: 4
+
+feature: please release 
+negative: 1
+certainty: 4
+
+feature: release versions 
+negative: 1
+certainty: 4
+
+feature: versions of 
+negative: 1
+certainty: 4
+
+feature: of windows 
+negative: 1
+certainty: 4
+
+feature: windows when 
+negative: 1
+certainty: 4
+
+feature: when its 
+negative: 1
+certainty: 4
+
+feature: its stable 
+negative: 1
+certainty: 4
+
+feature: stable windows 
+negative: 1
+certainty: 4
+
+feature: 10 is 
+negative: 1
+certainty: 4
+
+feature: is no 
+negative: 1
+certainty: 4
+
+feature: no where 
+negative: 1
+certainty: 4
+
+feature: where near 
+negative: 1
+certainty: 4
+
+feature: near stable 
+negative: 1
+certainty: 4
+
+feature: no diff 
+negative: 1
+certainty: 4
+
+feature: diff from 
+negative: 1
+certainty: 4
+
+feature: from @user 
+positive: 1
+certainty: 0.0
+
+feature: @user with 
+negative: 1
+certainty: 4
+
+feature: with bitlocker 
+negative: 1
+certainty: 4
+
+feature: bitlocker at 
+negative: 1
+certainty: 4
+
+feature: at some 
+negative: 1
+certainty: 4
+
+feature: some point 
+negative: 1
+certainty: 4
+
+feature: point platforms 
+negative: 1
+certainty: 4
+
+feature: platforms should 
+negative: 1
+certainty: 4
+
+feature: should provide 
+negative: 1
+certainty: 4
+
+feature: provide data 
+negative: 1
+certainty: 4
+
+feature: data at 
+negative: 1
+certainty: 4
+
+feature: at rest 
+negative: 1
+certainty: 4
+
+feature: rest encryption 
+negative: 1
+certainty: 4
+
+feature: encryption built 
+negative: 1
+certainty: 4
+
+feature: built in 
+negative: 1
+certainty: 4
+
+feature: be get 
+negative: 1
+certainty: 4
+
+feature: get @user 
+negative: 1
+certainty: 4
+
+feature: @user to 
+positive: 1
+certainty: 0.0
+
+feature: to do 
+positive: 1
+certainty: 0.0
+
+feature: do us 
+negative: 1
+certainty: 4
+
+feature: us all 
+negative: 1
+certainty: 4
+
+feature: all a 
+negative: 1
+certainty: 4
+
+feature: a favour 
+negative: 1
+certainty: 4
+
+feature: favour and 
+negative: 1
+certainty: 4
+
+feature: and sink 
+negative: 1
+certainty: 4
+
+feature: sink the 
+negative: 1
+certainty: 4
+
+feature: the thing 
+negative: 1
+certainty: 4
+
+feature: thing with 
+negative: 1
+certainty: 4
+
+feature: with a 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: a gunboat 
+negative: 1
+certainty: 4
+
+feature: gunboat leave 
+negative: 1
+certainty: 4
+
+feature: leave angela 
+negative: 1
+certainty: 4
+
+feature: why does 
+negative: 1
+certainty: 4
+
+feature: @user make 
+negative: 1
+certainty: 4
+
+feature: make it 
+negative: 1
+certainty: 4
+
+feature: it so 
+negative: 1
+certainty: 4
+
+feature: so hard 
+negative: 1
+certainty: 4
+
+feature: hard to 
+negative: 1
+certainty: 4
+
+feature: to reset 
+negative: 1
+certainty: 4
+
+feature: reset my 
+negative: 1
+certainty: 4
+
+feature: my @user 
+positive: 1
+certainty: 0.0
+
+feature: @user password 
+negative: 1
+certainty: 4
+
+feature: password ridiculous 
+negative: 1
+certainty: 4
+
+feature: ridiculous still 
+negative: 1
+certainty: 4
+
+feature: still not 
+negative: 2
+certainty: 4
+
+feature: not sure 
+negative: 1
+certainty: 4
+
+feature: sure why 
+negative: 1
+certainty: 4
+
+feature: why password 
+negative: 1
+certainty: 4
+
+feature: password stopped 
+negative: 1
+certainty: 4
+
+feature: stopped working 
+negative: 1
+certainty: 4
+
+feature: working in 
+negative: 1
+certainty: 4
+
+feature: 1st place 
+negative: 1
+certainty: 4
+
+feature: and @user 
+positive: 1
+certainty: 0.0
+
+feature: @user mail 
+negative: 1
+certainty: 4
+
+feature: mail calendar 
+negative: 1
+certainty: 4
+
+feature: calendar music 
+negative: 1
+certainty: 4
+
+feature: music and 
+negative: 1
+certainty: 4
+
+feature: and video 
+negative: 1
+certainty: 4
+
+feature: video apps 
+negative: 1
+certainty: 4
+
+feature: apps have 
+negative: 1
+certainty: 4
+
+feature: been rewritten 
+negative: 1
+certainty: 4
+
+feature: rewritten for 
+negative: 1
+certainty: 4
+
+feature: third time 
+negative: 1
+certainty: 4
+
+feature: time in 
+negative: 1
+certainty: 4
+
+feature: in four 
+negative: 1
+certainty: 4
+
+feature: four years 
+negative: 1
+certainty: 4
+
+feature: @user rfkennedy 
+negative: 1
+certainty: 4
+
+feature: rfkennedy @user 
+negative: 1
+certainty: 4
+
+feature: @user why 
+negative: 1
+certainty: 4
+
+feature: why nobody 
+negative: 1
+certainty: 4
+
+feature: nobody have 
+negative: 1
+certainty: 4
+
+feature: have ever 
+negative: 1
+certainty: 4
+
+feature: ever said 
+negative: 1
+certainty: 4
+
+feature: said it 
+negative: 1
+certainty: 4
+
+feature: it about 
+negative: 1
+certainty: 4
+
+feature: about any 
+negative: 1
+certainty: 4
+
+feature: any country 
+negative: 1
+certainty: 4
+
+feature: country outside 
+negative: 1
+certainty: 4
+
+feature: outside africa 
+negative: 1
+certainty: 4
+
+feature: africa why 
+negative: 1
+certainty: 4
+
+feature: why angela 
+negative: 1
+certainty: 4
+
+feature: merkel ran 
+negative: 1
+certainty: 4
+
+feature: ran again 
+negative: 1
+certainty: 4
+
+feature: again for 
+negative: 1
+certainty: 4
+
+feature: a 3rd 
+negative: 1
+certainty: 4
+
+feature: 3rd term 
+negative: 1
+certainty: 4
+
+feature: @user seems 
+negative: 1
+certainty: 4
+
+feature: seems like 
+negative: 1
+certainty: 4
+
+feature: like @user 
+positive: 1
+certainty: 0.0
+
+feature: have bit 
+negative: 1
+certainty: 4
+
+feature: bit off 
+negative: 1
+certainty: 4
+
+feature: off more 
+negative: 1
+certainty: 4
+
+feature: more than 
+negative: 1
+certainty: 4
+
+feature: than they 
+negative: 1
+certainty: 4
+
+feature: they could 
+negative: 1
+certainty: 4
+
+feature: could chew 
+negative: 1
+certainty: 4
+
+feature: chew with 
+negative: 1
+certainty: 4
+
+feature: with the 
+positive: 1
+certainty: 0.0
+
+feature: the state 
+negative: 1
+certainty: 4
+
+feature: state of 
+negative: 1
+certainty: 4
+
+feature: of w10 
+negative: 1
+certainty: 4
+
+feature: w10 mobile 
+negative: 1
+certainty: 4
+
+feature: mobile and 
+negative: 1
+certainty: 4
+
+feature: and core 
+negative: 1
+certainty: 4
+
+feature: core apps 
+negative: 1
+certainty: 4
+
+feature: apps on 
+negative: 1
+certainty: 4
+
+feature: on mobile 
+negative: 1
+certainty: 4
+
+feature: mobile amp 
+negative: 1
+certainty: 4
+
+feature: amp pc 
+negative: 1
+certainty: 4
+
+feature: hey @user 
+negative: 1
+certainty: 4
+
+feature: @user fuck 
+negative: 1
+certainty: 4
+
+feature: fuck you 
+negative: 1
+certainty: 4
+
+feature: you i 
+negative: 1
+certainty: 4
+
+feature: i dont 
+positive: 2
+certainty: 0.0
+
+feature: dont have 
+negative: 1
+certainty: 4
+
+feature: have internet 
+negative: 1
+certainty: 4
+
+feature: internet until 
+negative: 1
+certainty: 4
+
+feature: until thursday 
+negative: 1
+certainty: 4
+
+feature: thursday and 
+negative: 1
+certainty: 4
+
+feature: and my 
+negative: 1
+certainty: 4
+
+feature: my xbox 
+negative: 1
+certainty: 4
+
+feature: xbox one 
+negative: 1
+certainty: 4
+
+feature: one wont 
+negative: 1
+certainty: 4
+
+feature: wont even 
+negative: 1
+certainty: 4
+
+feature: even let 
+negative: 1
+certainty: 4
+
+feature: let me 
+negative: 1
+certainty: 4
+
+feature: me sign 
+negative: 1
+certainty: 4
+
+feature: sign onto 
+negative: 1
+certainty: 4
+
+feature: onto my 
+negative: 1
+certainty: 4
+
+feature: my account 
+negative: 1
+certainty: 4
+
+feature: account offline 
+negative: 1
+certainty: 4
+
+feature: @user 3rd 
+negative: 1
+certainty: 4
+
+feature: time my 
+negative: 1
+certainty: 4
+
+feature: my lumia 
+negative: 1
+certainty: 4
+
+feature: lumia handset 
+negative: 1
+certainty: 4
+
+feature: handset submitted 
+negative: 1
+certainty: 4
+
+feature: submitted in 
+negative: 1
+certainty: 4
+
+feature: in service 
+negative: 1
+certainty: 4
+
+feature: service centre 
+negative: 1
+certainty: 4
+
+feature: centre in 
+negative: 1
+certainty: 4
+
+feature: in last 
+negative: 1
+certainty: 4
+
+feature: last 8 
+negative: 1
+certainty: 4
+
+feature: 8 months 
+negative: 1
+certainty: 4
+
+feature: months no 
+negative: 1
+certainty: 4
+
+feature: no one 
+negative: 1
+certainty: 4
+
+feature: one is 
+negative: 1
+certainty: 4
+
+feature: is looking 
+negative: 1
+certainty: 4
+
+feature: looking into 
+negative: 1
+certainty: 4
+
+feature: into it 
+negative: 1
+certainty: 4
+
+feature: it need 
+negative: 1
+certainty: 4
+
+feature: need replacement 
+negative: 1
+certainty: 4
+
+feature: replacement of 
+negative: 1
+certainty: 4
+
+feature: of my 
+positive: 1
+certainty: 0.0
+
+feature: my 930 
+negative: 1
+certainty: 4
+
+feature: merkel says 
+negative: 1
+certainty: 4
+
+feature: says border 
+negative: 1
+certainty: 4
+
+feature: border controls 
+negative: 1
+certainty: 4
+
+feature: controls may 
+negative: 1
+certainty: 4
+
+feature: have to 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: be restored 
+negative: 1
+certainty: 4
+
+feature: restored its 
+negative: 1
+certainty: 4
+
+feature: a pity 
+negative: 1
+certainty: 4
+
+feature: pity she 
+negative: 1
+certainty: 4
+
+feature: she didnt 
+negative: 1
+certainty: 4
+
+feature: didnt listen 
+negative: 1
+certainty: 4
+
+feature: listen before 
+negative: 1
+certainty: 4
+
+feature: before it 
+negative: 1
+certainty: 4
+
+feature: it was 
+positive: 1
+certainty: 0.0
+
+feature: was too 
+negative: 1
+certainty: 4
+
+feature: too late 
+negative: 1
+certainty: 4
+
+feature: a little 
+negative: 1
+certainty: 4
+
+feature: little worried 
+negative: 1
+certainty: 4
+
+feature: worried about 
+negative: 1
+certainty: 4
+
+feature: about amazon 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: amazon the 
+negative: 1
+certainty: 4
+
+feature: the collection 
+negative: 1
+certainty: 4
+
+feature: collection was 
+negative: 1
+certainty: 4
+
+feature: was meant 
+negative: 1
+certainty: 4
+
+feature: meant to 
+negative: 1
+certainty: 4
+
+feature: to go 
+negative: 1
+certainty: 4
+
+feature: go up 
+negative: 1
+certainty: 4
+
+feature: up on 
+negative: 1
+certainty: 4
+
+feature: on saturday 
+positive: 1
+certainty: 0.0
+
+feature: saturday but 
+negative: 1
+certainty: 4
+
+feature: but is 
+negative: 1
+certainty: 4
+
+feature: is still 
+negative: 1
+certainty: 4
+
+feature: not available 
+negative: 2
+certainty: 4
+
+feature: may all 
+negative: 1
+certainty: 4
+
+feature: the items 
+negative: 1
+certainty: 4
+
+feature: items saved 
+negative: 1
+certainty: 4
+
+feature: saved for 
+negative: 1
+certainty: 4
+
+feature: for later 
+negative: 1
+certainty: 4
+
+feature: later in 
+positive: 1
+certainty: 0.0
+
+feature: in your 
+negative: 1
+certainty: 4
+
+feature: your amazon 
+negative: 1
+certainty: 4
+
+feature: amazon basket 
+negative: 1
+certainty: 4
+
+feature: basket increase 
+negative: 1
+certainty: 4
+
+feature: increase in 
+negative: 1
+certainty: 4
+
+feature: in price 
+negative: 1
+certainty: 4
+
+feature: price #moderncurses 
+negative: 1
+certainty: 4
+
+feature: ordered my 
+positive: 1
+certainty: 0.0
+
+feature: my back 
+negative: 1
+certainty: 4
+
+feature: back pack 
+negative: 1
+certainty: 4
+
+feature: pack off 
+negative: 1
+certainty: 4
+
+feature: off of 
+negative: 1
+certainty: 4
+
+feature: of amazon 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: amazon 3 
+negative: 1
+certainty: 4
+
+feature: 3 weeks 
+negative: 1
+certainty: 4
+
+feature: weeks ago 
+negative: 1
+certainty: 4
+
+feature: ago and 
+negative: 1
+certainty: 4
+
+feature: and it 
+positive: 1
+certainty: 0.0
+
+feature: it turns 
+negative: 1
+certainty: 4
+
+feature: turns out 
+negative: 1
+certainty: 4
+
+feature: out they 
+negative: 1
+certainty: 4
+
+feature: they lost 
+negative: 1
+certainty: 4
+
+feature: lost my 
+negative: 1
+certainty: 4
+
+feature: my package 
+negative: 1
+certainty: 4
+
+feature: package and 
+negative: 1
+certainty: 4
+
+feature: and school 
+negative: 1
+certainty: 4
+
+feature: school starts 
+negative: 1
+certainty: 4
+
+feature: starts tomorrow 
+negative: 1
+certainty: 4
+
+feature: tomorrow #sick 
+negative: 1
+certainty: 4
+
+feature: @user #lumia 
+negative: 1
+certainty: 4
+
+feature: #lumia @user 
+negative: 1
+certainty: 4
+
+feature: @user 2nd 
+negative: 1
+certainty: 4
+
+feature: 2nd you 
+negative: 1
+certainty: 4
+
+feature: you guys 
+negative: 1
+certainty: 4
+
+feature: guys havent 
+negative: 1
+certainty: 4
+
+feature: havent released 
+negative: 1
+certainty: 4
+
+feature: released a 
+negative: 1
+certainty: 4
+
+feature: a lumia 
+negative: 1
+certainty: 4
+
+feature: lumia that 
+negative: 1
+certainty: 4
+
+feature: that has 
+negative: 1
+certainty: 4
+
+feature: a qhd 
+negative: 1
+certainty: 4
+
+feature: qhd screen 
+negative: 1
+certainty: 4
+
+feature: screen or 
+negative: 1
+certainty: 4
+
+feature: or takes 
+negative: 1
+certainty: 4
+
+feature: takes video 
+negative: 1
+certainty: 4
+
+feature: video in 
+negative: 1
+certainty: 4
+
+feature: in 2k 
+negative: 1
+certainty: 4
+
+feature: 2k resolution 
+negative: 1
+certainty: 4
+
+feature: resolution yet 
+negative: 1
+certainty: 4
+
+feature: @user omg 
+negative: 1
+certainty: 4
+
+feature: omg i 
+negative: 1
+certainty: 4
+
+feature: cant use 
+negative: 1
+certainty: 4
+
+feature: use my 
+negative: 1
+certainty: 4
+
+feature: my credit 
+negative: 1
+certainty: 4
+
+feature: credit card 
+negative: 1
+certainty: 4
+
+feature: card reward 
+negative: 1
+certainty: 4
+
+feature: reward points 
+negative: 1
+certainty: 4
+
+feature: points on 
+negative: 1
+certainty: 4
+
+feature: on preorders 
+negative: 1
+certainty: 4
+
+feature: preorders and 
+negative: 1
+certainty: 4
+
+feature: its not 
+negative: 1
+certainty: 4
+
+feature: available on 
+positive: 1
+certainty: 0.0
+
+feature: amazon until 
+negative: 1
+certainty: 4
+
+feature: until the 
+negative: 1
+certainty: 4
+
+feature: the 18th 
+negative: 1
+certainty: 4
+
+feature: 18th can 
+negative: 1
+certainty: 4
+
+feature: can u 
+negative: 1
+certainty: 4
+
+feature: u wait 
+negative: 1
+certainty: 4
+
+feature: author if 
+negative: 1
+certainty: 4
+
+feature: if i 
+negative: 1
+certainty: 4
+
+feature: ve ever 
+negative: 1
+certainty: 4
+
+feature: ever reviewed 
+negative: 1
+certainty: 4
+
+feature: reviewed your 
+negative: 1
+certainty: 4
+
+feature: your book 
+negative: 1
+certainty: 4
+
+feature: book grab 
+negative: 1
+certainty: 4
+
+feature: grab a 
+positive: 1
+certainty: 0.0
+
+feature: a screen 
+negative: 1
+certainty: 4
+
+feature: screen cap 
+negative: 1
+certainty: 4
+
+feature: cap now 
+negative: 1
+certainty: 4
+
+feature: now amazon 
+negative: 1
+certainty: 4
+
+feature: amazon may 
+positive: 1
+certainty: 0.0
+
+feature: may pull 
+negative: 1
+certainty: 4
+
+feature: pull it 
+negative: 1
+certainty: 4
+
+feature: it down 
+negative: 1
+certainty: 4
+
+feature: damnit amazon 
+negative: 1
+certainty: 4
+
+feature: amazon when 
+negative: 1
+certainty: 4
+
+feature: when you 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: you say 
+negative: 1
+certainty: 4
+
+feature: say you 
+negative: 1
+certainty: 4
+
+feature: you re 
+positive: 2
+certainty: 0.6931471805599453
+
+feature: re going 
+positive: 1
+certainty: 0.0
+
+feature: to ship 
+negative: 2
+certainty: 4
+
+feature: ship something 
+negative: 1
+certainty: 4
+
+feature: something on 
+negative: 1
+certainty: 4
+
+feature: the 8th 
+negative: 2
+certainty: 4
+
+feature: 8th i 
+negative: 1
+certainty: 4
+
+feature: i expect 
+negative: 1
+certainty: 4
+
+feature: expect it 
+negative: 1
+certainty: 4
+
+feature: it to 
+negative: 1
+certainty: 4
+
+feature: ship on 
+negative: 1
+certainty: 4
+
+feature: @user jelly 
+negative: 1
+certainty: 4
+
+feature: jelly mine 
+negative: 1
+certainty: 4
+
+feature: mine wont 
+negative: 1
+certainty: 4
+
+feature: wont be 
+negative: 1
+certainty: 4
+
+feature: be here 
+positive: 4
+certainty: 1.3862943611198906
+
+feature: here until 
+negative: 1
+certainty: 4
+
+feature: until friday 
+negative: 1
+certainty: 4
+
+feature: friday because 
+negative: 1
+certainty: 4
+
+feature: because amazon 
+negative: 1
+certainty: 4
+
+feature: amazon are 
+negative: 1
+certainty: 4
+
+feature: are tight 
+negative: 1
+certainty: 4
+
+feature: tight with 
+negative: 1
+certainty: 4
+
+feature: with shipping 
+negative: 1
+certainty: 4
+
+feature: shipping dates 
+negative: 1
+certainty: 4
+
+feature: the exact 
+negative: 1
+certainty: 4
+
+feature: exact reason 
+negative: 1
+certainty: 4
+
+feature: reason why 
+negative: 1
+certainty: 4
+
+feature: why i 
+negative: 1
+certainty: 4
+
+feature: dont preorder 
+negative: 1
+certainty: 4
+
+feature: preorder friday 
+negative: 1
+certainty: 4
+
+feature: friday releases 
+negative: 1
+certainty: 4
+
+feature: releases from 
+negative: 1
+certainty: 4
+
+feature: from amazon 
+positive: 4
+certainty: 1.3862943611198906
+
+feature: amazon they 
+positive: 1
+certainty: 0.0
+
+feature: they always 
+negative: 1
+certainty: 4
+
+feature: always push 
+negative: 1
+certainty: 4
+
+feature: push it 
+negative: 1
+certainty: 4
+
+feature: it back 
+positive: 1
+certainty: 0.0
+
+feature: back to 
+positive: 3
+certainty: 1.0986122886681098
+
+feature: the monday 
+negative: 1
+certainty: 4
+
+feature: monday delivery 
+negative: 1
+certainty: 4
+
+feature: if its 
+positive: 1
+certainty: 0.0
+
+feature: its u2 
+negative: 1
+certainty: 4
+
+feature: u2 im 
+negative: 1
+certainty: 4
+
+feature: im breaking 
+negative: 1
+certainty: 4
+
+feature: breaking all 
+positive: 1
+certainty: 0.0
+
+feature: all my 
+negative: 1
+certainty: 4
+
+feature: my apple 
+negative: 1
+certainty: 4
+
+feature: apple devices 
+negative: 1
+certainty: 4
+
+feature: i feel 
+positive: 1
+certainty: 0.0
+
+feature: feel like 
+negative: 1
+certainty: 4
+
+feature: like i 
+positive: 1
+certainty: 0.0
+
+feature: i ll 
+positive: 3
+certainty: 1.0986122886681098
+
+feature: ll lose 
+negative: 1
+certainty: 4
+
+feature: lose whatever 
+negative: 1
+certainty: 4
+
+feature: whatever cool 
+negative: 1
+certainty: 4
+
+feature: cool person 
+negative: 1
+certainty: 4
+
+feature: person creds 
+negative: 1
+certainty: 4
+
+feature: creds i 
+negative: 1
+certainty: 4
+
+feature: i may 
+positive: 5
+certainty: 1.6094379124341005
+
+feature: have had 
+negative: 1
+certainty: 4
+
+feature: had by 
+negative: 1
+certainty: 4
+
+feature: by saying 
+negative: 1
+certainty: 4
+
+feature: saying this 
+negative: 1
+certainty: 4
+
+feature: this but 
+negative: 1
+certainty: 4
+
+feature: but i 
+negative: 1
+certainty: 4
+
+feature: i honestly 
+negative: 1
+certainty: 4
+
+feature: honestly dont 
+negative: 1
+certainty: 4
+
+feature: dont care 
+negative: 1
+certainty: 4
+
+feature: care about 
+negative: 1
+certainty: 4
+
+feature: about the 
+negative: 1
+certainty: 4
+
+feature: the apple 
+positive: 7
+certainty: 0.8472978603872037
+
+feature: apple event 
+positive: 6
+certainty: 0.6931471805599453
+
+feature: event today 
+positive: 1
+certainty: 0.0
+
+feature: amazon rainforest 
+negative: 1
+certainty: 4
+
+feature: rainforest lungs 
+negative: 1
+certainty: 4
+
+feature: lungs of 
+negative: 1
+certainty: 4
+
+feature: world has 
+positive: 1
+certainty: 0.0
+
+feature: has lost 
+negative: 1
+certainty: 4
+
+feature: lost a 
+negative: 1
+certainty: 4
+
+feature: a 10th 
+negative: 1
+certainty: 4
+
+feature: 10th of 
+negative: 1
+certainty: 4
+
+feature: of its 
+negative: 1
+certainty: 4
+
+feature: its trees 
+negative: 1
+certainty: 4
+
+feature: trees in 
+negative: 1
+certainty: 4
+
+feature: in 5 
+negative: 1
+certainty: 4
+
+feature: 5 decades 
+negative: 1
+certainty: 4
+
+feature: oddly the 
+negative: 1
+certainty: 4
+
+feature: event will 
+negative: 1
+certainty: 4
+
+feature: will stream 
+negative: 1
+certainty: 4
+
+feature: stream to 
+negative: 1
+certainty: 4
+
+feature: a edge 
+negative: 1
+certainty: 4
+
+feature: edge browser 
+negative: 1
+certainty: 4
+
+feature: browser but 
+negative: 1
+certainty: 4
+
+feature: but not 
+negative: 1
+certainty: 4
+
+feature: not to 
+negative: 1
+certainty: 4
+
+feature: to chrome 
+negative: 1
+certainty: 4
+
+feature: is even 
+negative: 1
+certainty: 4
+
+feature: even more 
+negative: 1
+certainty: 4
+
+feature: more depressing 
+negative: 1
+certainty: 4
+
+feature: depressing than 
+negative: 1
+certainty: 4
+
+feature: than the 
+positive: 1
+certainty: 0.0
+
+feature: for any 
+positive: 1
+certainty: 4
+
+feature: any amazon 
+positive: 1
+certainty: 4
+
+feature: prime members 
+positive: 1
+certainty: 4
+
+feature: members today 
+positive: 1
+certainty: 4
+
+feature: today is 
+positive: 1
+certainty: 4
+
+feature: day which 
+positive: 1
+certainty: 4
+
+feature: which is 
+positive: 1
+certainty: 4
+
+feature: is said 
+positive: 1
+certainty: 4
+
+feature: said to 
+positive: 1
+certainty: 4
+
+feature: be bigger 
+positive: 1
+certainty: 4
+
+feature: shop on 
+positive: 1
+certainty: 4
+
+feature: day with 
+positive: 1
+certainty: 4
+
+feature: with us 
+positive: 1
+certainty: 4
+
+feature: us more 
+positive: 1
+certainty: 4
+
+feature: and 7 
+positive: 1
+certainty: 4
+
+feature: 7 goes 
+positive: 1
+certainty: 4
+
+feature: goes back 
+positive: 1
+certainty: 4
+
+feature: to patients 
+positive: 1
+certainty: 4
+
+feature: its amazon 
+positive: 1
+certainty: 4
+
+feature: day using 
+positive: 1
+certainty: 4
+
+feature: using the 
+positive: 1
+certainty: 4
+
+feature: the autism 
+positive: 1
+certainty: 4
+
+feature: autism sprinter 
+positive: 1
+certainty: 4
+
+feature: sprinter link 
+positive: 1
+certainty: 4
+
+feature: link its 
+positive: 1
+certainty: 4
+
+feature: a new 
+positive: 4
+certainty: 4
+
+feature: new as 
+positive: 1
+certainty: 4
+
+feature: as good 
+positive: 1
+certainty: 4
+
+feature: good as 
+positive: 1
+certainty: 4
+
+feature: as getting 
+positive: 1
+certainty: 4
+
+feature: getting deals 
+positive: 1
+certainty: 4
+
+feature: deals on 
+positive: 1
+certainty: 4
+
+feature: a black 
+positive: 1
+certainty: 4
+
+feature: amazon says 
+positive: 1
+certainty: 4
+
+feature: says its 
+positive: 1
+certainty: 4
+
+feature: its offering 
+positive: 1
+certainty: 4
+
+feature: offering more 
+positive: 1
+certainty: 4
+
+feature: deals today 
+positive: 2
+certainty: 4
+
+feature: today than 
+positive: 1
+certainty: 4
+
+feature: friday 8 
+positive: 1
+certainty: 4
+
+feature: 8 tips 
+positive: 1
+certainty: 4
+
+feature: tips for 
+positive: 1
+certainty: 4
+
+feature: for taking 
+positive: 1
+certainty: 4
+
+feature: taking advantage 
+positive: 1
+certainty: 4
+
+feature: advantage of 
+positive: 3
+certainty: 4
+
+feature: is here 
+positive: 2
+certainty: 4
+
+feature: here more 
+positive: 1
+certainty: 4
+
+feature: deals that 
+positive: 1
+certainty: 4
+
+feature: that black 
+positive: 1
+certainty: 4
+
+feature: friday check 
+positive: 1
+certainty: 4
+
+feature: check it 
+positive: 1
+certainty: 4
+
+feature: it out 
+positive: 1
+certainty: 4
+
+feature: its #wishlist 
+positive: 1
+certainty: 4
+
+feature: #wishlist wednesday 
+positive: 1
+certainty: 4
+
+feature: wednesday amazon 
+positive: 1
+certainty: 4
+
+feature: is in 
+positive: 1
+certainty: 4
+
+feature: in full 
+positive: 1
+certainty: 4
+
+feature: full force 
+positive: 1
+certainty: 4
+
+feature: force and 
+positive: 1
+certainty: 4
+
+feature: and cnet 
+positive: 1
+certainty: 4
+
+feature: cnet is 
+positive: 1
+certainty: 4
+
+feature: is keeping 
+positive: 1
+certainty: 4
+
+feature: keeping an 
+positive: 1
+certainty: 4
+
+feature: an updated 
+positive: 1
+certainty: 4
+
+feature: updated list 
+positive: 1
+certainty: 4
+
+feature: list of 
+positive: 1
+certainty: 4
+
+feature: the best 
+positive: 2
+certainty: 4
+
+feature: best deals 
+positive: 1
+certainty: 4
+
+feature: is today 
+positive: 1
+certainty: 4
+
+feature: today more 
+positive: 1
+certainty: 4
+
+feature: friday eligible 
+positive: 1
+certainty: 4
+
+feature: eligible #amazonsmile 
+positive: 1
+certainty: 4
+
+feature: #amazonsmile purchases 
+positive: 1
+certainty: 4
+
+feature: purchases earns 
+positive: 1
+certainty: 4
+
+feature: earns us 
+positive: 1
+certainty: 4
+
+feature: us 0 
+positive: 1
+certainty: 4
+
+feature: 0 5 
+positive: 1
+certainty: 4
+
+feature: 5 when 
+positive: 1
+certainty: 4
+
+feature: you shop 
+positive: 1
+certainty: 4
+
+feature: tomorrow is 
+positive: 1
+certainty: 4
+
+feature: day free 
+positive: 1
+certainty: 4
+
+feature: free 30 
+positive: 1
+certainty: 4
+
+feature: 30 day 
+positive: 1
+certainty: 4
+
+feature: day trial 
+positive: 1
+certainty: 4
+
+feature: trial to 
+positive: 1
+certainty: 4
+
+feature: to take 
+positive: 2
+certainty: 4
+
+feature: take advantage 
+positive: 2
+certainty: 4
+
+feature: of all 
+positive: 1
+certainty: 4
+
+feature: the sales 
+positive: 1
+certainty: 4
+
+feature: sales tomorrow 
+positive: 1
+certainty: 4
+
+feature: check out 
+positive: 3
+certainty: 4
+
+feature: out amazon 
+positive: 1
+certainty: 4
+
+feature: day just 
+positive: 1
+certainty: 4
+
+feature: just outsold 
+positive: 1
+certainty: 4
+
+feature: outsold black 
+positive: 1
+certainty: 4
+
+feature: #theverge amazon 
+positive: 1
+certainty: 4
+
+feature: is taking 
+positive: 1
+certainty: 4
+
+feature: taking over 
+positive: 1
+certainty: 4
+
+feature: over black 
+positive: 1
+certainty: 4
+
+feature: friday amazon 
+positive: 2
+certainty: 4
+
+feature: amazon has 
+positive: 1
+certainty: 4
+
+feature: has created 
+positive: 1
+certainty: 4
+
+feature: created its 
+positive: 1
+certainty: 4
+
+feature: its own 
+positive: 1
+certainty: 4
+
+feature: own holiday 
+positive: 1
+certainty: 4
+
+feature: holiday the 
+positive: 1
+certainty: 4
+
+feature: the company 
+positive: 2
+certainty: 4
+
+feature: company just 
+positive: 1
+certainty: 4
+
+feature: just a 
+positive: 1
+certainty: 4
+
+feature: here members 
+positive: 1
+certainty: 4
+
+feature: members can 
+positive: 1
+certainty: 4
+
+feature: can get 
+positive: 1
+certainty: 4
+
+feature: get some 
+positive: 1
+certainty: 4
+
+feature: some amazing 
+positive: 1
+certainty: 4
+
+feature: amazing deals 
+positive: 1
+certainty: 4
+
+feature: today just 
+positive: 1
+certainty: 4
+
+feature: just like 
+positive: 2
+certainty: 4
+
+feature: like black 
+positive: 1
+certainty: 4
+
+feature: friday please 
+positive: 1
+certainty: 4
+
+feature: please consider 
+positive: 1
+certainty: 4
+
+feature: consider our 
+positive: 1
+certainty: 4
+
+feature: are one 
+positive: 1
+certainty: 4
+
+feature: one of 
+positive: 2
+certainty: 4
+
+feature: the many 
+positive: 1
+certainty: 4
+
+feature: many shoppers 
+positive: 1
+certainty: 4
+
+feature: shoppers out 
+positive: 1
+certainty: 4
+
+feature: out there 
+positive: 1
+certainty: 4
+
+feature: there wanting 
+positive: 1
+certainty: 4
+
+feature: wanting to 
+positive: 1
+certainty: 4
+
+feature: day today 
+positive: 1
+certainty: 4
+
+feature: today july 
+positive: 1
+certainty: 4
+
+feature: july 15 
+positive: 1
+certainty: 4
+
+feature: be over 
+positive: 1
+certainty: 4
+
+feature: over but 
+positive: 1
+certainty: 4
+
+feature: but you 
+positive: 1
+certainty: 4
+
+feature: can still 
+positive: 1
+certainty: 4
+
+feature: still get 
+positive: 1
+certainty: 4
+
+feature: get a 
+positive: 3
+certainty: 4
+
+feature: a great 
+positive: 2
+certainty: 4
+
+feature: great deal 
+positive: 1
+certainty: 4
+
+feature: deal on 
+positive: 1
+certainty: 4
+
+feature: on this 
+positive: 1
+certainty: 4
+
+feature: this faa 
+positive: 1
+certainty: 4
+
+feature: faa approved 
+positive: 1
+certainty: 4
+
+feature: approved airplane 
+positive: 1
+certainty: 4
+
+feature: airplane seat 
+positive: 1
+certainty: 4
+
+feature: seat belt 
+positive: 1
+certainty: 4
+
+feature: belt extender 
+positive: 1
+certainty: 4
+
+feature: day 34 
+positive: 1
+certainty: 4
+
+feature: 34 4 
+positive: 1
+certainty: 4
+
+feature: 4 million 
+positive: 1
+certainty: 4
+
+feature: million items 
+positive: 1
+certainty: 4
+
+feature: items ordered 
+positive: 2
+certainty: 4
+
+feature: ordered breaking 
+positive: 1
+certainty: 4
+
+feature: all black 
+positive: 1
+certainty: 4
+
+feature: friday records 
+positive: 1
+certainty: 4
+
+feature: records with 
+positive: 1
+certainty: 4
+
+feature: with 398 
+positive: 1
+certainty: 4
+
+feature: 398 items 
+positive: 1
+certainty: 4
+
+feature: ordered per 
+positive: 1
+certainty: 4
+
+feature: per second 
+positive: 1
+certainty: 4
+
+feature: have you 
+positive: 2
+certainty: 4
+
+feature: you heard 
+positive: 2
+certainty: 4
+
+feature: heard about 
+positive: 1
+certainty: 4
+
+feature: day dont 
+positive: 1
+certainty: 4
+
+feature: dont miss 
+positive: 1
+certainty: 4
+
+feature: miss it 
+positive: 1
+certainty: 4
+
+feature: it july 
+positive: 1
+certainty: 4
+
+feature: july 15th 
+positive: 1
+certainty: 4
+
+feature: 15th yay 
+positive: 1
+certainty: 4
+
+feature: yay #ad 
+positive: 1
+certainty: 4
+
+feature: #ad #prepforprime 
+positive: 1
+certainty: 4
+
+feature: #prepforprime @user 
+positive: 1
+certainty: 4
+
+feature: @user #happyprimeday 
+positive: 1
+certainty: 4
+
+feature: day broke 
+positive: 1
+certainty: 4
+
+feature: broke sales 
+positive: 1
+certainty: 4
+
+feature: sales records 
+positive: 1
+certainty: 4
+
+feature: records exceeding 
+positive: 1
+certainty: 4
+
+feature: exceeding black 
+positive: 1
+certainty: 4
+
+feature: friday 2014 
+positive: 1
+certainty: 4
+
+feature: 2014 sales 
+positive: 1
+certainty: 4
+
+feature: sales which 
+positive: 1
+certainty: 4
+
+feature: which had 
+positive: 1
+certainty: 4
+
+feature: had been 
+positive: 1
+certainty: 4
+
+feature: been the 
+positive: 1
+certainty: 4
+
+feature: the biggest 
+positive: 1
+certainty: 4
+
+feature: biggest black 
+positive: 2
+certainty: 4
+
+feature: friday to 
+positive: 1
+certainty: 4
+
+feature: to date 
+positive: 1
+certainty: 4
+
+feature: date says 
+positive: 1
+certainty: 4
+
+feature: says amazon 
+positive: 1
+certainty: 4
+
+feature: despite all 
+positive: 1
+certainty: 4
+
+feature: the funny 
+positive: 1
+certainty: 4
+
+feature: funny posts 
+positive: 1
+certainty: 4
+
+feature: posts about 
+positive: 1
+certainty: 4
+
+feature: about lack 
+positive: 1
+certainty: 4
+
+feature: lack of 
+positive: 1
+certainty: 4
+
+feature: of discounts 
+positive: 1
+certainty: 4
+
+feature: discounts amazon 
+positive: 1
+certainty: 4
+
+feature: day sales 
+positive: 1
+certainty: 4
+
+feature: sales beat 
+positive: 1
+certainty: 4
+
+feature: beat black 
+positive: 1
+certainty: 4
+
+feature: day tops 
+positive: 1
+certainty: 4
+
+feature: tops biggest 
+positive: 1
+certainty: 4
+
+feature: friday for 
+positive: 1
+certainty: 4
+
+feature: company amazons 
+positive: 1
+certainty: 4
+
+feature: amazons first 
+positive: 1
+certainty: 4
+
+feature: first prime 
+positive: 1
+certainty: 4
+
+feature: prime da 
+positive: 1
+certainty: 4
+
+feature: is a 
+positive: 2
+certainty: 4
+
+feature: a true 
+positive: 1
+certainty: 4
+
+feature: true leader 
+positive: 1
+certainty: 4
+
+feature: leader she 
+positive: 1
+certainty: 4
+
+feature: she has 
+positive: 1
+certainty: 4
+
+feature: to tell 
+positive: 1
+certainty: 4
+
+feature: tell a 
+positive: 1
+certainty: 4
+
+feature: a 14yr 
+positive: 1
+certainty: 4
+
+feature: 14yr girl 
+positive: 1
+certainty: 4
+
+feature: girl she 
+positive: 1
+certainty: 4
+
+feature: she cant 
+positive: 1
+certainty: 4
+
+feature: cant have 
+positive: 1
+certainty: 4
+
+feature: have everyone 
+positive: 1
+certainty: 4
+
+feature: everyone stay 
+positive: 1
+certainty: 4
+
+feature: 10 best 
+positive: 1
+certainty: 4
+
+feature: best apps 
+positive: 1
+certainty: 4
+
+feature: apps for 
+positive: 1
+certainty: 4
+
+feature: apple watch 
+positive: 2
+certainty: 4
+
+feature: watch that 
+positive: 1
+certainty: 4
+
+feature: that may 
+positive: 2
+certainty: 4
+
+feature: may make 
+positive: 1
+certainty: 4
+
+feature: make you 
+positive: 1
+certainty: 4
+
+feature: you crave 
+positive: 1
+certainty: 4
+
+feature: crave one 
+positive: 1
+certainty: 4
+
+feature: one #applewatch 
+positive: 1
+certainty: 4
+
+feature: watch now 
+positive: 1
+certainty: 4
+
+feature: now works 
+positive: 1
+certainty: 4
+
+feature: works with 
+positive: 1
+certainty: 4
+
+feature: with august 
+positive: 1
+certainty: 4
+
+feature: august s 
+positive: 1
+certainty: 4
+
+feature: s designer 
+positive: 1
+certainty: 4
+
+feature: designer smart 
+positive: 1
+certainty: 4
+
+feature: smart lock 
+positive: 1
+certainty: 4
+
+feature: lock #charlesmilander 
+positive: 1
+certainty: 4
+
+feature: good to 
+positive: 1
+certainty: 4
+
+feature: to see 
+positive: 7
+certainty: 4
+
+feature: see @user 
+positive: 1
+certainty: 4
+
+feature: @user new 
+positive: 2
+certainty: 4
+
+feature: new book 
+positive: 1
+certainty: 4
+
+feature: book available 
+positive: 1
+certainty: 4
+
+feature: available in 
+positive: 1
+certainty: 4
+
+feature: in hard 
+positive: 1
+certainty: 4
+
+feature: hard copy 
+positive: 1
+certainty: 4
+
+feature: copy amazon 
+positive: 1
+certainty: 4
+
+feature: prime bringing 
+positive: 1
+certainty: 4
+
+feature: bringing it 
+positive: 1
+certainty: 4
+
+feature: it tomorrow 
+positive: 3
+certainty: 4
+
+feature: have discovered 
+positive: 1
+certainty: 4
+
+feature: discovered that 
+positive: 1
+certainty: 4
+
+feature: that bobbys 
+positive: 1
+certainty: 4
+
+feature: bobbys world 
+positive: 1
+certainty: 4
+
+feature: has unlimited 
+positive: 1
+certainty: 4
+
+feature: unlimited streaming 
+positive: 1
+certainty: 4
+
+feature: streaming on 
+positive: 2
+certainty: 4
+
+feature: prime i 
+positive: 2
+certainty: 4
+
+feature: may or 
+positive: 2
+certainty: 4
+
+feature: or may 
+positive: 2
+certainty: 4
+
+feature: may not 
+positive: 3
+certainty: 4
+
+feature: not be 
+positive: 1
+certainty: 4
+
+feature: be watching 
+positive: 1
+certainty: 4
+
+feature: watching it 
+positive: 1
+certainty: 4
+
+feature: it while 
+positive: 1
+certainty: 4
+
+feature: while im 
+positive: 1
+certainty: 4
+
+feature: im on 
+positive: 1
+certainty: 4
+
+feature: the bike 
+positive: 1
+certainty: 4
+
+feature: hammond clarkson 
+positive: 1
+certainty: 4
+
+feature: clarkson and 
+positive: 1
+certainty: 4
+
+feature: and may 
+positive: 1
+certainty: 4
+
+feature: have signed 
+positive: 1
+certainty: 4
+
+feature: signed with 
+positive: 1
+certainty: 4
+
+feature: with amazon 
+positive: 5
+certainty: 4
+
+feature: prime via 
+positive: 1
+certainty: 4
+
+feature: via @user 
+positive: 4
+certainty: 4
+
+feature: @user #amazonprime 
+positive: 1
+certainty: 4
+
+feature: #amazonprime #hammond 
+positive: 1
+certainty: 4
+
+feature: #hammond #clarkson 
+positive: 1
+certainty: 4
+
+feature: #clarkson #may 
+positive: 1
+certainty: 4
+
+feature: prime summary 
+positive: 1
+certainty: 4
+
+feature: summary great 
+positive: 1
+certainty: 4
+
+feature: great if 
+positive: 1
+certainty: 4
+
+feature: you order 
+positive: 1
+certainty: 4
+
+feature: order loads 
+positive: 1
+certainty: 4
+
+feature: loads of 
+positive: 1
+certainty: 4
+
+feature: of stuff 
+positive: 1
+certainty: 4
+
+feature: stuff sunday 
+positive: 1
+certainty: 4
+
+feature: sunday delivery 
+positive: 1
+certainty: 4
+
+feature: delivery home 
+positive: 1
+certainty: 4
+
+feature: home essentials 
+positive: 1
+certainty: 4
+
+feature: essentials with 
+positive: 1
+certainty: 4
+
+feature: with now 
+positive: 1
+certainty: 4
+
+feature: now prime 
+positive: 1
+certainty: 4
+
+feature: prime video 
+positive: 2
+certainty: 4
+
+feature: video is 
+positive: 1
+certainty: 4
+
+feature: a nice 
+positive: 2
+certainty: 4
+
+feature: nice bonus 
+positive: 1
+certainty: 4
+
+feature: anyone seen 
+positive: 1
+certainty: 4
+
+feature: seen these 
+positive: 1
+certainty: 4
+
+feature: these just 
+positive: 1
+certainty: 4
+
+feature: just stumbled 
+positive: 1
+certainty: 4
+
+feature: stumbled across 
+positive: 1
+certainty: 4
+
+feature: across them 
+positive: 1
+certainty: 4
+
+feature: them on 
+positive: 1
+certainty: 4
+
+feature: prime looks 
+positive: 1
+certainty: 4
+
+feature: looks like 
+positive: 3
+certainty: 4
+
+feature: have just 
+positive: 1
+certainty: 4
+
+feature: just planned 
+positive: 1
+certainty: 4
+
+feature: planned out 
+positive: 1
+certainty: 4
+
+feature: out my 
+positive: 2
+certainty: 4
+
+feature: my friday 
+positive: 1
+certainty: 4
+
+feature: thought bbc 
+positive: 1
+certainty: 4
+
+feature: bbc lost 
+positive: 1
+certainty: 4
+
+feature: lost @user 
+positive: 1
+certainty: 4
+
+feature: @user street 
+positive: 1
+certainty: 4
+
+feature: street to 
+positive: 1
+certainty: 4
+
+feature: prime but 
+positive: 1
+certainty: 4
+
+feature: but delighted 
+positive: 1
+certainty: 4
+
+feature: delighted to 
+positive: 1
+certainty: 4
+
+feature: see it 
+positive: 3
+certainty: 4
+
+feature: back on 
+positive: 1
+certainty: 4
+
+feature: on tv 
+positive: 1
+certainty: 4
+
+feature: tv for 
+positive: 1
+certainty: 4
+
+feature: 3rd series 
+positive: 1
+certainty: 4
+
+feature: series period 
+positive: 1
+certainty: 4
+
+feature: period detective 
+positive: 1
+certainty: 4
+
+feature: detective drama 
+positive: 1
+certainty: 4
+
+feature: drama at 
+positive: 1
+certainty: 4
+
+feature: at its 
+positive: 1
+certainty: 4
+
+feature: its best 
+positive: 1
+certainty: 4
+
+feature: prime is 
+positive: 2
+certainty: 4
+
+feature: pretty nice 
+positive: 1
+certainty: 4
+
+feature: nice d 
+positive: 1
+certainty: 4
+
+feature: d ordered 
+positive: 1
+certainty: 4
+
+feature: my cousins 
+positive: 1
+certainty: 4
+
+feature: cousins bday 
+positive: 1
+certainty: 4
+
+feature: bday presents 
+positive: 1
+certainty: 4
+
+feature: presents friday 
+positive: 1
+certainty: 4
+
+feature: and they 
+positive: 1
+certainty: 4
+
+feature: they re 
+positive: 1
+certainty: 4
+
+feature: re already 
+positive: 1
+certainty: 4
+
+feature: already in 
+positive: 1
+certainty: 4
+
+feature: the nearest 
+positive: 1
+certainty: 4
+
+feature: nearest usps 
+positive: 1
+certainty: 4
+
+feature: usps location 
+positive: 1
+certainty: 4
+
+feature: innovation for 
+positive: 1
+certainty: 4
+
+feature: for jobs 
+positive: 1
+certainty: 4
+
+feature: jobs is 
+positive: 1
+certainty: 4
+
+feature: is just 
+positive: 1
+certainty: 4
+
+feature: just around 
+positive: 1
+certainty: 4
+
+feature: the corner 
+positive: 1
+certainty: 4
+
+feature: corner to 
+positive: 1
+certainty: 4
+
+feature: be exact 
+positive: 1
+certainty: 4
+
+feature: exact next 
+positive: 1
+certainty: 4
+
+feature: next wednesday 
+positive: 1
+certainty: 4
+
+feature: wednesday 8 
+positive: 1
+certainty: 4
+
+feature: 8 19 
+positive: 1
+certainty: 4
+
+feature: 19 at 
+positive: 1
+certainty: 4
+
+feature: ahhhhh im 
+positive: 1
+certainty: 4
+
+feature: im getting 
+positive: 1
+certainty: 4
+
+feature: getting a 
+positive: 1
+certainty: 4
+
+feature: a turntable 
+positive: 1
+certainty: 4
+
+feature: turntable tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow shouts 
+positive: 1
+certainty: 4
+
+feature: shouts to 
+positive: 1
+certainty: 4
+
+feature: prime one 
+positive: 1
+certainty: 4
+
+feature: @user will 
+positive: 3
+certainty: 4
+
+feature: will do 
+positive: 1
+certainty: 4
+
+feature: do hope 
+positive: 1
+certainty: 4
+
+feature: hope you 
+positive: 1
+certainty: 4
+
+feature: you ll 
+positive: 1
+certainty: 4
+
+feature: ll check 
+positive: 2
+certainty: 4
+
+feature: my 1st 
+positive: 1
+certainty: 4
+
+feature: 1st feature 
+positive: 1
+certainty: 4
+
+feature: feature @user 
+positive: 1
+certainty: 4
+
+feature: @user on 
+positive: 1
+certainty: 4
+
+feature: on itunes 
+positive: 1
+certainty: 4
+
+feature: itunes and 
+positive: 2
+certainty: 4
+
+feature: and amazon 
+positive: 3
+certainty: 4
+
+feature: top 5 
+positive: 1
+certainty: 4
+
+feature: 5 most 
+positive: 1
+certainty: 4
+
+feature: most searched 
+positive: 1
+certainty: 4
+
+feature: searched for 
+positive: 1
+certainty: 4
+
+feature: for back 
+positive: 1
+certainty: 4
+
+feature: to school 
+positive: 1
+certainty: 4
+
+feature: school topics 
+positive: 1
+certainty: 4
+
+feature: topics the 
+positive: 1
+certainty: 4
+
+feature: the list 
+positive: 1
+certainty: 4
+
+feature: list may 
+positive: 1
+certainty: 4
+
+feature: may surprise 
+positive: 1
+certainty: 4
+
+feature: surprise you 
+positive: 1
+certainty: 4
+
+feature: you @user 
+positive: 1
+certainty: 4
+
+feature: @user #backtoschool 
+positive: 1
+certainty: 4
+
+feature: #backtoschool @user 
+positive: 1
+certainty: 4
+
+feature: just in 
+positive: 2
+certainty: 4
+
+feature: in time 
+positive: 3
+certainty: 4
+
+feature: time since 
+positive: 1
+certainty: 4
+
+feature: since we 
+positive: 2
+certainty: 4
+
+feature: we are 
+positive: 1
+certainty: 4
+
+feature: are almost 
+positive: 1
+certainty: 4
+
+feature: almost done 
+positive: 1
+certainty: 4
+
+feature: done with 
+positive: 1
+certainty: 4
+
+feature: the justified 
+positive: 1
+certainty: 4
+
+feature: justified series 
+positive: 1
+certainty: 4
+
+feature: series on 
+positive: 1
+certainty: 4
+
+feature: prime lt 
+positive: 1
+certainty: 4
+
+feature: lt g 
+positive: 1
+certainty: 4
+
+feature: g gt 
+positive: 1
+certainty: 4
+
+feature: @user we 
+positive: 2
+certainty: 4
+
+feature: we have 
+positive: 1
+certainty: 4
+
+feature: have an 
+positive: 1
+certainty: 4
+
+feature: an iot 
+positive: 1
+certainty: 4
+
+feature: iot workshop 
+positive: 1
+certainty: 4
+
+feature: workshop by 
+positive: 1
+certainty: 4
+
+feature: @user at 
+positive: 2
+certainty: 4
+
+feature: at 11pm 
+positive: 1
+certainty: 4
+
+feature: 11pm on 
+positive: 1
+certainty: 4
+
+feature: the friday 
+positive: 1
+certainty: 4
+
+feature: friday definitely 
+positive: 1
+certainty: 4
+
+feature: definitely worth 
+positive: 1
+certainty: 4
+
+feature: worth going 
+positive: 1
+certainty: 4
+
+feature: for inspiration 
+positive: 1
+certainty: 4
+
+feature: inspiration #hacktheplanet 
+positive: 1
+certainty: 4
+
+feature: this just 
+positive: 1
+certainty: 4
+
+feature: in new 
+positive: 1
+certainty: 4
+
+feature: new car 
+positive: 1
+certainty: 4
+
+feature: car show 
+positive: 1
+certainty: 4
+
+feature: show on 
+positive: 2
+certainty: 4
+
+feature: prime to 
+positive: 2
+certainty: 4
+
+feature: be called 
+positive: 1
+certainty: 4
+
+feature: called 2nd 
+positive: 1
+certainty: 4
+
+feature: 2nd gear 
+positive: 1
+certainty: 4
+
+feature: gear cheers 
+positive: 1
+certainty: 4
+
+feature: cheers to 
+positive: 1
+certainty: 4
+
+feature: to @user 
+positive: 4
+certainty: 4
+
+feature: and company 
+positive: 1
+certainty: 4
+
+feature: cant beat 
+positive: 1
+certainty: 4
+
+feature: beat it 
+positive: 1
+certainty: 4
+
+feature: it friday 
+positive: 1
+certainty: 4
+
+feature: night no 
+positive: 1
+certainty: 4
+
+feature: no kids 
+positive: 1
+certainty: 4
+
+feature: kids a 
+positive: 1
+certainty: 4
+
+feature: a few 
+positive: 1
+certainty: 4
+
+feature: few beers 
+positive: 1
+certainty: 4
+
+feature: beers listening 
+positive: 1
+certainty: 4
+
+feature: listening to 
+positive: 1
+certainty: 4
+
+feature: to taylor 
+positive: 1
+certainty: 4
+
+feature: taylor swift 
+positive: 1
+certainty: 4
+
+feature: swift no 
+positive: 1
+certainty: 4
+
+feature: no wait 
+positive: 1
+certainty: 4
+
+feature: wait i 
+positive: 1
+certainty: 4
+
+feature: i meant 
+positive: 1
+certainty: 4
+
+feature: meant ac 
+positive: 1
+certainty: 4
+
+feature: dc motorhead 
+positive: 1
+certainty: 4
+
+feature: @user yes 
+positive: 1
+certainty: 4
+
+feature: yes i 
+positive: 1
+certainty: 4
+
+feature: ll be 
+positive: 3
+certainty: 4
+
+feature: be there 
+positive: 1
+certainty: 4
+
+feature: there also 
+positive: 1
+certainty: 4
+
+feature: also have 
+positive: 1
+certainty: 4
+
+feature: have ac 
+positive: 1
+certainty: 4
+
+feature: dc on 
+positive: 2
+certainty: 4
+
+feature: the 26th 
+positive: 1
+certainty: 4
+
+feature: 26th and 
+positive: 1
+certainty: 4
+
+feature: and buckcherry 
+positive: 1
+certainty: 4
+
+feature: buckcherry at 
+positive: 1
+certainty: 4
+
+feature: at starland 
+positive: 1
+certainty: 4
+
+feature: starland on 
+positive: 1
+certainty: 4
+
+feature: the 28th 
+positive: 1
+certainty: 4
+
+feature: 28th before 
+positive: 1
+certainty: 4
+
+feature: before the 
+positive: 1
+certainty: 4
+
+feature: the carney 
+positive: 1
+certainty: 4
+
+feature: is on 
+positive: 4
+certainty: 4
+
+feature: prime cant 
+positive: 1
+certainty: 4
+
+feature: cant wait 
+positive: 3
+certainty: 4
+
+feature: wait to 
+positive: 2
+certainty: 4
+
+feature: going from 
+positive: 1
+certainty: 4
+
+feature: from ac 
+positive: 1
+certainty: 4
+
+feature: dc to 
+positive: 1
+certainty: 4
+
+feature: to abba 
+positive: 1
+certainty: 4
+
+feature: abba and 
+positive: 1
+certainty: 4
+
+feature: and back 
+positive: 1
+certainty: 4
+
+feature: back again 
+positive: 1
+certainty: 4
+
+feature: again is 
+positive: 1
+certainty: 4
+
+feature: is quite 
+positive: 1
+certainty: 4
+
+feature: quite the 
+positive: 1
+certainty: 4
+
+feature: the mind 
+positive: 1
+certainty: 4
+
+feature: mind fuck 
+positive: 1
+certainty: 4
+
+feature: fuck on 
+positive: 1
+certainty: 4
+
+feature: a saturday 
+positive: 2
+certainty: 4
+
+feature: saturday morning 
+positive: 1
+certainty: 4
+
+feature: morning thank 
+positive: 1
+certainty: 4
+
+feature: thank goodness 
+positive: 1
+certainty: 4
+
+feature: goodness i 
+positive: 1
+certainty: 4
+
+feature: i can 
+positive: 2
+certainty: 4
+
+feature: can handle 
+positive: 1
+certainty: 4
+
+feature: handle it 
+positive: 1
+certainty: 4
+
+feature: it @user 
+positive: 1
+certainty: 4
+
+feature: @user love 
+positive: 1
+certainty: 4
+
+feature: love amazon 
+positive: 1
+certainty: 4
+
+feature: prime just 
+positive: 1
+certainty: 4
+
+feature: just placed 
+positive: 1
+certainty: 4
+
+feature: placed an 
+positive: 1
+certainty: 4
+
+feature: an order 
+positive: 1
+certainty: 4
+
+feature: order and 
+positive: 1
+certainty: 4
+
+feature: it will 
+positive: 2
+certainty: 4
+
+feature: here by 
+positive: 1
+certainty: 4
+
+feature: by lunchtime 
+positive: 1
+certainty: 4
+
+feature: lunchtime tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow great 
+positive: 1
+certainty: 4
+
+feature: great for 
+positive: 1
+certainty: 4
+
+feature: for impatient 
+positive: 1
+certainty: 4
+
+feature: impatient shoppers 
+positive: 1
+certainty: 4
+
+feature: shoppers like 
+positive: 1
+certainty: 4
+
+feature: like me 
+positive: 1
+certainty: 4
+
+feature: thanks to 
+positive: 2
+certainty: 4
+
+feature: new phone 
+positive: 1
+certainty: 4
+
+feature: phone case 
+positive: 1
+certainty: 4
+
+feature: case coming 
+positive: 1
+certainty: 4
+
+feature: coming tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow i 
+positive: 1
+certainty: 4
+
+feature: dont want 
+positive: 1
+certainty: 4
+
+feature: do what 
+positive: 1
+certainty: 4
+
+feature: what my 
+positive: 1
+certainty: 4
+
+feature: my momma 
+positive: 1
+certainty: 4
+
+feature: momma did 
+positive: 1
+certainty: 4
+
+feature: did and 
+positive: 1
+certainty: 4
+
+feature: and drop 
+positive: 1
+certainty: 4
+
+feature: drop it 
+positive: 1
+certainty: 4
+
+feature: it and 
+positive: 1
+certainty: 4
+
+feature: and smash 
+positive: 1
+certainty: 4
+
+feature: smash the 
+positive: 1
+certainty: 4
+
+feature: the screen 
+positive: 1
+certainty: 4
+
+feature: hello lovelies 
+positive: 1
+certainty: 4
+
+feature: lovelies again 
+positive: 1
+certainty: 4
+
+feature: again super 
+positive: 1
+certainty: 4
+
+feature: super sunday 
+positive: 1
+certainty: 4
+
+feature: sunday thai 
+positive: 1
+certainty: 4
+
+feature: thai food 
+positive: 1
+certainty: 4
+
+feature: food ac 
+positive: 1
+certainty: 4
+
+feature: dc raunchy 
+positive: 1
+certainty: 4
+
+feature: raunchy dancing 
+positive: 1
+certainty: 4
+
+feature: dancing during 
+positive: 1
+certainty: 4
+
+feature: during warm 
+positive: 1
+certainty: 4
+
+feature: warm up 
+positive: 1
+certainty: 4
+
+feature: up you 
+positive: 1
+certainty: 4
+
+feature: you lot 
+positive: 1
+certainty: 4
+
+feature: lot and 
+positive: 1
+certainty: 4
+
+feature: and the 
+positive: 1
+certainty: 4
+
+feature: the boys 
+positive: 1
+certainty: 4
+
+feature: boys more 
+positive: 1
+certainty: 4
+
+feature: more season 
+positive: 1
+certainty: 4
+
+feature: season 1 
+positive: 1
+certainty: 4
+
+feature: 1 im 
+positive: 1
+certainty: 4
+
+feature: im a 
+positive: 1
+certainty: 4
+
+feature: a lucky 
+positive: 1
+certainty: 4
+
+feature: lucky woman 
+positive: 1
+certainty: 4
+
+feature: carly fiorina 
+positive: 1
+certainty: 4
+
+feature: fiorina may 
+positive: 1
+certainty: 4
+
+feature: may very 
+positive: 1
+certainty: 4
+
+feature: very well 
+positive: 1
+certainty: 4
+
+feature: well be 
+positive: 1
+certainty: 4
+
+feature: be the 
+positive: 2
+certainty: 4
+
+feature: the smartest 
+positive: 1
+certainty: 4
+
+feature: smartest woman 
+positive: 1
+certainty: 4
+
+feature: woman in 
+positive: 1
+certainty: 4
+
+feature: world next 
+positive: 1
+certainty: 4
+
+feature: next to 
+positive: 1
+certainty: 4
+
+feature: to angela 
+positive: 1
+certainty: 4
+
+feature: merkel that 
+positive: 1
+certainty: 4
+
+feature: that is 
+positive: 1
+certainty: 4
+
+feature: @user saiten 
+positive: 1
+certainty: 4
+
+feature: saiten thats 
+positive: 1
+certainty: 4
+
+feature: thats a 
+positive: 1
+certainty: 4
+
+feature: great movie 
+positive: 1
+certainty: 4
+
+feature: movie its 
+positive: 1
+certainty: 4
+
+feature: its on 
+positive: 3
+certainty: 4
+
+feature: prime too 
+positive: 1
+certainty: 4
+
+feature: too i 
+positive: 1
+certainty: 4
+
+feature: i watched 
+positive: 1
+certainty: 4
+
+feature: watched it 
+positive: 1
+certainty: 4
+
+feature: it for 
+positive: 1
+certainty: 4
+
+feature: time last 
+positive: 1
+certainty: 4
+
+feature: last night 
+positive: 1
+certainty: 4
+
+feature: just turned 
+positive: 2
+certainty: 4
+
+feature: turned 16 
+positive: 1
+certainty: 4
+
+feature: 16 hitched 
+positive: 1
+certainty: 4
+
+feature: hitched from 
+positive: 1
+certainty: 4
+
+feature: from newcastle 
+positive: 1
+certainty: 4
+
+feature: newcastle to 
+positive: 1
+certainty: 4
+
+feature: to get 
+positive: 2
+certainty: 4
+
+feature: get there 
+positive: 1
+certainty: 4
+
+feature: there went 
+positive: 1
+certainty: 4
+
+feature: went for 
+positive: 1
+certainty: 4
+
+feature: for ac 
+positive: 6
+certainty: 4
+
+feature: dc left 
+positive: 1
+certainty: 4
+
+feature: left obsessed 
+positive: 1
+certainty: 4
+
+feature: obsessed with 
+positive: 1
+certainty: 4
+
+feature: with van 
+positive: 1
+certainty: 4
+
+feature: van halen 
+positive: 2
+certainty: 4
+
+feature: halen carefree 
+positive: 1
+certainty: 4
+
+feature: carefree days 
+positive: 1
+certainty: 4
+
+feature: we already 
+positive: 1
+certainty: 4
+
+feature: already knew 
+positive: 1
+certainty: 4
+
+feature: knew the 
+positive: 1
+certainty: 4
+
+feature: the media 
+positive: 1
+certainty: 4
+
+feature: media march 
+positive: 1
+certainty: 4
+
+feature: march in 
+positive: 1
+certainty: 4
+
+feature: in ideological 
+positive: 1
+certainty: 4
+
+feature: ideological lockstep 
+positive: 1
+certainty: 4
+
+feature: lockstep but 
+positive: 1
+certainty: 4
+
+feature: but it 
+positive: 1
+certainty: 4
+
+feature: is nice 
+positive: 1
+certainty: 4
+
+feature: nice of 
+positive: 1
+certainty: 4
+
+feature: of him 
+positive: 1
+certainty: 4
+
+feature: him to 
+positive: 1
+certainty: 4
+
+feature: to show 
+positive: 2
+certainty: 4
+
+feature: show it 
+positive: 1
+certainty: 4
+
+feature: you havent 
+positive: 1
+certainty: 4
+
+feature: havent seen 
+positive: 1
+certainty: 4
+
+feature: seen @user 
+positive: 1
+certainty: 4
+
+feature: @user from 
+positive: 2
+certainty: 4
+
+feature: from my 
+positive: 1
+certainty: 4
+
+feature: my husband 
+positive: 1
+certainty: 4
+
+feature: husband @user 
+positive: 1
+certainty: 4
+
+feature: @user catch 
+positive: 1
+certainty: 4
+
+feature: catch it 
+positive: 2
+certainty: 4
+
+feature: it on 
+positive: 4
+certainty: 4
+
+feature: prime starting 
+positive: 1
+certainty: 4
+
+feature: starting sept 
+positive: 1
+certainty: 4
+
+feature: sept 5th 
+positive: 1
+certainty: 4
+
+feature: pax prime 
+positive: 1
+certainty: 4
+
+feature: prime thursday 
+positive: 1
+certainty: 4
+
+feature: thursday is 
+positive: 1
+certainty: 4
+
+feature: is overloaded 
+positive: 1
+certainty: 4
+
+feature: overloaded for 
+positive: 1
+certainty: 4
+
+feature: for me 
+positive: 1
+certainty: 4
+
+feature: me with 
+positive: 1
+certainty: 4
+
+feature: and nintendo 
+positive: 1
+certainty: 4
+
+feature: nintendo indie 
+positive: 1
+certainty: 4
+
+feature: indie events 
+positive: 1
+certainty: 4
+
+feature: events going 
+positive: 1
+certainty: 4
+
+feature: going down 
+positive: 1
+certainty: 4
+
+feature: down also 
+positive: 1
+certainty: 4
+
+feature: also cider 
+positive: 1
+certainty: 4
+
+feature: cider p 
+positive: 1
+certainty: 4
+
+feature: @user um 
+positive: 1
+certainty: 4
+
+feature: um i 
+positive: 1
+certainty: 4
+
+feature: not have 
+positive: 1
+certainty: 4
+
+feature: have bought 
+positive: 2
+certainty: 4
+
+feature: bought the 
+positive: 1
+certainty: 4
+
+feature: the first 
+positive: 1
+certainty: 4
+
+feature: first season 
+positive: 1
+certainty: 4
+
+feature: season on 
+positive: 1
+certainty: 4
+
+feature: prime and 
+positive: 2
+certainty: 4
+
+feature: and am 
+positive: 1
+certainty: 4
+
+feature: am kind 
+positive: 1
+certainty: 4
+
+feature: of excitedly 
+positive: 1
+certainty: 4
+
+feature: excitedly freaking 
+positive: 1
+certainty: 4
+
+feature: freaking out 
+positive: 1
+certainty: 4
+
+feature: out right 
+positive: 1
+certainty: 4
+
+feature: right now 
+positive: 1
+certainty: 4
+
+feature: and lemme 
+positive: 1
+certainty: 4
+
+feature: lemme tell 
+positive: 1
+certainty: 4
+
+feature: tell you 
+positive: 1
+certainty: 4
+
+feature: you why 
+positive: 1
+certainty: 4
+
+feature: why my 
+positive: 1
+certainty: 4
+
+feature: prime addiction 
+positive: 1
+certainty: 4
+
+feature: addiction is 
+positive: 1
+certainty: 4
+
+feature: is real 
+positive: 1
+certainty: 4
+
+feature: real i 
+positive: 1
+certainty: 4
+
+feature: i could 
+positive: 2
+certainty: 4
+
+feature: could go 
+positive: 1
+certainty: 4
+
+feature: go to 
+positive: 1
+certainty: 4
+
+feature: the store 
+positive: 1
+certainty: 4
+
+feature: store to 
+positive: 1
+certainty: 4
+
+feature: to purchase 
+positive: 1
+certainty: 4
+
+feature: purchase an 
+positive: 1
+certainty: 4
+
+feature: an umbrella 
+positive: 1
+certainty: 4
+
+feature: umbrella but 
+positive: 1
+certainty: 4
+
+feature: but im 
+positive: 1
+certainty: 4
+
+feature: im online 
+positive: 1
+certainty: 4
+
+feature: online delivery 
+positive: 1
+certainty: 4
+
+feature: delivery tomorrow 
+positive: 1
+certainty: 4
+
+feature: heard the 
+positive: 1
+certainty: 4
+
+feature: the news 
+positive: 1
+certainty: 4
+
+feature: news our 
+positive: 1
+certainty: 4
+
+feature: our next 
+positive: 1
+certainty: 4
+
+feature: next meetup 
+positive: 1
+certainty: 4
+
+feature: meetup is 
+positive: 1
+certainty: 4
+
+feature: on september 
+positive: 2
+certainty: 4
+
+feature: september 10th 
+positive: 3
+certainty: 4
+
+feature: 10th with 
+positive: 1
+certainty: 4
+
+feature: with ryan 
+positive: 1
+certainty: 4
+
+feature: ryan berry 
+positive: 1
+certainty: 4
+
+feature: berry of 
+positive: 1
+certainty: 4
+
+feature: of @user 
+positive: 2
+certainty: 4
+
+feature: @user rsvp 
+positive: 1
+certainty: 4
+
+feature: rsvp now 
+positive: 1
+certainty: 4
+
+feature: now for 
+positive: 1
+certainty: 4
+
+feature: for free 
+positive: 1
+certainty: 4
+
+feature: free gt 
+positive: 1
+certainty: 4
+
+feature: pet adoptions 
+positive: 1
+certainty: 4
+
+feature: adoptions are 
+positive: 1
+certainty: 4
+
+feature: are 10 
+positive: 1
+certainty: 4
+
+feature: 10 this 
+positive: 1
+certainty: 4
+
+feature: this friday 
+positive: 2
+certainty: 4
+
+feature: friday @user 
+positive: 1
+certainty: 4
+
+feature: @user la 
+positive: 1
+certainty: 4
+
+feature: la thanks 
+positive: 1
+certainty: 4
+
+feature: @user #upgradeyourworld 
+positive: 1
+certainty: 4
+
+feature: #upgradeyourworld with 
+positive: 1
+certainty: 4
+
+feature: new best 
+positive: 1
+certainty: 4
+
+feature: best friend 
+positive: 1
+certainty: 4
+
+feature: good friday 
+positive: 1
+certainty: 4
+
+feature: friday morning 
+positive: 1
+certainty: 4
+
+feature: morning this 
+positive: 1
+certainty: 4
+
+feature: this city 
+positive: 1
+certainty: 4
+
+feature: city is 
+positive: 1
+certainty: 4
+
+feature: is changing 
+positive: 1
+certainty: 4
+
+feature: changing are 
+positive: 1
+certainty: 4
+
+feature: are you 
+positive: 1
+certainty: 4
+
+feature: you with 
+positive: 1
+certainty: 4
+
+feature: with it 
+positive: 1
+certainty: 4
+
+feature: it #300menmarch 
+positive: 1
+certainty: 4
+
+feature: #300menmarch @user 
+positive: 1
+certainty: 4
+
+feature: @user america 
+positive: 1
+certainty: 4
+
+feature: america @user 
+positive: 1
+certainty: 4
+
+feature: fuck it 
+positive: 1
+certainty: 4
+
+feature: it closed 
+positive: 1
+certainty: 4
+
+feature: closed the 
+positive: 1
+certainty: 4
+
+feature: the job 
+positive: 1
+certainty: 4
+
+feature: job down 
+positive: 1
+certainty: 4
+
+feature: down early 
+positive: 1
+certainty: 4
+
+feature: early to 
+positive: 1
+certainty: 4
+
+feature: to grab 
+positive: 1
+certainty: 4
+
+feature: a flight 
+positive: 1
+certainty: 4
+
+feature: flight to 
+positive: 1
+certainty: 4
+
+feature: to boston 
+positive: 1
+certainty: 4
+
+feature: boston for 
+positive: 1
+certainty: 4
+
+feature: dc concert 
+positive: 3
+certainty: 4
+
+feature: concert tomorrow 
+positive: 2
+certainty: 4
+
+feature: tomorrow ride 
+positive: 1
+certainty: 4
+
+feature: ride the 
+positive: 1
+certainty: 4
+
+feature: the highs 
+positive: 1
+certainty: 4
+
+feature: highs of 
+positive: 1
+certainty: 4
+
+feature: of free 
+positive: 1
+certainty: 4
+
+feature: free money 
+positive: 1
+certainty: 4
+
+feature: money yo 
+positive: 1
+certainty: 4
+
+feature: yo #lookoutboston 
+positive: 1
+certainty: 4
+
+feature: reddit if 
+positive: 1
+certainty: 4
+
+feature: to ac 
+positive: 3
+certainty: 4
+
+feature: dc tomorrow 
+positive: 4
+certainty: 4
+
+feature: tomorrow at 
+positive: 2
+certainty: 4
+
+feature: at gillette 
+positive: 2
+certainty: 4
+
+feature: gillette dont 
+positive: 1
+certainty: 4
+
+feature: dont forget 
+positive: 1
+certainty: 4
+
+feature: forget your 
+positive: 1
+certainty: 4
+
+feature: your free 
+positive: 1
+certainty: 4
+
+feature: free brady 
+positive: 1
+certainty: 4
+
+feature: brady shirt 
+positive: 1
+certainty: 4
+
+feature: did you 
+positive: 1
+certainty: 4
+
+feature: you know 
+positive: 1
+certainty: 4
+
+feature: know our 
+positive: 1
+certainty: 4
+
+feature: our lunch 
+positive: 1
+certainty: 4
+
+feature: lunch amp 
+positive: 1
+certainty: 4
+
+feature: amp learns 
+positive: 1
+certainty: 4
+
+feature: learns are 
+positive: 1
+certainty: 4
+
+feature: are now 
+positive: 1
+certainty: 4
+
+feature: now open 
+positive: 1
+certainty: 4
+
+feature: open to 
+positive: 1
+certainty: 4
+
+feature: the public 
+positive: 1
+certainty: 4
+
+feature: public join 
+positive: 1
+certainty: 4
+
+feature: join us 
+positive: 1
+certainty: 4
+
+feature: us on 
+positive: 1
+certainty: 4
+
+feature: on august 
+positive: 1
+certainty: 4
+
+feature: august 31 
+positive: 1
+certainty: 4
+
+feature: 31 with 
+positive: 1
+certainty: 4
+
+feature: surprising my 
+positive: 1
+certainty: 4
+
+feature: my mom 
+positive: 2
+certainty: 4
+
+feature: mom with 
+positive: 1
+certainty: 4
+
+feature: with ac 
+positive: 1
+certainty: 4
+
+feature: dc tickets 
+positive: 1
+certainty: 4
+
+feature: tickets for 
+positive: 1
+certainty: 4
+
+feature: for wednesday 
+positive: 1
+certainty: 4
+
+feature: wednesday just 
+positive: 1
+certainty: 4
+
+feature: just going 
+positive: 1
+certainty: 4
+
+feature: show up 
+positive: 1
+certainty: 4
+
+feature: sitting 14th 
+positive: 1
+certainty: 4
+
+feature: 14th row 
+positive: 1
+certainty: 4
+
+feature: row for 
+positive: 1
+certainty: 4
+
+feature: dc tonight 
+positive: 3
+certainty: 4
+
+feature: tonight lets 
+positive: 1
+certainty: 4
+
+feature: lets go 
+positive: 2
+certainty: 4
+
+feature: having dinner 
+positive: 1
+certainty: 4
+
+feature: dinner with 
+positive: 1
+certainty: 4
+
+feature: to plan 
+positive: 1
+certainty: 4
+
+feature: plan 12th 
+positive: 1
+certainty: 4
+
+feature: 12th annual 
+positive: 1
+certainty: 4
+
+feature: annual ny 
+positive: 1
+certainty: 4
+
+feature: ny arab 
+positive: 1
+certainty: 4
+
+feature: arab american 
+positive: 1
+certainty: 4
+
+feature: american comedy 
+positive: 1
+certainty: 4
+
+feature: comedy festival 
+positive: 1
+certainty: 4
+
+feature: festival and 
+positive: 1
+certainty: 4
+
+feature: and ac 
+positive: 2
+certainty: 4
+
+feature: dc walked 
+positive: 1
+certainty: 4
+
+feature: walked in 
+positive: 1
+certainty: 4
+
+feature: in but 
+positive: 1
+certainty: 4
+
+feature: but couldnt 
+positive: 1
+certainty: 4
+
+feature: couldnt get 
+positive: 1
+certainty: 4
+
+feature: a photo 
+positive: 1
+certainty: 4
+
+feature: @user congratulations 
+positive: 1
+certainty: 4
+
+feature: congratulations on 
+positive: 1
+certainty: 4
+
+feature: the 20th 
+positive: 1
+certainty: 4
+
+feature: 20th birth 
+positive: 1
+certainty: 4
+
+feature: birth anniversary 
+positive: 1
+certainty: 4
+
+feature: anniversary of 
+positive: 1
+certainty: 4
+
+feature: @user 95 
+positive: 1
+certainty: 4
+
+feature: 95 20 
+positive: 1
+certainty: 4
+
+feature: 20 years 
+positive: 1
+certainty: 4
+
+feature: years since 
+positive: 1
+certainty: 4
+
+feature: we ve 
+positive: 1
+certainty: 4
+
+feature: ve come 
+positive: 1
+certainty: 4
+
+feature: come to 
+positive: 1
+certainty: 4
+
+feature: to love 
+positive: 1
+certainty: 4
+
+feature: love you 
+positive: 1
+certainty: 4
+
+feature: you amp 
+positive: 1
+certainty: 4
+
+feature: amp backward 
+positive: 1
+certainty: 4
+
+feature: backward compatibility 
+positive: 1
+certainty: 4
+
+feature: @user planning 
+positive: 1
+certainty: 4
+
+feature: planning on 
+positive: 1
+certainty: 4
+
+feature: on ac 
+positive: 1
+certainty: 4
+
+feature: dc live 
+positive: 1
+certainty: 4
+
+feature: live in 
+positive: 1
+certainty: 4
+
+feature: in moncton 
+positive: 1
+certainty: 4
+
+feature: moncton coming 
+positive: 1
+certainty: 4
+
+feature: coming up 
+positive: 1
+certainty: 4
+
+feature: up sooner 
+positive: 1
+certainty: 4
+
+feature: sooner than 
+positive: 1
+certainty: 4
+
+feature: than later 
+positive: 1
+certainty: 4
+
+feature: in montreal 
+positive: 1
+certainty: 4
+
+feature: montreal on 
+positive: 1
+certainty: 4
+
+feature: the 31st 
+positive: 1
+certainty: 4
+
+feature: 31st at 
+positive: 1
+certainty: 4
+
+feature: at the 
+positive: 6
+certainty: 4
+
+feature: the big 
+positive: 4
+certainty: 4
+
+feature: big o 
+positive: 2
+certainty: 4
+
+feature: may still 
+positive: 1
+certainty: 4
+
+feature: still be 
+positive: 1
+certainty: 4
+
+feature: be in 
+positive: 1
+certainty: 4
+
+feature: the handset 
+positive: 1
+certainty: 4
+
+feature: handset smartphone 
+positive: 1
+certainty: 4
+
+feature: smartphone business 
+positive: 1
+certainty: 4
+
+feature: business #surfacephone 
+positive: 1
+certainty: 4
+
+feature: #surfacephone #windows10 
+positive: 1
+certainty: 4
+
+feature: angus youngs 
+positive: 1
+certainty: 4
+
+feature: youngs cap 
+positive: 1
+certainty: 4
+
+feature: cap flew 
+positive: 1
+certainty: 4
+
+feature: flew off 
+positive: 1
+certainty: 4
+
+feature: off six 
+positive: 1
+certainty: 4
+
+feature: six songs 
+positive: 1
+certainty: 4
+
+feature: songs into 
+positive: 1
+certainty: 4
+
+feature: into ac 
+positive: 1
+certainty: 4
+
+feature: ac dcs 
+positive: 1
+certainty: 4
+
+feature: dcs set 
+positive: 1
+certainty: 4
+
+feature: set on 
+positive: 1
+certainty: 4
+
+feature: saturday at 
+positive: 1
+certainty: 4
+
+feature: gillette stadium 
+positive: 1
+certainty: 4
+
+feature: stadium but 
+positive: 1
+certainty: 4
+
+feature: but the 
+positive: 1
+certainty: 4
+
+feature: the guitarist 
+positive: 1
+certainty: 4
+
+feature: guitarist didnt 
+positive: 1
+certainty: 4
+
+feature: enjoying feasibility 
+positive: 1
+certainty: 4
+
+feature: feasibility workshop 
+positive: 1
+certainty: 4
+
+feature: workshop replacing 
+positive: 1
+certainty: 4
+
+feature: replacing #cognos 
+positive: 1
+certainty: 4
+
+feature: #cognos with 
+positive: 1
+certainty: 4
+
+feature: @user #bi 
+positive: 1
+certainty: 4
+
+feature: #bi 4th 
+positive: 1
+certainty: 4
+
+feature: 4th customer 
+positive: 1
+certainty: 4
+
+feature: customer in 
+positive: 1
+certainty: 4
+
+feature: in less 
+positive: 1
+certainty: 4
+
+feature: less than 
+positive: 2
+certainty: 4
+
+feature: than a 
+positive: 1
+certainty: 4
+
+feature: a year 
+positive: 1
+certainty: 4
+
+feature: this time 
+positive: 1
+certainty: 4
+
+feature: time tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow ac 
+positive: 1
+certainty: 4
+
+feature: dc will 
+positive: 1
+certainty: 4
+
+feature: be melting 
+positive: 1
+certainty: 4
+
+feature: melting my 
+positive: 1
+certainty: 4
+
+feature: my fucking 
+positive: 1
+certainty: 4
+
+feature: fucking face 
+positive: 1
+certainty: 4
+
+feature: face off 
+positive: 1
+certainty: 4
+
+feature: off along 
+positive: 1
+certainty: 4
+
+feature: along with 
+positive: 1
+certainty: 4
+
+feature: with 82 
+positive: 1
+certainty: 4
+
+feature: 82 000 
+positive: 1
+certainty: 4
+
+feature: 000 other 
+positive: 1
+certainty: 4
+
+feature: other faces 
+positive: 1
+certainty: 4
+
+feature: faces #acdc 
+positive: 1
+certainty: 4
+
+feature: #acdc #metlife 
+positive: 1
+certainty: 4
+
+feature: as he 
+positive: 1
+certainty: 4
+
+feature: he stared 
+positive: 1
+certainty: 4
+
+feature: stared at 
+positive: 1
+certainty: 4
+
+feature: at his 
+positive: 1
+certainty: 4
+
+feature: his monitor 
+positive: 1
+certainty: 4
+
+feature: monitor the 
+positive: 1
+certainty: 4
+
+feature: the decision 
+positive: 1
+certainty: 4
+
+feature: decision to 
+positive: 1
+certainty: 4
+
+feature: to puchase 
+positive: 1
+certainty: 4
+
+feature: puchase amazon 
+positive: 1
+certainty: 4
+
+feature: prime was 
+positive: 1
+certainty: 4
+
+feature: was suddenly 
+positive: 1
+certainty: 4
+
+feature: suddenly an 
+positive: 1
+certainty: 4
+
+feature: an easy 
+positive: 1
+certainty: 4
+
+feature: easy one 
+positive: 1
+certainty: 4
+
+feature: one for 
+positive: 1
+certainty: 4
+
+feature: for steve 
+positive: 1
+certainty: 4
+
+feature: steve sarkisian 
+positive: 1
+certainty: 4
+
+feature: day sure 
+positive: 1
+certainty: 4
+
+feature: sure snaps 
+positive: 1
+certainty: 4
+
+feature: snaps awake 
+positive: 1
+certainty: 4
+
+feature: awake when 
+positive: 1
+certainty: 4
+
+feature: when your 
+positive: 1
+certainty: 4
+
+feature: your 1st 
+positive: 1
+certainty: 4
+
+feature: 1st tune 
+positive: 1
+certainty: 4
+
+feature: tune is 
+positive: 1
+certainty: 4
+
+feature: is back 
+positive: 1
+certainty: 4
+
+feature: back in 
+positive: 1
+certainty: 4
+
+feature: in black 
+positive: 1
+certainty: 4
+
+feature: black by 
+positive: 1
+certainty: 4
+
+feature: by ac 
+positive: 2
+certainty: 4
+
+feature: dc good 
+positive: 1
+certainty: 4
+
+feature: good wednesday 
+positive: 1
+certainty: 4
+
+feature: wednesday #hr 
+positive: 1
+certainty: 4
+
+feature: #hr #hrmusicshare 
+positive: 1
+certainty: 4
+
+feature: #hrmusicshare #hrpositive 
+positive: 1
+certainty: 4
+
+feature: i used 
+positive: 1
+certainty: 4
+
+feature: used amazon 
+positive: 1
+certainty: 4
+
+feature: get harper 
+positive: 1
+certainty: 4
+
+feature: harper a 
+positive: 1
+certainty: 4
+
+feature: a pete 
+positive: 1
+certainty: 4
+
+feature: pete the 
+positive: 2
+certainty: 4
+
+feature: the cat 
+positive: 2
+certainty: 4
+
+feature: cat shirt 
+positive: 1
+certainty: 4
+
+feature: shirt wish 
+positive: 1
+certainty: 4
+
+feature: wish she 
+positive: 1
+certainty: 4
+
+feature: she could 
+positive: 1
+certainty: 4
+
+feature: could have 
+positive: 2
+certainty: 4
+
+feature: have it 
+positive: 4
+certainty: 4
+
+feature: it in 
+positive: 2
+certainty: 4
+
+feature: time for 
+positive: 1
+certainty: 4
+
+feature: the pete 
+positive: 1
+certainty: 4
+
+feature: cat parade 
+positive: 1
+certainty: 4
+
+feature: parade tomorrow 
+positive: 1
+certainty: 4
+
+feature: from september 
+positive: 1
+certainty: 4
+
+feature: september 2nd 
+positive: 1
+certainty: 4
+
+feature: 2nd in 
+positive: 1
+certainty: 4
+
+feature: in japan 
+positive: 1
+certainty: 4
+
+feature: japan netflix 
+positive: 1
+certainty: 4
+
+feature: netflix amazon 
+positive: 1
+certainty: 4
+
+feature: video hulu 
+positive: 1
+certainty: 4
+
+feature: hulu and 
+positive: 1
+certainty: 4
+
+feature: the other 
+positive: 1
+certainty: 4
+
+feature: other streaming 
+positive: 1
+certainty: 4
+
+feature: streaming services 
+positive: 1
+certainty: 4
+
+feature: services already 
+positive: 1
+certainty: 4
+
+feature: already operating 
+positive: 1
+certainty: 4
+
+feature: operating which 
+positive: 1
+certainty: 4
+
+feature: which one 
+positive: 1
+certainty: 4
+
+feature: one to 
+positive: 1
+certainty: 4
+
+feature: to choose 
+positive: 1
+certainty: 4
+
+feature: turned on 
+positive: 1
+certainty: 4
+
+feature: on my 
+positive: 4
+certainty: 4
+
+feature: @user radio 
+positive: 1
+certainty: 4
+
+feature: radio and 
+positive: 1
+certainty: 4
+
+feature: and got 
+positive: 1
+certainty: 4
+
+feature: got the 
+positive: 1
+certainty: 4
+
+feature: the ronettes 
+positive: 1
+certainty: 4
+
+feature: ronettes followed 
+positive: 1
+certainty: 4
+
+feature: followed by 
+positive: 1
+certainty: 4
+
+feature: dc i 
+positive: 1
+certainty: 4
+
+feature: i just 
+positive: 5
+certainty: 4
+
+feature: just might 
+positive: 1
+certainty: 4
+
+feature: might survive 
+positive: 1
+certainty: 4
+
+feature: survive thursday 
+positive: 1
+certainty: 4
+
+feature: thursday if 
+positive: 1
+certainty: 4
+
+feature: this keeps 
+positive: 1
+certainty: 4
+
+feature: keeps up 
+positive: 1
+certainty: 4
+
+feature: for sale 
+positive: 2
+certainty: 4
+
+feature: sale one 
+positive: 1
+certainty: 4
+
+feature: one general 
+positive: 1
+certainty: 4
+
+feature: general admission 
+positive: 1
+certainty: 4
+
+feature: admission ticket 
+positive: 1
+certainty: 4
+
+feature: ticket to 
+positive: 1
+certainty: 4
+
+feature: dc at 
+positive: 2
+certainty: 4
+
+feature: at downsview 
+positive: 1
+certainty: 4
+
+feature: downsview park 
+positive: 1
+certainty: 4
+
+feature: park on 
+positive: 1
+certainty: 4
+
+feature: 10th you 
+positive: 1
+certainty: 4
+
+feature: you will 
+positive: 1
+certainty: 4
+
+feature: will have 
+positive: 1
+certainty: 4
+
+feature: have the 
+positive: 1
+certainty: 4
+
+feature: the pleasure 
+positive: 1
+certainty: 4
+
+feature: pleasure of 
+positive: 1
+certainty: 4
+
+feature: re sick 
+positive: 1
+certainty: 4
+
+feature: sick of 
+positive: 1
+certainty: 4
+
+feature: of waiting 
+positive: 1
+certainty: 4
+
+feature: waiting for 
+positive: 1
+certainty: 4
+
+feature: a book 
+positive: 1
+certainty: 4
+
+feature: book to 
+positive: 1
+certainty: 4
+
+feature: to come 
+positive: 1
+certainty: 4
+
+feature: come in 
+positive: 1
+certainty: 4
+
+feature: in from 
+positive: 1
+certainty: 4
+
+feature: from bn 
+positive: 1
+certainty: 4
+
+feature: bn so 
+positive: 1
+certainty: 4
+
+feature: so you 
+positive: 1
+certainty: 4
+
+feature: you ask 
+positive: 1
+certainty: 4
+
+feature: ask your 
+positive: 1
+certainty: 4
+
+feature: your husband 
+positive: 1
+certainty: 4
+
+feature: husband to 
+positive: 1
+certainty: 4
+
+feature: to order 
+positive: 1
+certainty: 4
+
+feature: order it 
+positive: 1
+certainty: 4
+
+feature: it via 
+positive: 1
+certainty: 4
+
+feature: via amazon 
+positive: 1
+certainty: 4
+
+feature: prime yup 
+positive: 1
+certainty: 4
+
+feature: yup getting 
+positive: 1
+certainty: 4
+
+feature: getting it 
+positive: 1
+certainty: 4
+
+feature: it saturday 
+positive: 1
+certainty: 4
+
+feature: treat yourself 
+positive: 1
+certainty: 4
+
+feature: yourself to 
+positive: 1
+certainty: 4
+
+feature: to tablettv 
+positive: 1
+certainty: 4
+
+feature: tablettv this 
+positive: 1
+certainty: 4
+
+feature: this bank 
+positive: 1
+certainty: 4
+
+feature: bank holiday 
+positive: 1
+certainty: 4
+
+feature: holiday order 
+positive: 1
+certainty: 4
+
+feature: order today 
+positive: 1
+certainty: 4
+
+feature: today with 
+positive: 1
+certainty: 4
+
+feature: you could 
+positive: 1
+certainty: 4
+
+feature: @user bucket 
+positive: 1
+certainty: 4
+
+feature: bucket list 
+positive: 2
+certainty: 4
+
+feature: list tour 
+positive: 1
+certainty: 4
+
+feature: tour to 
+positive: 1
+certainty: 4
+
+feature: see ac 
+positive: 2
+certainty: 4
+
+feature: dc in 
+positive: 1
+certainty: 4
+
+feature: in ottawa 
+positive: 1
+certainty: 4
+
+feature: ottawa thurs 
+positive: 1
+certainty: 4
+
+feature: thurs a 
+positive: 1
+certainty: 4
+
+feature: a friends 
+positive: 1
+certainty: 4
+
+feature: friends first 
+positive: 1
+certainty: 4
+
+feature: first trip 
+positive: 1
+certainty: 4
+
+feature: trip to 
+positive: 1
+certainty: 4
+
+feature: to ont 
+positive: 1
+certainty: 4
+
+feature: ont hes 
+positive: 1
+certainty: 4
+
+feature: hes 52 
+positive: 1
+certainty: 4
+
+feature: 52 his 
+positive: 1
+certainty: 4
+
+feature: his bucket 
+positive: 1
+certainty: 4
+
+feature: list i 
+positive: 1
+certainty: 4
+
+feature: will webcast 
+positive: 1
+certainty: 4
+
+feature: webcast ya 
+positive: 1
+certainty: 4
+
+feature: @user nothing 
+positive: 1
+certainty: 4
+
+feature: nothing new 
+positive: 1
+certainty: 4
+
+feature: new under 
+positive: 1
+certainty: 4
+
+feature: under the 
+positive: 2
+certainty: 4
+
+feature: sun history 
+positive: 1
+certainty: 4
+
+feature: history always 
+positive: 1
+certainty: 4
+
+feature: always repeats 
+positive: 1
+certainty: 4
+
+feature: repeats @user 
+positive: 1
+certainty: 4
+
+feature: @user brilliant 
+positive: 1
+certainty: 4
+
+feature: brilliant article 
+positive: 1
+certainty: 4
+
+feature: article thanks 
+positive: 1
+certainty: 4
+
+feature: friday the 
+positive: 1
+certainty: 4
+
+feature: the 13th 
+positive: 1
+certainty: 4
+
+feature: 13th the 
+positive: 1
+certainty: 4
+
+feature: the series 
+positive: 1
+certainty: 4
+
+feature: series is 
+positive: 1
+certainty: 4
+
+feature: prime see 
+positive: 1
+certainty: 4
+
+feature: see you 
+positive: 2
+certainty: 4
+
+feature: you all 
+positive: 1
+certainty: 4
+
+feature: all monday 
+positive: 1
+certainty: 4
+
+feature: i know 
+positive: 1
+certainty: 4
+
+feature: know more 
+positive: 1
+certainty: 4
+
+feature: more about 
+positive: 1
+certainty: 4
+
+feature: about ac 
+positive: 1
+certainty: 4
+
+feature: dc concerts 
+positive: 1
+certainty: 4
+
+feature: concerts than 
+positive: 1
+certainty: 4
+
+feature: than angus 
+positive: 1
+certainty: 4
+
+feature: angus young 
+positive: 1
+certainty: 4
+
+feature: young probably 
+positive: 1
+certainty: 4
+
+feature: probably remembers 
+positive: 1
+certainty: 4
+
+feature: remembers and 
+positive: 1
+certainty: 4
+
+feature: and im 
+positive: 1
+certainty: 4
+
+feature: im only 
+positive: 1
+certainty: 4
+
+feature: only getting 
+positive: 1
+certainty: 4
+
+feature: getting to 
+positive: 1
+certainty: 4
+
+feature: to witness 
+positive: 1
+certainty: 4
+
+feature: witness it 
+positive: 1
+certainty: 4
+
+feature: it live 
+positive: 2
+certainty: 4
+
+feature: live on 
+positive: 1
+certainty: 4
+
+feature: on monday 
+positive: 1
+certainty: 4
+
+feature: monday i 
+positive: 1
+certainty: 4
+
+feature: just found 
+positive: 1
+certainty: 4
+
+feature: found quest 
+positive: 1
+certainty: 4
+
+feature: quest for 
+positive: 1
+certainty: 4
+
+feature: for camelot 
+positive: 1
+certainty: 4
+
+feature: camelot on 
+positive: 1
+certainty: 4
+
+feature: sunday afternoon 
+positive: 1
+certainty: 4
+
+feature: afternoon is 
+positive: 1
+certainty: 4
+
+feature: is complete 
+positive: 1
+certainty: 4
+
+feature: tonight i 
+positive: 1
+certainty: 4
+
+feature: i spent 
+positive: 2
+certainty: 4
+
+feature: spent 20 
+positive: 1
+certainty: 4
+
+feature: 20 minutes 
+positive: 1
+certainty: 4
+
+feature: minutes looking 
+positive: 1
+certainty: 4
+
+feature: looking for 
+positive: 1
+certainty: 4
+
+feature: for someone 
+positive: 1
+certainty: 4
+
+feature: someone with 
+positive: 1
+certainty: 4
+
+feature: prime so 
+positive: 1
+certainty: 4
+
+feature: so i 
+positive: 1
+certainty: 4
+
+feature: could order 
+positive: 1
+certainty: 4
+
+feature: order a 
+positive: 1
+certainty: 4
+
+feature: a ouija 
+positive: 1
+certainty: 4
+
+feature: ouija board 
+positive: 1
+certainty: 4
+
+feature: board for 
+positive: 1
+certainty: 4
+
+feature: for friday 
+positive: 1
+certainty: 4
+
+feature: friday without 
+positive: 1
+certainty: 4
+
+feature: without my 
+positive: 1
+certainty: 4
+
+feature: mom finding 
+positive: 1
+certainty: 4
+
+feature: finding out 
+positive: 1
+certainty: 4
+
+feature: out #adult 
+positive: 1
+certainty: 4
+
+feature: if ac 
+positive: 1
+certainty: 4
+
+feature: dc has 
+positive: 1
+certainty: 4
+
+feature: a really 
+positive: 1
+certainty: 4
+
+feature: really successful 
+positive: 1
+certainty: 4
+
+feature: successful show 
+positive: 1
+certainty: 4
+
+feature: on thursday 
+positive: 5
+certainty: 4
+
+feature: thursday they 
+positive: 1
+certainty: 4
+
+feature: they will 
+positive: 1
+certainty: 4
+
+feature: will get 
+positive: 1
+certainty: 4
+
+feature: a second 
+positive: 1
+certainty: 4
+
+feature: second show 
+positive: 1
+certainty: 4
+
+feature: show that 
+positive: 1
+certainty: 4
+
+feature: that bumps 
+positive: 1
+certainty: 4
+
+feature: bumps one 
+positive: 1
+certainty: 4
+
+feature: the one 
+positive: 1
+certainty: 4
+
+feature: one direction 
+positive: 1
+certainty: 4
+
+feature: direction shows 
+positive: 1
+certainty: 4
+
+feature: entertainment ac 
+positive: 1
+certainty: 4
+
+feature: dc rocks 
+positive: 1
+certainty: 4
+
+feature: rocks the 
+positive: 1
+certainty: 4
+
+feature: o monday 
+positive: 1
+certainty: 4
+
+feature: monday night 
+positive: 1
+certainty: 4
+
+feature: night 69 
+positive: 1
+certainty: 4
+
+feature: 1st season 
+positive: 2
+certainty: 4
+
+feature: season of 
+positive: 2
+certainty: 4
+
+feature: of hand 
+positive: 1
+certainty: 4
+
+feature: hand of 
+positive: 1
+certainty: 4
+
+feature: of god 
+positive: 1
+certainty: 4
+
+feature: god with 
+positive: 1
+certainty: 4
+
+feature: be available 
+positive: 1
+certainty: 4
+
+feature: available 9 
+positive: 1
+certainty: 4
+
+feature: 9 4 
+positive: 1
+certainty: 4
+
+feature: 4 on 
+positive: 1
+certainty: 4
+
+feature: prime wtg 
+positive: 1
+certainty: 4
+
+feature: wtg @user 
+positive: 1
+certainty: 4
+
+feature: @user loved 
+positive: 1
+certainty: 4
+
+feature: loved you 
+positive: 1
+certainty: 4
+
+feature: you in 
+positive: 1
+certainty: 4
+
+feature: in blacklist 
+positive: 1
+certainty: 4
+
+feature: to speak 
+positive: 1
+certainty: 4
+
+feature: speak at 
+positive: 1
+certainty: 4
+
+feature: @user #msapc2015 
+positive: 1
+certainty: 4
+
+feature: #msapc2015 event 
+positive: 1
+certainty: 4
+
+feature: event tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow then 
+positive: 1
+certainty: 4
+
+feature: then fly 
+positive: 1
+certainty: 4
+
+feature: fly to 
+positive: 1
+certainty: 4
+
+feature: to #nyc 
+positive: 1
+certainty: 4
+
+feature: #nyc for 
+positive: 1
+certainty: 4
+
+feature: the weekend 
+positive: 1
+certainty: 4
+
+feature: weekend amp 
+positive: 1
+certainty: 4
+
+feature: amp then 
+positive: 1
+certainty: 4
+
+feature: then #inbound15 
+positive: 1
+certainty: 4
+
+feature: the field 
+positive: 1
+certainty: 4
+
+feature: field at 
+positive: 1
+certainty: 4
+
+feature: at td 
+positive: 1
+certainty: 4
+
+feature: td place 
+positive: 1
+certainty: 4
+
+feature: place as 
+positive: 1
+certainty: 4
+
+feature: as ac 
+positive: 1
+certainty: 4
+
+feature: dc gets 
+positive: 1
+certainty: 4
+
+feature: gets ready 
+positive: 1
+certainty: 4
+
+feature: ready to 
+positive: 1
+certainty: 4
+
+feature: to play 
+positive: 1
+certainty: 4
+
+feature: play on 
+positive: 1
+certainty: 4
+
+feature: thursday @user 
+positive: 1
+certainty: 4
+
+feature: than 24 
+positive: 1
+certainty: 4
+
+feature: 24 hours 
+positive: 1
+certainty: 4
+
+feature: hours to 
+positive: 1
+certainty: 4
+
+feature: to make 
+positive: 1
+certainty: 4
+
+feature: make your 
+positive: 1
+certainty: 4
+
+feature: your bid 
+positive: 1
+certainty: 4
+
+feature: bid for 
+positive: 1
+certainty: 4
+
+feature: the live 
+positive: 1
+certainty: 4
+
+feature: live auction 
+positive: 1
+certainty: 4
+
+feature: auction of 
+positive: 1
+certainty: 4
+
+feature: of 2 
+positive: 1
+certainty: 4
+
+feature: 2 tickets 
+positive: 1
+certainty: 4
+
+feature: tickets to 
+positive: 1
+certainty: 4
+
+feature: the ac 
+positive: 1
+certainty: 4
+
+feature: concert this 
+positive: 1
+certainty: 4
+
+feature: this thursday 
+positive: 1
+certainty: 4
+
+feature: thursday tickets 
+positive: 1
+certainty: 4
+
+feature: be presenting 
+positive: 1
+certainty: 4
+
+feature: presenting on 
+positive: 1
+certainty: 4
+
+feature: the 4th 
+positive: 1
+certainty: 4
+
+feature: 4th i 
+positive: 1
+certainty: 4
+
+feature: will come 
+positive: 1
+certainty: 4
+
+feature: come we 
+positive: 1
+certainty: 4
+
+feature: we talk 
+positive: 1
+certainty: 4
+
+feature: talk about 
+positive: 1
+certainty: 4
+
+feature: about some 
+positive: 1
+certainty: 4
+
+feature: some stuff 
+positive: 1
+certainty: 4
+
+feature: a frequent 
+positive: 1
+certainty: 4
+
+feature: frequent flier 
+positive: 1
+certainty: 4
+
+feature: flier you 
+positive: 1
+certainty: 4
+
+feature: to finally 
+positive: 1
+certainty: 4
+
+feature: finally get 
+positive: 1
+certainty: 4
+
+feature: get that 
+positive: 1
+certainty: 4
+
+feature: that amazon 
+positive: 1
+certainty: 4
+
+feature: prime membership 
+positive: 1
+certainty: 4
+
+feature: membership via 
+positive: 1
+certainty: 4
+
+feature: @user #flying 
+positive: 1
+certainty: 4
+
+feature: #flying #amazon 
+positive: 1
+certainty: 4
+
+feature: is anyone 
+positive: 1
+certainty: 4
+
+feature: anyone going 
+positive: 1
+certainty: 4
+
+feature: at ford 
+positive: 3
+certainty: 4
+
+feature: ford field 
+positive: 3
+certainty: 4
+
+feature: field next 
+positive: 1
+certainty: 4
+
+feature: next tuesday 
+positive: 1
+certainty: 4
+
+feature: young or 
+positive: 1
+certainty: 4
+
+feature: or old 
+positive: 1
+certainty: 4
+
+feature: old rock 
+positive: 1
+certainty: 4
+
+feature: rock fan 
+positive: 1
+certainty: 4
+
+feature: fan or 
+positive: 1
+certainty: 4
+
+feature: or not 
+positive: 1
+certainty: 4
+
+feature: not you 
+positive: 1
+certainty: 4
+
+feature: you do 
+positive: 1
+certainty: 4
+
+feature: not wanna 
+positive: 1
+certainty: 4
+
+feature: wanna miss 
+positive: 1
+certainty: 4
+
+feature: miss ac 
+positive: 1
+certainty: 4
+
+feature: tomorrow #supershow 
+positive: 1
+certainty: 4
+
+feature: grocery delivery 
+positive: 1
+certainty: 4
+
+feature: delivery services 
+positive: 1
+certainty: 4
+
+feature: services instacart 
+positive: 1
+certainty: 4
+
+feature: instacart and 
+positive: 1
+certainty: 4
+
+feature: prime now 
+positive: 1
+certainty: 4
+
+feature: now to 
+positive: 1
+certainty: 4
+
+feature: the test 
+positive: 1
+certainty: 4
+
+feature: test in 
+positive: 1
+certainty: 4
+
+feature: in this 
+positive: 1
+certainty: 4
+
+feature: this does 
+positive: 1
+certainty: 4
+
+feature: does it 
+positive: 1
+certainty: 4
+
+feature: it work 
+positive: 1
+certainty: 4
+
+feature: work wednesday 
+positive: 1
+certainty: 4
+
+feature: friday start 
+positive: 1
+certainty: 4
+
+feature: start your 
+positive: 1
+certainty: 4
+
+feature: your labor 
+positive: 1
+certainty: 4
+
+feature: labor day 
+positive: 1
+certainty: 4
+
+feature: day weekend 
+positive: 1
+certainty: 4
+
+feature: weekend with 
+positive: 1
+certainty: 4
+
+feature: with some 
+positive: 1
+certainty: 4
+
+feature: some led 
+positive: 1
+certainty: 4
+
+feature: led zeppelin 
+positive: 1
+certainty: 4
+
+feature: zeppelin aerosmith 
+positive: 1
+certainty: 4
+
+feature: aerosmith van 
+positive: 1
+certainty: 4
+
+feature: halen and 
+positive: 1
+certainty: 4
+
+feature: dc lava 
+positive: 1
+certainty: 4
+
+feature: lava rock 
+positive: 1
+certainty: 4
+
+feature: rock is 
+positive: 1
+certainty: 4
+
+feature: in honour 
+positive: 1
+certainty: 4
+
+feature: honour of 
+positive: 1
+certainty: 4
+
+feature: big show 
+positive: 2
+certainty: 4
+
+feature: show we 
+positive: 2
+certainty: 4
+
+feature: we ll 
+positive: 2
+certainty: 4
+
+feature: ll play 
+positive: 1
+certainty: 4
+
+feature: play nothing 
+positive: 1
+certainty: 4
+
+feature: nothing but 
+positive: 1
+certainty: 4
+
+feature: but ac 
+positive: 1
+certainty: 4
+
+feature: tonight on 
+positive: 1
+certainty: 4
+
+feature: on our 
+positive: 1
+certainty: 4
+
+feature: our shop 
+positive: 1
+certainty: 4
+
+feature: shop sound 
+positive: 1
+certainty: 4
+
+feature: sound system 
+positive: 1
+certainty: 4
+
+feature: system then 
+positive: 1
+certainty: 4
+
+feature: then again 
+positive: 1
+certainty: 4
+
+feature: again because 
+positive: 1
+certainty: 4
+
+feature: because of 
+positive: 1
+certainty: 4
+
+feature: we may 
+positive: 1
+certainty: 4
+
+feature: a couple 
+positive: 2
+certainty: 4
+
+feature: couple here 
+positive: 1
+certainty: 4
+
+feature: here the 
+positive: 1
+certainty: 4
+
+feature: the 3rd 
+positive: 2
+certainty: 4
+
+feature: 3rd row 
+positive: 1
+certainty: 4
+
+feature: row from 
+positive: 1
+certainty: 4
+
+feature: from the 
+positive: 2
+certainty: 4
+
+feature: the stage 
+positive: 1
+certainty: 4
+
+feature: stage wearing 
+positive: 1
+certainty: 4
+
+feature: wearing a 
+positive: 1
+certainty: 4
+
+feature: a tux 
+positive: 1
+certainty: 4
+
+feature: tux and 
+positive: 1
+certainty: 4
+
+feature: and long 
+positive: 1
+certainty: 4
+
+feature: long white 
+positive: 1
+certainty: 4
+
+feature: white dress 
+positive: 1
+certainty: 4
+
+feature: dress for 
+positive: 1
+certainty: 4
+
+feature: dc lol 
+positive: 1
+certainty: 4
+
+feature: lol ok 
+positive: 1
+certainty: 4
+
+feature: @user good 
+positive: 1
+certainty: 4
+
+feature: good luck 
+positive: 1
+certainty: 4
+
+feature: luck to 
+positive: 1
+certainty: 4
+
+feature: to all 
+positive: 1
+certainty: 4
+
+feature: all pitch 
+positive: 1
+certainty: 4
+
+feature: pitch battlers 
+positive: 1
+certainty: 4
+
+feature: battlers may 
+positive: 1
+certainty: 4
+
+feature: may the 
+positive: 2
+certainty: 4
+
+feature: best pitch 
+positive: 1
+certainty: 4
+
+feature: pitch win 
+positive: 1
+certainty: 4
+
+feature: look @user 
+positive: 1
+certainty: 4
+
+feature: i found 
+positive: 1
+certainty: 4
+
+feature: found the 
+positive: 1
+certainty: 4
+
+feature: 1st #snapdragon 
+positive: 1
+certainty: 4
+
+feature: #snapdragon phone 
+positive: 1
+certainty: 4
+
+feature: phone in 
+positive: 1
+certainty: 4
+
+feature: in my 
+positive: 2
+certainty: 4
+
+feature: my stuff 
+positive: 1
+certainty: 4
+
+feature: stuff from 
+positive: 1
+certainty: 4
+
+feature: from #toshiba 
+positive: 1
+certainty: 4
+
+feature: #toshiba and 
+positive: 1
+certainty: 4
+
+feature: still working 
+positive: 1
+certainty: 4
+
+feature: its cool 
+positive: 1
+certainty: 4
+
+feature: cool outside 
+positive: 1
+certainty: 4
+
+feature: outside and 
+positive: 1
+certainty: 4
+
+feature: and i 
+positive: 2
+certainty: 4
+
+feature: ve got 
+positive: 1
+certainty: 4
+
+feature: got ac 
+positive: 1
+certainty: 4
+
+feature: dc playing 
+positive: 1
+certainty: 4
+
+feature: playing inside 
+positive: 1
+certainty: 4
+
+feature: inside this 
+positive: 1
+certainty: 4
+
+feature: is how 
+positive: 1
+certainty: 4
+
+feature: you adult 
+positive: 1
+certainty: 4
+
+feature: adult on 
+positive: 1
+certainty: 4
+
+feature: saturday night 
+positive: 1
+certainty: 4
+
+feature: @user can 
+positive: 1
+certainty: 4
+
+feature: can you 
+positive: 1
+certainty: 4
+
+feature: you get 
+positive: 1
+certainty: 4
+
+feature: get me 
+positive: 1
+certainty: 4
+
+feature: me back 
+positive: 1
+certainty: 4
+
+feature: back stage 
+positive: 1
+certainty: 4
+
+feature: stage for 
+positive: 1
+certainty: 4
+
+feature: on sept 
+positive: 1
+certainty: 4
+
+feature: sept 25th 
+positive: 1
+certainty: 4
+
+feature: merkel europe 
+positive: 1
+certainty: 4
+
+feature: europe as 
+positive: 1
+certainty: 4
+
+feature: a whole 
+positive: 1
+certainty: 4
+
+feature: whole must 
+positive: 1
+certainty: 4
+
+feature: must help 
+positive: 1
+certainty: 4
+
+feature: help with 
+positive: 1
+certainty: 4
+
+feature: with refugees 
+positive: 1
+certainty: 4
+
+feature: refugees video 
+positive: 1
+certainty: 4
+
+feature: video via 
+positive: 1
+certainty: 4
+
+feature: @user #world 
+positive: 1
+certainty: 4
+
+feature: #world #news 
+positive: 1
+certainty: 4
+
+feature: thank you 
+positive: 1
+certainty: 4
+
+feature: for inviting 
+positive: 1
+certainty: 4
+
+feature: inviting us 
+positive: 1
+certainty: 4
+
+feature: us to 
+positive: 1
+certainty: 4
+
+feature: to join 
+positive: 1
+certainty: 4
+
+feature: join them 
+positive: 1
+certainty: 4
+
+feature: them at 
+positive: 1
+certainty: 4
+
+feature: the #ibcshow 
+positive: 1
+certainty: 4
+
+feature: #ibcshow in 
+positive: 1
+certainty: 4
+
+feature: in amsterdam 
+positive: 1
+certainty: 4
+
+feature: amsterdam next 
+positive: 1
+certainty: 4
+
+feature: next thursday 
+positive: 1
+certainty: 4
+
+feature: fun week 
+positive: 1
+certainty: 4
+
+feature: week ahead 
+positive: 1
+certainty: 4
+
+feature: ahead holiday 
+positive: 1
+certainty: 4
+
+feature: holiday today 
+positive: 1
+certainty: 4
+
+feature: today ac 
+positive: 1
+certainty: 4
+
+feature: tomorrow and 
+positive: 2
+certainty: 4
+
+feature: and off 
+positive: 1
+certainty: 4
+
+feature: off to 
+positive: 1
+certainty: 4
+
+feature: to san 
+positive: 2
+certainty: 4
+
+feature: san diego 
+positive: 2
+certainty: 4
+
+feature: diego on 
+positive: 1
+certainty: 4
+
+feature: thursday for 
+positive: 1
+certainty: 4
+
+feature: the lions 
+positive: 1
+certainty: 4
+
+feature: lions opener 
+positive: 1
+certainty: 4
+
+feature: opener on 
+positive: 1
+certainty: 4
+
+feature: on sunday 
+positive: 1
+certainty: 4
+
+feature: sunday #funtimes 
+positive: 1
+certainty: 4
+
+feature: field someone 
+positive: 1
+certainty: 4
+
+feature: someone is 
+positive: 1
+certainty: 4
+
+feature: be tired 
+positive: 1
+certainty: 4
+
+feature: tired on 
+positive: 1
+certainty: 4
+
+feature: the second 
+positive: 1
+certainty: 4
+
+feature: second day 
+positive: 1
+certainty: 4
+
+feature: day of 
+positive: 2
+certainty: 4
+
+feature: of 6th 
+positive: 1
+certainty: 4
+
+feature: 6th grade 
+positive: 1
+certainty: 4
+
+feature: grade #butitshisfavoriteband 
+positive: 1
+certainty: 4
+
+feature: #butitshisfavoriteband m 
+positive: 1
+certainty: 4
+
+feature: m m 
+positive: 1
+certainty: 4
+
+feature: @user wish 
+positive: 1
+certainty: 4
+
+feature: wish you 
+positive: 1
+certainty: 4
+
+feature: you were 
+positive: 1
+certainty: 4
+
+feature: were at 
+positive: 1
+certainty: 4
+
+feature: at midway 
+positive: 1
+certainty: 4
+
+feature: midway i 
+positive: 1
+certainty: 4
+
+feature: i would 
+positive: 1
+certainty: 4
+
+feature: would have 
+positive: 1
+certainty: 4
+
+feature: bought you 
+positive: 1
+certainty: 4
+
+feature: you a 
+positive: 1
+certainty: 4
+
+feature: a beer 
+positive: 1
+certainty: 4
+
+feature: beer safe 
+positive: 1
+certainty: 4
+
+feature: safe travels 
+positive: 1
+certainty: 4
+
+feature: travels eddie 
+positive: 1
+certainty: 4
+
+feature: eddie on 
+positive: 1
+certainty: 4
+
+feature: on way 
+positive: 1
+certainty: 4
+
+feature: to detroit 
+positive: 1
+certainty: 4
+
+feature: detroit for 
+positive: 1
+certainty: 4
+
+feature: tomorrow night 
+positive: 2
+certainty: 4
+
+feature: night m 
+positive: 1
+certainty: 4
+
+feature: should you 
+positive: 1
+certainty: 4
+
+feature: you upgrade 
+positive: 1
+certainty: 4
+
+feature: upgrade to 
+positive: 1
+certainty: 4
+
+feature: new os 
+positive: 1
+certainty: 4
+
+feature: os #windows10 
+positive: 1
+certainty: 4
+
+feature: #windows10 lunch 
+positive: 1
+certainty: 4
+
+feature: lunch and 
+positive: 1
+certainty: 4
+
+feature: and learn 
+positive: 1
+certainty: 4
+
+feature: learn in 
+positive: 1
+certainty: 4
+
+feature: in #palmcoast 
+positive: 1
+certainty: 4
+
+feature: #palmcoast this 
+positive: 1
+certainty: 4
+
+feature: this wednesday 
+positive: 1
+certainty: 4
+
+feature: wednesday sept 
+positive: 1
+certainty: 4
+
+feature: sept 9th 
+positive: 1
+certainty: 4
+
+feature: #producers catch 
+positive: 1
+certainty: 4
+
+feature: catch me 
+positive: 1
+certainty: 4
+
+feature: me in 
+positive: 1
+certainty: 4
+
+feature: in dallas 
+positive: 1
+certainty: 4
+
+feature: dallas sept 
+positive: 1
+certainty: 4
+
+feature: sept 12th 
+positive: 1
+certainty: 4
+
+feature: 12th at 
+positive: 1
+certainty: 4
+
+feature: the @user 
+positive: 1
+certainty: 4
+
+feature: @user event 
+positive: 1
+certainty: 4
+
+feature: event also 
+positive: 1
+certainty: 4
+
+feature: also at 
+positive: 1
+certainty: 4
+
+feature: in #atl 
+positive: 1
+certainty: 4
+
+feature: #atl for 
+positive: 1
+certainty: 4
+
+feature: the on 
+positive: 1
+certainty: 4
+
+feature: the spot 
+positive: 1
+certainty: 4
+
+feature: spot beat 
+positive: 1
+certainty: 4
+
+feature: beat shopping 
+positive: 1
+certainty: 4
+
+feature: see how 
+positive: 1
+certainty: 4
+
+feature: how cute 
+positive: 1
+certainty: 4
+
+feature: cute she 
+positive: 1
+certainty: 4
+
+feature: on her 
+positive: 1
+certainty: 4
+
+feature: her day 
+positive: 1
+certainty: 4
+
+feature: day off 
+positive: 2
+certainty: 4
+
+feature: off i 
+positive: 1
+certainty: 4
+
+feature: spent my 
+positive: 1
+certainty: 4
+
+feature: my day 
+positive: 1
+certainty: 4
+
+feature: off in 
+positive: 1
+certainty: 4
+
+feature: my pjs 
+positive: 1
+certainty: 4
+
+feature: pjs watching 
+positive: 1
+certainty: 4
+
+feature: watching the 
+positive: 1
+certainty: 4
+
+feature: of survivor 
+positive: 1
+certainty: 4
+
+feature: survivor on 
+positive: 1
+certainty: 4
+
+feature: dc with 
+positive: 2
+certainty: 4
+
+feature: with family 
+positive: 1
+certainty: 4
+
+feature: family tomorrow 
+positive: 1
+certainty: 4
+
+feature: night in 
+positive: 1
+certainty: 4
+
+feature: in detroit 
+positive: 1
+certainty: 4
+
+feature: detroit rock 
+positive: 1
+certainty: 4
+
+feature: rock city 
+positive: 1
+certainty: 4
+
+feature: city lets 
+positive: 1
+certainty: 4
+
+feature: @user yep 
+positive: 1
+certainty: 4
+
+feature: yep ac 
+positive: 1
+certainty: 4
+
+feature: tonight at 
+positive: 1
+certainty: 4
+
+feature: field then 
+positive: 1
+certainty: 4
+
+feature: then on 
+positive: 1
+certainty: 4
+
+feature: a plane 
+positive: 1
+certainty: 4
+
+feature: plane thursday 
+positive: 1
+certainty: 4
+
+feature: thursday to 
+positive: 1
+certainty: 4
+
+feature: amazon this 
+positive: 3
+certainty: 4
+
+feature: this amazing 
+positive: 1
+certainty: 4
+
+feature: amazing company 
+positive: 1
+certainty: 4
+
+feature: company sells 
+positive: 1
+certainty: 4
+
+feature: sells anything 
+positive: 1
+certainty: 4
+
+feature: anything available 
+positive: 1
+certainty: 4
+
+feature: available under 
+positive: 1
+certainty: 4
+
+feature: sun including 
+positive: 1
+certainty: 4
+
+feature: including cloud 
+positive: 1
+certainty: 4
+
+feature: cloud absolute 
+positive: 1
+certainty: 4
+
+feature: absolute disruption 
+positive: 1
+certainty: 4
+
+feature: just listed 
+positive: 1
+certainty: 4
+
+feature: listed this 
+positive: 1
+certainty: 4
+
+feature: this book 
+positive: 1
+certainty: 4
+
+feature: book for 
+positive: 1
+certainty: 4
+
+feature: sale on 
+positive: 1
+certainty: 4
+
+feature: 3rd edition 
+positive: 1
+certainty: 4
+
+feature: edition revised 
+positive: 1
+certainty: 4
+
+feature: revised of 
+positive: 1
+certainty: 4
+
+feature: of a 
+positive: 1
+certainty: 4
+
+feature: a thorough 
+positive: 1
+certainty: 4
+
+feature: thorough 410 
+positive: 1
+certainty: 4
+
+feature: 410 page 
+positive: 1
+certainty: 4
+
+feature: with my 
+positive: 1
+certainty: 4
+
+feature: my dad 
+positive: 1
+certainty: 4
+
+feature: dad thurs 
+positive: 1
+certainty: 4
+
+feature: thurs night 
+positive: 1
+certainty: 4
+
+feature: night and 
+positive: 1
+certainty: 4
+
+feature: i only 
+positive: 1
+certainty: 4
+
+feature: only know 
+positive: 1
+certainty: 4
+
+feature: know thunderstruck 
+positive: 1
+certainty: 4
+
+feature: thunderstruck bc 
+positive: 1
+certainty: 4
+
+feature: bc when 
+positive: 1
+certainty: 4
+
+feature: when i 
+positive: 1
+certainty: 4
+
+feature: i played 
+positive: 1
+certainty: 4
+
+feature: played boys 
+positive: 1
+certainty: 4
+
+feature: boys hockey 
+positive: 1
+certainty: 4
+
+feature: hockey we 
+positive: 1
+certainty: 4
+
+feature: we were 
+positive: 1
+certainty: 4
+
+feature: were thunder 
+positive: 1
+certainty: 4
+
+feature: thunder aka 
+positive: 1
+certainty: 4
+
+feature: aka it 
+positive: 1
+certainty: 4
+
+feature: was our 
+positive: 1
+certainty: 4
+
+feature: our song 
+positive: 1
+certainty: 4
+
+feature: nice the 
+positive: 1
+certainty: 4
+
+feature: the man 
+positive: 1
+certainty: 4
+
+feature: man in 
+positive: 1
+certainty: 4
+
+feature: the high 
+positive: 1
+certainty: 4
+
+feature: high castle 
+positive: 1
+certainty: 4
+
+feature: castle will 
+positive: 1
+certainty: 4
+
+feature: be on 
+positive: 3
+certainty: 4
+
+feature: amazon instant 
+positive: 1
+certainty: 4
+
+feature: instant on 
+positive: 1
+certainty: 4
+
+feature: on november 
+positive: 1
+certainty: 4
+
+feature: november 20th 
+positive: 1
+certainty: 4
+
+feature: deal nexus 
+positive: 1
+certainty: 4
+
+feature: nexus 6 
+positive: 3
+certainty: 4
+
+feature: 6 drops 
+positive: 1
+certainty: 4
+
+feature: drops to 
+positive: 1
+certainty: 4
+
+feature: to 349 
+positive: 1
+certainty: 4
+
+feature: 349 at 
+positive: 1
+certainty: 4
+
+feature: at best 
+positive: 1
+certainty: 4
+
+feature: best buy 
+positive: 1
+certainty: 4
+
+feature: buy too 
+positive: 1
+certainty: 4
+
+feature: too on 
+positive: 1
+certainty: 4
+
+feature: on friday 
+positive: 1
+certainty: 4
+
+feature: amazon cut 
+positive: 1
+certainty: 4
+
+feature: cut the 
+positive: 1
+certainty: 4
+
+feature: the price 
+positive: 1
+certainty: 4
+
+feature: price of 
+positive: 1
+certainty: 4
+
+feature: the nexus 
+positive: 1
+certainty: 4
+
+feature: 6 across 
+positive: 1
+certainty: 4
+
+feature: across the 
+positive: 1
+certainty: 4
+
+feature: the board 
+positive: 1
+certainty: 4
+
+feature: board b 
+positive: 1
+certainty: 4
+
+feature: good news 
+positive: 1
+certainty: 4
+
+feature: news @user 
+positive: 1
+certainty: 4
+
+feature: @user movement 
+positive: 1
+certainty: 4
+
+feature: movement will 
+positive: 1
+certainty: 4
+
+feature: be releasing 
+positive: 1
+certainty: 4
+
+feature: releasing us 
+positive: 1
+certainty: 4
+
+feature: us in 
+positive: 1
+certainty: 4
+
+feature: the us 
+positive: 1
+certainty: 4
+
+feature: us vod 
+positive: 1
+certainty: 4
+
+feature: vod itunes 
+positive: 1
+certainty: 4
+
+feature: amazon from 
+positive: 1
+certainty: 4
+
+feature: from oct 
+positive: 1
+certainty: 4
+
+feature: oct 2nd 
+positive: 1
+certainty: 4
+
+feature: 2nd dvd 
+positive: 1
+certainty: 4
+
+feature: dvd dec 
+positive: 1
+certainty: 4
+
+feature: dec 1st 
+positive: 1
+certainty: 4
+
+feature: 1st all 
+positive: 1
+certainty: 4
+
+feature: all under 
+positive: 1
+certainty: 4
+
+feature: under a 
+positive: 1
+certainty: 4
+
+feature: new title 
+positive: 1
+certainty: 4
+
+feature: title amorous 
+positive: 1
+certainty: 4
+
+feature: while software 
+positive: 1
+certainty: 4
+
+feature: software may 
+positive: 1
+certainty: 4
+
+feature: be eating 
+positive: 2
+certainty: 4
+
+feature: eating the 
+positive: 1
+certainty: 4
+
+feature: world amazon 
+positive: 1
+certainty: 4
+
+feature: amazon appears 
+positive: 1
+certainty: 4
+
+feature: appears to 
+positive: 1
+certainty: 4
+
+feature: eating everything 
+positive: 1
+certainty: 4
+
+feature: everything amazon 
+positive: 1
+certainty: 4
+
+feature: prime will 
+positive: 1
+certainty: 4
+
+feature: will soon 
+positive: 1
+certainty: 4
+
+feature: soon include 
+positive: 1
+certainty: 4
+
+feature: include free 
+positive: 1
+certainty: 4
+
+feature: free restaurant 
+positive: 1
+certainty: 4
+
+feature: restaurant delivery 
+positive: 1
+certainty: 4
+
+feature: @user nice 
+positive: 1
+certainty: 4
+
+feature: nice to 
+positive: 1
+certainty: 4
+
+feature: to meet 
+positive: 1
+certainty: 4
+
+feature: meet you 
+positive: 1
+certainty: 4
+
+feature: you on 
+positive: 2
+certainty: 4
+
+feature: on twitter 
+positive: 1
+certainty: 4
+
+feature: twitter anything 
+positive: 1
+certainty: 4
+
+feature: anything amazon 
+positive: 1
+certainty: 4
+
+feature: amazon travel 
+positive: 1
+certainty: 4
+
+feature: travel related 
+positive: 1
+certainty: 4
+
+feature: related you 
+positive: 1
+certainty: 4
+
+feature: need we 
+positive: 1
+certainty: 4
+
+feature: we re 
+positive: 1
+certainty: 4
+
+feature: re here 
+positive: 1
+certainty: 4
+
+feature: yes highly 
+positive: 1
+certainty: 4
+
+feature: highly recommend 
+positive: 1
+certainty: 4
+
+feature: recommend curiosity 
+positive: 1
+certainty: 4
+
+feature: curiosity by 
+positive: 1
+certainty: 4
+
+feature: by amanda 
+positive: 1
+certainty: 4
+
+feature: amanda get 
+positive: 1
+certainty: 4
+
+feature: on google 
+positive: 1
+certainty: 4
+
+feature: google play 
+positive: 1
+certainty: 4
+
+feature: play amazon 
+positive: 1
+certainty: 4
+
+feature: amazon or 
+positive: 2
+certainty: 4
+
+feature: or other 
+positive: 1
+certainty: 4
+
+feature: other outlets 
+positive: 1
+certainty: 4
+
+feature: i ordered 
+positive: 2
+certainty: 4
+
+feature: ordered it 
+positive: 1
+certainty: 4
+
+feature: it from 
+positive: 1
+certainty: 4
+
+feature: amazon should 
+positive: 1
+certainty: 4
+
+feature: it by 
+positive: 1
+certainty: 4
+
+feature: by friday 
+positive: 1
+certainty: 4
+
+feature: just ordered 
+positive: 1
+certainty: 4
+
+feature: ordered several 
+positive: 1
+certainty: 4
+
+feature: several mongoose 
+positive: 1
+certainty: 4
+
+feature: mongoose from 
+positive: 1
+certainty: 4
+
+feature: they ll 
+positive: 1
+certainty: 4
+
+feature: my doorstep 
+positive: 1
+certainty: 4
+
+feature: doorstep tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow morning 
+positive: 1
+certainty: 4
+
+feature: since its 
+positive: 1
+certainty: 4
+
+feature: its free 
+positive: 1
+certainty: 4
+
+feature: free on 
+positive: 1
+certainty: 4
+
+feature: prime im 
+positive: 1
+certainty: 4
+
+feature: im gonna 
+positive: 1
+certainty: 4
+
+feature: gonna watch 
+positive: 1
+certainty: 4
+
+feature: watch teenage 
+positive: 1
+certainty: 4
+
+feature: teenage mutant 
+positive: 1
+certainty: 4
+
+feature: mutant ninja 
+positive: 1
+certainty: 4
+
+feature: ninja turtles 
+positive: 1
+certainty: 4
+
+feature: turtles now 
+positive: 1
+certainty: 4
+
+feature: now may 
+positive: 1
+certainty: 4
+
+feature: the gods 
+positive: 1
+certainty: 4
+
+feature: gods have 
+positive: 1
+certainty: 4
+
+feature: have mercy 
+positive: 1
+certainty: 4
+
+feature: mercy on 
+positive: 1
+certainty: 4
+
+feature: my soul 
+positive: 1
+certainty: 4
+
+feature: i want 
+positive: 1
+certainty: 4
+
+feature: want this 
+positive: 1
+certainty: 4
+
+feature: this and 
+positive: 1
+certainty: 4
+
+feature: and yes 
+positive: 1
+certainty: 4
+
+feature: yes im 
+positive: 1
+certainty: 4
+
+feature: im playing 
+positive: 1
+certainty: 4
+
+feature: playing on 
+positive: 1
+certainty: 4
+
+feature: amazon instead 
+positive: 1
+certainty: 4
+
+feature: instead of 
+positive: 1
+certainty: 4
+
+feature: of reading 
+positive: 1
+certainty: 4
+
+feature: reading for 
+positive: 1
+certainty: 4
+
+feature: for class 
+positive: 1
+certainty: 4
+
+feature: class tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow because 
+positive: 1
+certainty: 4
+
+feature: because my 
+positive: 1
+certainty: 4
+
+feature: my head 
+positive: 1
+certainty: 4
+
+feature: head is 
+positive: 1
+certainty: 4
+
+feature: is spinning 
+positive: 1
+certainty: 4
+
+feature: dont be 
+positive: 1
+certainty: 4
+
+feature: at night 
+positive: 1
+certainty: 4
+
+feature: night amazon 
+positive: 1
+certainty: 4
+
+feature: the new 
+positive: 3
+certainty: 4
+
+feature: new home 
+positive: 1
+certainty: 4
+
+feature: home shopping 
+positive: 1
+certainty: 4
+
+feature: shopping network 
+positive: 1
+certainty: 4
+
+feature: network you 
+positive: 1
+certainty: 4
+
+feature: you mess 
+positive: 1
+certainty: 4
+
+feature: mess around 
+positive: 1
+certainty: 4
+
+feature: around amp 
+positive: 1
+certainty: 4
+
+feature: amp have 
+positive: 1
+certainty: 4
+
+feature: have 7 
+positive: 1
+certainty: 4
+
+feature: 7 blenders 
+positive: 1
+certainty: 4
+
+feature: blenders at 
+positive: 1
+certainty: 4
+
+feature: at your 
+positive: 1
+certainty: 4
+
+feature: your door 
+positive: 1
+certainty: 4
+
+feature: door on 
+positive: 1
+certainty: 4
+
+feature: cnet update 
+positive: 1
+certainty: 4
+
+feature: update amazon 
+positive: 1
+certainty: 4
+
+feature: be cooking 
+positive: 1
+certainty: 4
+
+feature: cooking up 
+positive: 1
+certainty: 4
+
+feature: up a 
+positive: 1
+certainty: 4
+
+feature: a 50 
+positive: 1
+certainty: 4
+
+feature: 50 tablet 
+positive: 1
+certainty: 4
+
+feature: tablet oh 
+positive: 1
+certainty: 4
+
+feature: oh my 
+positive: 1
+certainty: 4
+
+feature: my god 
+positive: 1
+certainty: 4
+
+feature: god welcome 
+positive: 1
+certainty: 4
+
+feature: welcome back 
+positive: 1
+certainty: 4
+
+feature: back @user 
+positive: 1
+certainty: 4
+
+feature: i missed 
+positive: 1
+certainty: 4
+
+feature: missed you 
+positive: 1
+certainty: 4
+
+feature: you so 
+positive: 1
+certainty: 4
+
+feature: so much 
+positive: 1
+certainty: 4
+
+feature: @user trudi 
+positive: 1
+certainty: 4
+
+feature: trudi @user 
+positive: 1
+certainty: 4
+
+feature: you have 
+positive: 1
+certainty: 4
+
+feature: put it 
+positive: 1
+certainty: 4
+
+feature: on your 
+positive: 2
+certainty: 4
+
+feature: your easter 
+positive: 1
+certainty: 4
+
+feature: easter list 
+positive: 1
+certainty: 4
+
+feature: list release 
+positive: 1
+certainty: 4
+
+feature: release date 
+positive: 1
+certainty: 4
+
+feature: date is 
+positive: 1
+certainty: 4
+
+feature: is april 
+positive: 1
+certainty: 4
+
+feature: april 5th 
+positive: 1
+certainty: 4
+
+feature: 5th 2016 
+positive: 1
+certainty: 4
+
+feature: 2016 you 
+positive: 1
+certainty: 4
+
+feature: can preorder 
+positive: 1
+certainty: 4
+
+feature: preorder on 
+positive: 1
+certainty: 4
+
+feature: amazon #preorder 
+positive: 1
+certainty: 4
+
+feature: #preorder is 
+positive: 1
+certainty: 4
+
+feature: is #live 
+positive: 1
+certainty: 4
+
+feature: #live for 
+positive: 1
+certainty: 4
+
+feature: for vivid 
+positive: 1
+certainty: 4
+
+feature: vivid go 
+positive: 1
+certainty: 4
+
+feature: go pre 
+positive: 1
+certainty: 4
+
+feature: pre order 
+positive: 1
+certainty: 4
+
+feature: order your 
+positive: 1
+certainty: 4
+
+feature: your copy 
+positive: 1
+certainty: 4
+
+feature: copy and 
+positive: 1
+certainty: 4
+
+feature: and have 
+positive: 1
+certainty: 4
+
+feature: your kindle 
+positive: 1
+certainty: 4
+
+feature: kindle october 
+positive: 1
+certainty: 4
+
+feature: october 11th 
+positive: 1
+certainty: 4
+
+feature: 11th amazon 
+positive: 1
+certainty: 4
+
+feature: amazon us 
+positive: 1
+certainty: 4
+
+feature: happiness cause 
+positive: 1
+certainty: 4
+
+feature: cause amazon 
+positive: 1
+certainty: 4
+
+feature: amazon just 
+positive: 1
+certainty: 4
+
+feature: just notified 
+positive: 1
+certainty: 4
+
+feature: notified me 
+positive: 1
+certainty: 4
+
+feature: me that 
+positive: 1
+certainty: 4
+
+feature: my bluray 
+positive: 1
+certainty: 4
+
+feature: bluray version 
+positive: 1
+certainty: 4
+
+feature: version of 
+positive: 1
+certainty: 4
+
+feature: of gotham 
+positive: 1
+certainty: 4
+
+feature: gotham will 
+positive: 1
+certainty: 4
+
+feature: here tomorrow 
+positive: 1
+certainty: 4
+
+feature: omg see 
+positive: 1
+certainty: 4
+
+feature: ll make 
+positive: 1
+certainty: 4
+
+feature: make these 
+positive: 1
+certainty: 4
+
+feature: these available 
+positive: 1
+certainty: 4
+
+feature: amazon tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow as 
+positive: 1
+certainty: 4
+
+feature: as well 
+positive: 1
+certainty: 4
+
+feature: had this 
+positive: 1
+certainty: 4
+
+feature: this new 
+positive: 1
+certainty: 4
+
+feature: new planner 
+positive: 1
+certainty: 4
+
+feature: planner on 
+positive: 1
+certainty: 4
+
+feature: my wish 
+positive: 1
+certainty: 4
+
+feature: wish list 
+positive: 1
+certainty: 4
+
+feature: list on 
+positive: 1
+certainty: 4
+
+feature: amazon lets 
+positive: 1
+certainty: 4
+
+feature: lets just 
+positive: 1
+certainty: 4
+
+feature: just say 
+positive: 1
+certainty: 4
+
+feature: the way 
+positive: 1
+certainty: 4
+
+feature: way and 
+positive: 1
+certainty: 4
+
+feature: and will 
+positive: 1
+certainty: 4
+
+feature: here friday 
+positive: 1
+certainty: 4
+
+feature: @user march 
+positive: 1
+certainty: 4
+
+feature: march i 
+positive: 1
+certainty: 4
+
+feature: check tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow to 
+positive: 1
+certainty: 4
+
+feature: see if 
+positive: 1
+certainty: 4
+
+feature: or netflix 
+positive: 1
+certainty: 4
+
+feature: roses are 
+positive: 1
+certainty: 4
+
+feature: are red 
+positive: 1
+certainty: 4
+
+feature: red just 
+positive: 1
+certainty: 4
+
+feature: just received 
+positive: 1
+certainty: 4
+
+feature: received its 
+positive: 1
+certainty: 4
+
+feature: its 10th 
+positive: 1
+certainty: 4
+
+feature: 10th review 
+positive: 1
+certainty: 4
+
+feature: review on 
+positive: 1
+certainty: 4
+
+feature: amazon double 
+positive: 1
+certainty: 4
+
+feature: double digits 
+positive: 1
+certainty: 4
+
+feature: digits d 
+positive: 1
+certainty: 4
+
+feature: feel you 
+positive: 1
+certainty: 4
+
+feature: a date 
+positive: 2
+certainty: 4
+
+feature: date with 
+positive: 1
+certainty: 4
+
+feature: amazon today 
+positive: 1
+certainty: 4
+
+feature: ordered a 
+positive: 1
+certainty: 4
+
+feature: a 64gb 
+positive: 1
+certainty: 4
+
+feature: 64gb nexus 
+positive: 1
+certainty: 4
+
+feature: 6 from 
+positive: 1
+certainty: 4
+
+feature: amazon a 
+positive: 1
+certainty: 4
+
+feature: couple days 
+positive: 1
+certainty: 4
+
+feature: days ago 
+positive: 1
+certainty: 4
+
+feature: ago it 
+positive: 1
+certainty: 4
+
+feature: just shipped 
+positive: 1
+certainty: 4
+
+feature: shipped and 
+positive: 1
+certainty: 4
+
+feature: and should 
+positive: 1
+certainty: 4
+
+feature: should be 
+positive: 1
+certainty: 4
+
+feature: here on 
+positive: 1
+certainty: 4
+
+feature: good morning 
+positive: 1
+certainty: 4
+
+feature: morning 2nd 
+positive: 1
+certainty: 4
+
+feature: 2nd day 
+positive: 1
+certainty: 4
+
+feature: my two 
+positive: 1
+certainty: 4
+
+feature: two day 
+positive: 1
+certainty: 4
+
+feature: day work 
+positive: 1
+certainty: 4
+
+feature: work week 
+positive: 1
+certainty: 4
+
+feature: week and 
+positive: 1
+certainty: 4
+
+feature: and then 
+positive: 1
+certainty: 4
+
+feature: then more 
+positive: 1
+certainty: 4
+
+feature: more travel 
+positive: 1
+certainty: 4
+
+feature: travel tomorrow 
+positive: 1
+certainty: 4
+
+feature: its apple 
+positive: 1
+certainty: 4
+
+feature: event day 
+positive: 1
+certainty: 4
+
+feature: day yay 
+positive: 1
+certainty: 4
+
+feature: know what 
+positive: 1
+certainty: 4
+
+feature: is event 
+positive: 1
+certainty: 4
+
+feature: event more 
+positive: 1
+certainty: 4
+
+feature: more exciting 
+positive: 1
+certainty: 4
+
+feature: exciting than 
+positive: 1
+certainty: 4
+
+feature: today bit 
+positive: 1
+certainty: 4
+
+feature: bit fest 
+positive: 1
+certainty: 4
+
+feature: fest thursday 
+positive: 1
+certainty: 4
+
+feature: thursday amp 
+positive: 1
+certainty: 4
+
+feature: amp friday 
+positive: 1
+certainty: 4
+
+feature: in an 
+positive: 1
+certainty: 4
+
+feature: an unprecedented 
+positive: 1
+certainty: 4
+
+feature: unprecedented move 
+positive: 1
+certainty: 4
+
+feature: move apple 
+positive: 1
+certainty: 4
+
+feature: apple is 
+positive: 2
+certainty: 4
+
+feature: is supporting 
+positive: 1
+certainty: 4
+
+feature: supporting streaming 
+positive: 1
+certainty: 4
+
+feature: streaming of 
+positive: 1
+certainty: 4
+
+feature: of todays 
+positive: 2
+certainty: 4
+
+feature: todays event 
+positive: 1
+certainty: 4
+
+feature: event on 
+positive: 1
+certainty: 4
+
+feature: a pc 
+positive: 1
+certainty: 4
+
+feature: pc with 
+positive: 1
+certainty: 4
+
+feature: with microsoft 
+positive: 1
+certainty: 4
+
+feature: microsoft edge 
+positive: 1
+certainty: 4
+
+feature: edge on 
+positive: 1
+certainty: 4
+
+feature: on windows 
+positive: 1
+certainty: 4
+
+feature: here you 
+positive: 1
+certainty: 4
+
+feature: you go 
+positive: 1
+certainty: 4
+
+feature: go @user 
+positive: 1
+certainty: 4
+
+feature: what to 
+positive: 1
+certainty: 4
+
+feature: to expect 
+positive: 1
+certainty: 4
+
+feature: expect from 
+positive: 1
+certainty: 4
+
+feature: from apples 
+positive: 1
+certainty: 4
+
+feature: apples big 
+positive: 1
+certainty: 4
+
+feature: big event 
+positive: 1
+certainty: 4
+
+feature: event gt 
+positive: 1
+certainty: 4
+
+feature: gt gt 
+positive: 1
+certainty: 4
+
+feature: gt fallen 
+positive: 1
+certainty: 4
+
+feature: fallen off 
+positive: 1
+certainty: 4
+
+feature: off the 
+positive: 1
+certainty: 4
+
+feature: the chair 
+positive: 1
+certainty: 4
+
+feature: chair with 
+positive: 1
+certainty: 4
+
+feature: with excitment 
+positive: 1
+certainty: 4
+
+feature: @user thems 
+positive: 1
+certainty: 4
+
+feature: thems the 
+positive: 1
+certainty: 4
+
+feature: the breaks 
+positive: 1
+certainty: 4
+
+feature: breaks i 
+positive: 1
+certainty: 4
+
+feature: have made 
+positive: 1
+certainty: 4
+
+feature: made more 
+positive: 1
+certainty: 4
+
+feature: more from 
+positive: 1
+certainty: 4
+
+feature: the fire 
+positive: 1
+certainty: 4
+
+feature: fire phone 
+positive: 1
+certainty: 4
+
+feature: phone than 
+positive: 1
+certainty: 4
+
+feature: than amazon 
+positive: 1
+certainty: 4
+
+feature: amazon did 
+positive: 1
+certainty: 4
+
+feature: email from 
+positive: 1
+certainty: 4
+
+feature: this morning 
+positive: 1
+certainty: 4
+
+feature: morning tells 
+positive: 1
+certainty: 4
+
+feature: tells me 
+positive: 1
+certainty: 4
+
+feature: me the 
+positive: 1
+certainty: 4
+
+feature: new @user 
+positive: 1
+certainty: 4
+
+feature: @user book 
+positive: 1
+certainty: 4
+
+feature: book will 
+positive: 1
+certainty: 4
+
+feature: arrive on 
+positive: 1
+certainty: 4
+
+feature: tuesday looking 
+positive: 1
+certainty: 4
+
+feature: looking forward 
+positive: 1
+certainty: 4
+
+feature: forward to 
+positive: 1
+certainty: 4
+
+feature: the #narrative 
+positive: 1
+certainty: 4
+
+feature: #narrative on 
+positive: 1
+certainty: 4
+
+feature: on #science 
+positive: 1
+certainty: 4
+
+feature: @user patch 
+positive: 1
+certainty: 4
+
+feature: patch tuesday 
+positive: 1
+certainty: 4
+
+feature: tuesday incorporated 
+positive: 1
+certainty: 4
+
+feature: incorporated 56 
+positive: 1
+certainty: 4
+
+feature: 56 fixes 
+positive: 1
+certainty: 4
+
+feature: fixes for 
+positive: 1
+certainty: 4
+
+feature: for #security 
+positive: 1
+certainty: 4
+
+feature: #security #vulnerabilities 
+positive: 1
+certainty: 4
+
+feature: #vulnerabilities some 
+positive: 1
+certainty: 4
+
+feature: some with 
+positive: 1
+certainty: 4
+
+feature: with active 
+positive: 1
+certainty: 4
+
+feature: active #exploits 
+positive: 1
+certainty: 4
+
+feature: #exploits insane 
+positive: 1
+certainty: 4
+
+feature: amazon hiring 
+positive: 1
+certainty: 4
+
+feature: hiring fair 
+positive: 1
+certainty: 4
+
+feature: fair 11 
+positive: 1
+certainty: 4
+
+feature: 11 25 
+positive: 1
+certainty: 4
+
+feature: 25 hr 
+positive: 1
+certainty: 4
+
+feature: hr with 
+positive: 1
+certainty: 4
+
+feature: a shift 
+positive: 1
+certainty: 4
+
+feature: shift differential 
+positive: 1
+certainty: 4
+
+feature: differential free 
+positive: 1
+certainty: 4
+
+feature: free transportation 
+positive: 1
+certainty: 4
+
+feature: transportation benefits 
+positive: 1
+certainty: 4
+
+feature: benefits september 
+positive: 1
+certainty: 4
+
+feature: 10th 2015 
+positive: 1
+certainty: 4
+
+feature: goosebumps i 
+positive: 1
+certainty: 4
+
+feature: i always 
+positive: 1
+certainty: 4
+
+feature: always get 
+positive: 1
+certainty: 4
+
+feature: get before 
+positive: 1
+certainty: 4
+
+feature: before an 
+positive: 1
+certainty: 4
+
+feature: an announcement 
+positive: 1
+certainty: 4
+
+feature: announcement 10am 
+positive: 1
+certainty: 4
+
+feature: 10am it 
+positive: 1
+certainty: 4
+
+feature: be streaming 
+positive: 1
+certainty: 4
+
+feature: on apples 
+positive: 1
+certainty: 4
+
+feature: apples website 
+positive: 1
+certainty: 4
+
+feature: website get 
+positive: 1
+certainty: 4
+
+feature: get ready 
+positive: 1
+certainty: 4
+
+feature: event starts 
+positive: 1
+certainty: 4
+
+feature: starts 10 
+positive: 1
+certainty: 4
+
+feature: 10 minutes 
+positive: 1
+certainty: 4
+
+feature: minutes after 
+positive: 1
+certainty: 4
+
+feature: after i 
+positive: 1
+certainty: 4
+
+feature: i get 
+positive: 1
+certainty: 4
+
+feature: get out 
+positive: 1
+certainty: 4
+
+feature: out of 
+positive: 1
+certainty: 4
+
+feature: of chemistry 
+positive: 1
+certainty: 4
+
+feature: chemistry i 
+positive: 1
+certainty: 4
+
+feature: be sprinting 
+positive: 1
+certainty: 4
+
+feature: sprinting back 
+positive: 1
+certainty: 4
+
+feature: my dorm 
+positive: 1
+certainty: 4
+
+feature: dorm to 
+positive: 1
+certainty: 4
+
+feature: to catch 
+positive: 1
+certainty: 4
+
+feature: may check 
+positive: 1
+certainty: 4
+
+feature: check with 
+positive: 1
+certainty: 4
+
+feature: amazon for 
+positive: 2
+certainty: 4
+
+feature: for kindle 
+positive: 1
+certainty: 4
+
+feature: kindle as 
+positive: 1
+certainty: 4
+
+feature: as its 
+positive: 1
+certainty: 4
+
+feature: its screen 
+positive: 1
+certainty: 4
+
+feature: screen is 
+positive: 1
+certainty: 4
+
+feature: is glare 
+positive: 1
+certainty: 4
+
+feature: glare free 
+positive: 1
+certainty: 4
+
+feature: free and 
+positive: 1
+certainty: 4
+
+feature: and can 
+positive: 1
+certainty: 4
+
+feature: can be 
+positive: 1
+certainty: 4
+
+feature: be read 
+positive: 1
+certainty: 4
+
+feature: read in 
+positive: 1
+certainty: 4
+
+feature: in sunlight 
+positive: 1
+certainty: 4
+
+feature: sunlight too 
+positive: 1
+certainty: 4
+
+feature: apple fans 
+positive: 1
+certainty: 4
+
+feature: fans todays 
+positive: 1
+certainty: 4
+
+feature: todays the 
+positive: 1
+certainty: 4
+
+feature: day to 
+positive: 1
+certainty: 4
+
+feature: to watch 
+positive: 1
+certainty: 4
+
+feature: watch #appleevent 
+positive: 1
+certainty: 4
+
+feature: #appleevent starts 
+positive: 1
+certainty: 4
+
+feature: starts at 
+positive: 2
+certainty: 4
+
+feature: at 1pm 
+positive: 1
+certainty: 4
+
+feature: 1pm est 
+positive: 1
+certainty: 4
+
+feature: est watch 
+positive: 1
+certainty: 4
+
+feature: watch it 
+positive: 1
+certainty: 4
+
+feature: live at 
+positive: 1
+certainty: 4
+
+feature: wait im 
+positive: 1
+certainty: 4
+
+feature: im so 
+positive: 1
+certainty: 4
+
+feature: so happy 
+positive: 1
+certainty: 4
+
+feature: happy i 
+positive: 1
+certainty: 4
+
+feature: can sub 
+positive: 1
+certainty: 4
+
+feature: sub on 
+positive: 1
+certainty: 4
+
+feature: amazon to 
+positive: 1
+certainty: 4
+
+feature: we will 
+positive: 1
+certainty: 4
+
+feature: be live 
+positive: 1
+certainty: 4
+
+feature: live shortly 
+positive: 1
+certainty: 4
+
+feature: shortly with 
+positive: 1
+certainty: 4
+
+feature: with apples 
+positive: 1
+certainty: 4
+
+feature: apples september 
+positive: 2
+certainty: 4
+
+feature: september 9th 
+positive: 2
+certainty: 4
+
+feature: 9th iphone 
+positive: 1
+certainty: 4
+
+feature: iphone and 
+positive: 1
+certainty: 4
+
+feature: more launch 
+positive: 1
+certainty: 4
+
+feature: launch starts 
+positive: 1
+certainty: 4
+
+feature: at 9am 
+positive: 1
+certainty: 4
+
+feature: 9am pst 
+positive: 1
+certainty: 4
+
+feature: pst via 
+positive: 1
+certainty: 4
+
+feature: like apple 
+positive: 1
+certainty: 4
+
+feature: apple exec 
+positive: 1
+certainty: 4
+
+feature: exec @user 
+positive: 1
+certainty: 4
+
+feature: @user just 
+positive: 1
+certainty: 4
+
+feature: just confirmed 
+positive: 1
+certainty: 4
+
+feature: confirmed we 
+positive: 1
+certainty: 4
+
+feature: be seeing 
+positive: 1
+certainty: 4
+
+feature: seeing some 
+positive: 1
+certainty: 4
+
+feature: some big 
+positive: 1
+certainty: 4
+
+feature: big screen 
+positive: 1
+certainty: 4
+
+feature: screen news 
+positive: 1
+certainty: 4
+
+feature: news today 
+positive: 1
+certainty: 4
+
+feature: today #appleevent 
+positive: 1
+certainty: 4
+
+feature: this chick 
+positive: 1
+certainty: 4
+
+feature: chick bid 
+positive: 1
+certainty: 4
+
+feature: bid on 
+positive: 1
+certainty: 4
+
+feature: 1st showcase 
+positive: 1
+certainty: 4
+
+feature: showcase bunch 
+positive: 1
+certainty: 4
+
+feature: bunch of 
+positive: 1
+certainty: 4
+
+feature: of apple 
+positive: 1
+certainty: 4
+
+feature: apple products 
+positive: 1
+certainty: 4
+
+feature: products rookie 
+positive: 1
+certainty: 4
+
+feature: rookie mistake 
+positive: 1
+certainty: 4
+
+feature: mistake 2d 
+positive: 1
+certainty: 4
+
+feature: 2d showcase 
+positive: 1
+certainty: 4
+
+feature: showcase was 
+positive: 1
+certainty: 4
+
+feature: a trip 
+positive: 1
+certainty: 4
+
+feature: trip a 
+positive: 1
+certainty: 4
+
+feature: a tv 
+positive: 1
+certainty: 4
+
+feature: tv and 
+positive: 1
+certainty: 4
+
+feature: a car 
+positive: 1
+certainty: 4
+
+feature: car her 
+positive: 1
+certainty: 4
+
+feature: her face 
+positive: 1
+certainty: 4
+
+feature: face was 
+positive: 1
+certainty: 4
+
+feature: was hilarious 
+positive: 1
+certainty: 4
+
+feature: the same 
+positive: 1
+certainty: 4
+
+feature: same time 
+positive: 1
+certainty: 4
+
+feature: time as 
+positive: 1
+certainty: 4
+
+feature: as the 
+positive: 1
+certainty: 4
+
+feature: event nope 
+positive: 1
+certainty: 4
+
+feature: nope test 
+positive: 1
+certainty: 4
+
+feature: test weapons 
+positive: 1
+certainty: 4
+
+feature: weapons have 
+positive: 1
+certainty: 4
+
+feature: to wait 
+positive: 1
+certainty: 4
+
+feature: wait until 
+positive: 1
+certainty: 4
+
+feature: until tomorrow 
+positive: 1
+certainty: 4
+
+feature: tomorrow #destinythegame 
+positive: 1
+certainty: 4
+
+feature: #destinythegame #apple 
+positive: 1
+certainty: 4
+
+feature: #apple #appleevent 
+positive: 1
+certainty: 4
+
+feature: as apple 
+positive: 1
+certainty: 4
+
+feature: apple goes 
+positive: 1
+certainty: 4
+
+feature: goes bigger 
+positive: 1
+certainty: 4
+
+feature: bigger expensive 
+positive: 1
+certainty: 4
+
+feature: expensive on 
+positive: 1
+certainty: 4
+
+feature: on tablets 
+positive: 1
+certainty: 4
+
+feature: tablets i 
+positive: 1
+certainty: 4
+
+feature: i had 
+positive: 1
+certainty: 4
+
+feature: had a 
+positive: 1
+certainty: 4
+
+feature: nice chat 
+positive: 1
+certainty: 4
+
+feature: chat with 
+positive: 1
+certainty: 4
+
+feature: @user about 
+positive: 1
+certainty: 4
+
+feature: amazon going 
+positive: 1
+certainty: 4
+
+feature: going smaller 
+positive: 1
+certainty: 4
+
+feature: smaller cheaper 
+positive: 1
+certainty: 4
+
+feature: rumor has 
+positive: 1
+certainty: 4
+
+feature: has it 
+positive: 1
+certainty: 4
+
+feature: it apple 
+positive: 1
+certainty: 4
+
+feature: is likely 
+positive: 1
+certainty: 4
+
+feature: likely to 
+positive: 1
+certainty: 4
+
+feature: to unveil 
+positive: 1
+certainty: 4
+
+feature: unveil 3 
+positive: 1
+certainty: 4
+
+feature: 3 new 
+positive: 1
+certainty: 4
+
+feature: new iphones 
+positive: 1
+certainty: 4
+
+feature: iphones at 
+positive: 1
+certainty: 4
+
+feature: at their 
+positive: 1
+certainty: 4
+
+feature: their 9 
+positive: 1
+certainty: 4
+
+feature: 9 sep 
+positive: 1
+certainty: 4
+
+feature: sep media 
+positive: 1
+certainty: 4
+
+feature: media event 
+positive: 1
+certainty: 4
+
+feature: event iphone 
+positive: 1
+certainty: 4
+
+feature: iphone 6s 
+positive: 2
+certainty: 4
+
+feature: 6s iphone 
+positive: 1
+certainty: 4
+
+feature: 6s plus 
+positive: 1
+certainty: 4
+
+feature: plus iphone 
+positive: 1
+certainty: 4
+
+feature: iphone 6c 
+positive: 1
+certainty: 4
+
+feature: thats what 
+positive: 1
+certainty: 4
+
+feature: what i 
+positive: 1
+certainty: 4
+
+feature: i did 
+positive: 1
+certainty: 4
+
+feature: did with 
+positive: 1
+certainty: 4
+
+feature: with mine 
+positive: 1
+certainty: 4
+
+feature: mine i 
+positive: 1
+certainty: 4
+
+feature: i scoured 
+positive: 1
+certainty: 4
+
+feature: scoured amazon 
+positive: 1
+certainty: 4
+
+feature: for months 
+positive: 1
+certainty: 4
+
+feature: months and 
+positive: 1
+certainty: 4
+
+feature: and found 
+positive: 1
+certainty: 4
+
+feature: found a 
+positive: 1
+certainty: 4
+
+feature: a deal 
+positive: 1
+certainty: 4
+
+feature: deal just 
+positive: 1
+certainty: 4
+
+feature: like that 
+positive: 1
+certainty: 4
+
+feature: that and 
+positive: 1
+certainty: 4
+
+feature: and snatched 
+positive: 1
+certainty: 4
+
+feature: snatched it 
+positive: 1
+certainty: 4
+
+feature: it up 
+positive: 1
+certainty: 4
+
+feature: up so 
+positive: 1
+certainty: 4
+
+feature: so fast 
+positive: 1
+certainty: 4
+
+feature: 15 minutes 
+positive: 1
+certainty: 4
+
+feature: minutes until 
+positive: 1
+certainty: 4
+
+feature: until all 
+positive: 1
+certainty: 4
+
+feature: all of 
+positive: 1
+certainty: 4
+
+feature: the android 
+positive: 1
+certainty: 4
+
+feature: android fanboys 
+positive: 1
+certainty: 4
+
+feature: fanboys goes 
+positive: 1
+certainty: 4
+
+feature: goes squealing 
+positive: 1
+certainty: 4
+
+feature: squealing for 
+positive: 1
+certainty: 4
+
+feature: the apples 
+positive: 1
+certainty: 4
+
+feature: 9th event 
+positive: 1
+certainty: 4
+
+feature: out our 
+positive: 1
+certainty: 4
+
+feature: our live 
+positive: 1
+certainty: 4
+
+feature: live coverage 
+positive: 1
+certainty: 4
+
+feature: coverage of 
+positive: 1
+certainty: 4
+
+feature: event here 
+positive: 1
+certainty: 4
+
+feature: #appleevent is 
+positive: 1
+certainty: 4
+
+feature: about to 
+positive: 1
+certainty: 4
+
+feature: to start 
+positive: 1
+certainty: 4
+
+feature: start watch 
+positive: 1
+certainty: 4
+
+feature: watch apples 
+positive: 1
+certainty: 4
+
+feature: apples live 
+positive: 1
+certainty: 4
+
+feature: live stream 
+positive: 1
+certainty: 4
+
+feature: stream here 
+positive: 1
+certainty: 4
+
+feature: apples @user 
+positive: 1
+certainty: 4
+
+feature: @user cook 
+positive: 1
+certainty: 4
+
+feature: cook gives 
+positive: 1
+certainty: 4
+
+feature: gives an 
+positive: 1
+certainty: 4
+
+feature: an update 
+positive: 1
+certainty: 4
+
+feature: update on 
+positive: 1
+certainty: 4
+
+feature: the projects 
+positive: 1
+certainty: 4
+
+feature: projects launched 
+positive: 1
+certainty: 4
+
+feature: launched in 
+positive: 1
+certainty: 4
+
+feature: in june 
+positive: 1
+certainty: 4
+
+feature: june #applewatch 
+positive: 1
+certainty: 4
+
+feature: #applewatch has 
+positive: 1
+certainty: 4
+
+feature: has gate 
+positive: 1
+certainty: 4
+
+feature: gate 97 
+positive: 1
+certainty: 4
+
+feature: 97 satisfaction 
+positive: 1
+certainty: 4
+
+feature: satisfaction #applelive 
+positive: 1
+certainty: 4
+
+feature: dont think 
+positive: 1
+certainty: 4
+
+feature: think they 
+positive: 1
+certainty: 4
+
+feature: they d 
+positive: 1
+certainty: 4
+
+feature: d drop 
+positive: 1
+certainty: 4
+
+feature: drop the 
+positive: 1
+certainty: 4
+
+feature: the album 
+positive: 1
+certainty: 4
+
+feature: album at 
+positive: 1
+certainty: 4
+
+feature: event however 
+positive: 1
+certainty: 4
+
+feature: however it 
+positive: 1
+certainty: 4
+
+feature: it may 
+positive: 1
+certainty: 4
+
+feature: may explain 
+positive: 1
+certainty: 4
+
+feature: explain them 
+positive: 1
+certainty: 4
+
+feature: them performing 
+positive: 1
+certainty: 4
+
+feature: performing at 
+positive: 1
+certainty: 4
+
+feature: apple music 
+positive: 1
+certainty: 4
+
+feature: music event 
+positive: 1
+certainty: 4
+
+feature: event in 
+positive: 1
+certainty: 4
+
+feature: in september 
+positive: 1
+certainty: 4
+
+feature: september a 
+positive: 1
+certainty: 4
+
+feature: apples event 
+positive: 1
+certainty: 4
+
+feature: event is 
+positive: 1
+certainty: 4
+
+feature: is streaming 
+positive: 1
+certainty: 4
+
+feature: streaming in 
+positive: 1
+certainty: 4
+
+feature: in stereo 
+positive: 1
+certainty: 4
+
+feature: stereo may 
+positive: 1
+certainty: 4
+
+feature: may seem 
+positive: 1
+certainty: 4
+
+feature: seem minor 
+positive: 1
+certainty: 4
+
+feature: minor but 
+positive: 1
+certainty: 4
+
+feature: but as 
+positive: 1
+certainty: 4
+
+feature: a audiophile 
+positive: 1
+certainty: 4
+
+feature: audiophile i 
+positive: 1
+certainty: 4
+
+feature: just love 
+positive: 1
+certainty: 4
+
+feature: love and 
+positive: 1
+certainty: 4
+
+feature: and appreciate 
+positive: 1
+certainty: 4
+
+feature: appreciate this 
+positive: 1
+certainty: 4
+
+feature: @user riches 
+positive: 1
+certainty: 4
+
+feature: riches just 
+positive: 1
+certainty: 4
+
+feature: just finished 
+positive: 1
+certainty: 4
+
+feature: finished #thegirlwho 
+positive: 1
+certainty: 4
+
+feature: #thegirlwho pt2 
+positive: 1
+certainty: 4
+
+feature: pt2 wow 
+positive: 1
+certainty: 4
+
+feature: wow just 
+positive: 1
+certainty: 4
+
+feature: just wow 
+positive: 1
+certainty: 4
+
+feature: wow you 
+positive: 1
+certainty: 4
+
+feature: you got 
+positive: 1
+certainty: 4
+
+feature: got a 
+positive: 1
+certainty: 4
+
+feature: date for 
+positive: 1
+certainty: 4
+
+feature: for part 
+positive: 1
+certainty: 4
+
+feature: part 3 
+positive: 1
+certainty: 4
+
+feature: 3 yet 
+positive: 1
+certainty: 4
+
+feature: yet amazon 
+positive: 1
+certainty: 4
+
+feature: amazon is 
+positive: 1
+certainty: 4
+
+feature: is saying 
+positive: 1
+certainty: 4
+
+feature: saying march 
+positive: 1
+certainty: 4
+
+feature: march 16 
+positive: 1
+certainty: 4
+
+feature: 16 but 
+positive: 1
+certainty: 4
+
+feature: but ad 
+positive: 1
+certainty: 4
+
+feature: ad says 
+positive: 1
+certainty: 4
+
+feature: says october 
+positive: 1
+certainty: 4
+
+feature: october 15 
+positive: 1
+certainty: 4
+
+feature: may just 
+positive: 1
+certainty: 4
+
+feature: just be 
+positive: 1
+certainty: 4
+
+feature: the most 
+positive: 1
+certainty: 4
+
+feature: most shocking 
+positive: 1
+certainty: 4
+
+feature: shocking moment 
+positive: 1
+certainty: 4
+
+feature: moment of 
+positive: 1
+certainty: 4
+
+feature: todays #appleevent 
+positive: 1
+certainty: 4
+
+feature: #appleevent @user 
+positive: 1
+certainty: 4
+
+feature: @user doing 
+positive: 1
+certainty: 4
+
+feature: doing a 
+positive: 1
+certainty: 4
+
+feature: a demo 
+positive: 1
+certainty: 4
+
+feature: demo on 
+positive: 1
+certainty: 4
+
+feature: new #ipadpro 
+positive: 1
+certainty: 4
+

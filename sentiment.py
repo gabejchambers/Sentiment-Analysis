@@ -56,7 +56,7 @@ def stripContextExtras(lst):
         text = ' '.join(text.split(r'<s>'))
         text = ' '.join(text.split(r'<p>'))
         text = ' '.join(text.split(r'<@>'))
-        text = re.sub(r'[^a-zA-Z\d\s:<>@#]', ' ', text)  # remove all non alphanumeric, whitespace, and elbow brackets
+        text = re.sub(r'[^a-zA-Z\d\s<>@#]', ' ', text)  # remove all non alphanumeric, whitespace, and elbow brackets
         text = re.sub(r'@[^\s]*', '@user', text)  # change @usertags to all be @user so there can be more consistency
         text = ' '.join(text.split())
         newlst.append(text)
@@ -92,7 +92,113 @@ def combine(lst1, lst2):
     return outlst
 
 
+# takes as input the output of above function, combines(l1,l2), and outputs a nested dictionary in form:
+# tdict = {(w1, w2) :{'positive': n
+#                       'negative': n
+#                       'certainty': 0},
+#          (w2, w3) :{'positive': n
+#                       'negative': n
+#                       'certainty': 0},
+#          ...
+#          }
+#
+# in: (list: [list: [any]])
+# out: dictionary in above form
+def createTrainingDict(ContextSense):
+    tdict = {}
+    inner_dict = {'positive': 0,
+                  'negative': 0,
+                  'certainty': 0}
 
+    for entries in ContextSense:
+        context = entries[0]
+        sentiment = entries[1]
+        for bigram in context:
+            if bigram not in tdict:
+                tdict[bigram] = {'positive': 0,
+                                 'negative': 0,
+                                 'certainty': 0}
+            tdict[bigram][sentiment] += 1
+    return tdict
+
+
+# takes the training table with number of occurances and finds the corresponding certainty value
+def toCertaintyTable(tdict):
+    for bigram, sentiments in tdict.items():
+        sentiments['certainty'] = findCertainty(sentiments['positive'], sentiments['negative'])
+        if sentiments['negative'] <= sentiments['positive']:
+            del sentiments['negative']
+        else:
+            del sentiments['positive']
+    return tdict
+
+
+# finds certainty value given two inputs using formula given in slides
+# in: (int, int)
+# out: float
+def findCertainty(positive, negative):
+    if (positive == 0) and (negative == 0):
+        return 0
+    elif (positive == 0) or (negative == 0):
+        return 4
+    return abs(math.log((positive / (positive + negative)) / (negative / (positive + negative))))
+
+
+# writes training dictionary in readable format to a file for debugging
+# in: filename as string
+# out: nothing. prints inside
+def printToMyModel(filename, dic):
+    modelfile = open(filename, "w")
+
+    for bigram, sentiments in dic.items():
+        modelfile.write('feature: ')
+        for word in bigram:
+            modelfile.write(word)
+            modelfile.write(' ')
+        modelfile.write('\n')
+        for sentiment_name, sentiment_value in sentiments.items():
+            modelfile.write(sentiment_name)
+            modelfile.write(': ')
+            modelfile.write(str(sentiment_value))
+            modelfile.write('\n')
+        modelfile.write('\n')
+
+    modelfile.close()  # to change file access modes
+    return
+
+#takes the training dict and the list of test instances paired with the bigrams
+#finds sentiment for test based off the training dictionary
+# by testing every bigram against dictionary and making a sum of negative certainties
+# enountered vs positive certainties
+#then choosing the sentiment with the highest sum of certainties for all bigrams in the sentence
+# output in form: list [instance#, list of bigrams, sentiment,
+# #       positve sentiment certainty sum, negative sentiment certainty sum]
+def findTestSolutions(traind, testIB):
+    testIBS = [] # Insantance, Bigram, Sentiment not Internal Bowel Syndrome
+    for tweet in testIB:
+        instance = tweet[0]
+        sentence = tweet[1]
+        positive_sum = 0.0
+        negative_sum = 0.0
+        for bigram in sentence:
+            if bigram in traind:
+                if 'positive' in traind[bigram] and traind[bigram]['certainty'] != 0:
+                    positive_sum += traind[bigram]['certainty']
+                elif traind[bigram]['certainty'] != 0:
+                    negative_sum += traind[bigram]['certainty']
+        if positive_sum >= negative_sum:
+            answer = 'positive'
+        else:
+            answer = 'negative'
+        testIBS.append([instance, sentence, answer, positive_sum, negative_sum])
+    return testIBS
+
+
+def toformatoutput(testsol):
+    formatted = []
+    for tweet in testsol:
+        formatted.append('<answer instance="' + tweet[0] + '" sentiment="' + tweet[2] + '"/>')
+    return formatted
 
 ##############################################PROGRAM START#############################################
 pythonFileName = sys.argv.pop(0)
@@ -123,11 +229,62 @@ for sentence in trainContext:
 
 # combine the two context and answer lists together so you know if a given context corresponds to phone or product
 # in form [[(w1, w2), (w2, w3), ... (Wn-1, Wn)], sense]
-trainContextAnswer = combine(trainBigrams, trainSentiment)
+trainContextSentiment = combine(trainBigrams, trainSentiment)
+
+# build dictionary of training data in form dict{featuretype: {feature: {sense: numOccurances}}}
+# where feature is a tuple containing 1 to 2 words
+trainingDict = createTrainingDict(trainContextSentiment)
+# calculates the certainty value of each tuple entry
+trainingDict = toCertaintyTable(trainingDict)
+
+# print training dict to model
+printToMyModel(mymodel, trainingDict)
+
+# parse testing data::
+# extract the info needed from testText.
+testTerms = extractSplit(testText, '</instance>')
+testTerms.pop(-1)  # pops a 'None' that can cause problems later
+testInstance = []
+testContext = []
+for term in testTerms:
+    # regex: match exactly "<instance ~any characters until first '>'~"
+    testInstance.append(extractRegex(term, r'.*?<instance id="(.*)">'))
+    testContext.append(extractRegex(term, r'<context>(.*?)<\/context>'))  # group everything between context tags
+testContext = stripContextExtras(testContext)
+# turn testContext to list of bigram tuples instead of long string
+# in form [(w1, w2), (w2, w3), ... (Wn-1, Wn)]
+testBigrams = []
+for sentence in testContext:
+    testBigrams.append(sentenceToBigramList(sentence))
+# combine the two context and Instance lists together so you can
+# in form [[(w1, w2), (w2, w3), ... (Wn-1, Wn)], sense]
+testInstanceBigrams = combine(testInstance, testBigrams)
+
+
+# compare data against training dictionary and find solution:
+# option 1: pick single highest bigram certainty other
+# option 2: make sum of positive certainties and negative certainties and compare them. whichever sum higher is
+# assigned
+testSolutions = findTestSolutions(trainingDict, testInstanceBigrams) #i used option 2. made more sense
+# testSolutions list in format: list [instance#, list of bigrams, sentiment,
+#       positve sentiment certainty sum, negative sentiment certainty sum]
+
+#################WORKING###############
+# 3) construct output in form of sentiment-test-key.txt
+formatted_solution = toformatoutput(testSolutions)
+printlist(formatted_solution)
+#############END WORKING###############
+
 
 #####TESTING######
-printlist(trainInstance)
-printlist(trainSentiment)
-printlist(trainContext)
-printlist(trainContextAnswer)
+# printlist(trainInstance)
+# printlist(trainSentiment)
+# printlist(trainContext)
+# printlist(trainContextSentiment)
+# print(trainingDict)
+# printlist(testInstance)
+# printlist(testContext)
+# printlist(testBigrams)
+#printlist(testInstanceBigrams)
+#printlist(testSolutions)
 #####END TEST#####
