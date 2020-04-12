@@ -125,7 +125,7 @@ def createTrainingDict(ContextSense):
                 ncounter += 1
 
 
-    # attempted normalization:
+    # attempted normalization: didnt end up working. commenting out but keeping around in case i think of better way to impliment
     '''
     if pcounter > ncounter:
         pdict = {}
@@ -141,9 +141,8 @@ def createTrainingDict(ContextSense):
                             'negative': sentiment['negative'],
                             'certainty': 0}
         tdict = ndict
-    count = 10
     '''
-    ######END attempted normalization, I think it made it overall less accurate but significantly increased "negative" accuracy. might need to delete this
+    ######END attempted normalization, made it overall less accurate but increased "negative" accuracy. might need to delete this chunk
 
     return tdict
 
