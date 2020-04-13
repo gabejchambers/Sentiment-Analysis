@@ -294,11 +294,11 @@ testSolutions = findTestSolutions(trainingDict, testInstanceBigrams)  # i used o
 # testSolutions list in format: list [instance#, list of bigrams, sentiment,
 #       positve sentiment certainty sum, negative sentiment certainty sum]
 
-#################WORKING###############
+
 # 3) construct output in form of sentiment-test-key.txt
 formatted_solution = toformatoutput(testSolutions)
 printlist(formatted_solution)
-#############END WORKING###############
+
 
 
 #####TESTING######
