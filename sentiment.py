@@ -1,7 +1,128 @@
+
+
+
 '''
-run with:
-python3 sentiment.py sentiment-train.txt sentiment-test.txt my-model.txt > my-sentiment-answers.txt
+> Your introduction should also include identifying information (your name, date, etc.)
+    Gabriel Chambers
+    4/13/2020
+
+I use the following features: all bigrams that appear in tweet (sentence). 
+each bigram is tagged with "negative" or "psotive" after all tweets have been checked
+and the associated sentiment for the bigram is assigned by frequency,
+and a certainty value is applied by calculating log likelihood.
+
+scorer.py output:
+
+Accuracy: 0.75
+
+Confusion Matrix, where outer key is my calculated data and the inner keys are the line-key.txt values
+For example:
+        negative: {'positive': 4, 'negative': 44}
+Can be read as: What my program thought was a negative was correctly tagged 44 times,
+but 4 times it was actually supposed to be a positive
+
+positive: {'positive': 68, 'negative': 10}
+negative: {'positive': 4, 'negative': 44}
+
+
+"And compare your results to that of the most frequeant sense baseline":
+i think that is asking for this:
+most freuqnt sense is positive
+accuracy for positive is 68/78=.87179487179
+
+
+
+
+1) describe the problem to be solved well enough so that someone not
+familiar with our class could understand:
+
+find the sentiment of asentence. This means decern wether a sentence carries a positive or negative weight or
+association based on the words used.
+
+
+
+ 2) give actual examples of program input and output, along with usage instructions, 
+
+input:
+
+file called sentiment-test.txt with:
+<corpus lang="en">
+<lexelt item="sentiment">
+<instance id="620979391984566272">
+<context>
+On another note, it seems Greek PM Tsipras married Angela Merkel to Francois Hollande on Sunday #happilyeverafter http://t.co/gTKDxivf79
+</context>
+</instance>
+<instance id="621340584804888578">
+<context>
+Amazon Prime Day is just like Black Friday if you only buy bulk protein powder and will-making software on Black Friday.
+</context>
+</instance>
+...
+
+file called sentiment-train.txt with:
+<corpus lang="en">
+<lexelt item="sentiment">
+<instance id="620821002390339585">
+<answer instance="620821002390339585" sentiment="negative"/>
+<context>
+Does @macleansmag still believe that Ms. Angela Merkel is the "real leader of the free world"?  http://t.co/isQfoIcod0 (Greeks may disagree
+</context>
+</instance>
+<instance id="621090050848198657">
+<answer instance="621090050848198657" sentiment="negative"/>
+<context>
+...
+
+
+output:
+printed to stdout:
+<answer instance="620979391984566272" sentiment="negative"/>
+<answer instance="621340584804888578" sentiment="positive"/>
+...
+
+
+usage instrictions:
+
+run like: python3 sentiment.py sentiment-train.txt sentiment-test.txt my-model.txt > my-sentiment-answers.txt
+where my-model.txt will be for troubleshooting and shows the data structure constructed
+
+
+
+ 3) describe the algorithm you have used to solve the problem, specified in a stepwise or point by point fashion. 
+
+take in the training and testing info. First refine training file
+splice out the answer and the actual setence for each sentence in the training info.
+Turn the test of the sentence into bigrams.
+Create a dictionary of all bigrams, whos values is another dictionary containing a counter
+for how many times that bigram is seen in a negative seintiment vs how many times it is seen
+with a positive sentiment.
+Next, the dictionary is looped through and a certainty value is calculated for each bigram
+based on the sentiment with the highest frequency for that bigram using log-likelihood.
+
+Next the testing data is refined. The Instance number and the test context is extracted.
+The text of each entry is broken up into all bigrams accociated with each instance number.
+Then each sentence is looped through.
+Within each sentence, each bigram is compared to the dictionary built from the training data.
+If a bigram corresponds to one in the dictionary, the certainty value of that bigram is added
+to a counter for it's corresponding sentiment.
+Once every bigram has been checked, the higher of the two counters (positive sentiment certainty
+vs negative sentiment certainty) dictates whether the sentence is tagged as positive or negative.
+If for some reason the counters are equal (perhaps if no bigrams were seen in the training data),
+then the tweet is tagged as positive because there are more positive tweets in the training info.
+Finally the instance number is joined with the calculated sentiment, and printed in a format to
+match the key.
+
+
+
+
+
+"2) Detailed comments throughout code that fully explain details of algorithm.
+Implementation must work as described and solve problem correctly to get credit for
+detailed comments."
 '''
+
+
 
 import math
 import os
@@ -253,7 +374,7 @@ trainBigrams = []
 for sentence in trainContext:
     trainBigrams.append(sentenceToBigramList(sentence))
 
-# combine the two context and answer lists together so you know if a given context corresponds to phone or product
+# combine the two context and answer lists together so you know if a given context corresponds to positive or negative
 # in form [[(w1, w2), (w2, w3), ... (Wn-1, Wn)], sense]
 trainContextSentiment = combine(trainBigrams, trainSentiment)
 
