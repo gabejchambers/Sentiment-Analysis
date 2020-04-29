@@ -2,9 +2,34 @@
 
 
 '''
+SENTIMENT ANALYSIS EXTRA CREDIT
+
+ADDITIONS:
+
+BIGRAM: use bigrams rather than unigrams in bag-of-words.
+    Accuracy (with Bigram): 0.75
+
+NORMALIZE TRAINING INPUT: because training input was uneven (more positive than negative input), normalize weighting based on
+total amount of positive vs negative sentiment (i.e. if "labor" appeared 2 times as positive and 1 time as negative,
+but in total there were 300 positive tweets in training data and only 100 negative tweets in training data, then "labor"
+will be marked as negitive with a normalized negative weight of "3" instead of "1".
+    Accuracy (with Bigram, Normalization): 0.7241379310344828
+
+Word Position: keep track of the position of a word in the sentence. Tracks "beginning" and "end"
+(before and after middle of sentence). DIscussed more in SentenceToBigramList() header.
+    Accuracy (with Bigram, Normalization): 0.6896551724137931
+
+
+
+
+
+
+
+
+
 > Your introduction should also include identifying information (your name, date, etc.)
     Gabriel Chambers
-    4/13/2020
+    4/18/2020
 
 I use the following features: all bigrams that appear in tweet (sentence). 
 each bigram is tagged with "negative" or "psotive" after all tweets have been checked
@@ -184,18 +209,28 @@ def stripContextExtras(lst):
     return newlst
 
 
-# takes in string of many words.
+# takes in string of many words. Adds a tag at the end of the word with positional information,
+# "BEG" if at the beginning of a sentence and "END" if in the second half of a sentence.
 # outputs list of all bigram tuples in the string
 # input: "This is a sentence".
 # output: [(This, is), (is, a), (a, sentence)]
 def sentenceToBigramList(sntnc):
     sntnc = sntnc.split()
+    halfwaypoint = int((sentence.count(' ')+1)/2)
     bigrams = []
     prev_word = ''
+    wordposition = 0
     for word in sntnc:
+        wordposition += 1
         if prev_word != '':
-            bigrams.append((prev_word, word))
-        prev_word = word
+            if wordposition <= halfwaypoint:
+                bigrams.append((prev_word, word+"BEG"))
+                prev_word = word+'BEG'
+            else:
+                bigrams.append((prev_word, word + "END"))
+                prev_word = word+'END'
+        else:
+            prev_word = word + 'BEG'
     return bigrams
 
 
@@ -247,7 +282,7 @@ def createTrainingDict(ContextSense):
 
 
     # attempted normalization: didnt end up working. commenting out but keeping around in case i think of better way to impliment
-    '''
+
     if pcounter > ncounter:
         pdict = {}
         for bgram, sentiment in tdict.items():
@@ -262,7 +297,7 @@ def createTrainingDict(ContextSense):
                             'negative': sentiment['negative'],
                             'certainty': 0}
         tdict = ndict
-    '''
+
     ######END attempted normalization, made it overall less accurate but increased "negative" accuracy. might need to delete this chunk
 
     return tdict
@@ -386,7 +421,10 @@ trainingDict = toCertaintyTable(trainingDict)
 
 # print training dict to model
 printToMyModel(mymodel, trainingDict)
+########################END TRAINING DATA#########################################################
 
+
+#################################START TESTING DATA###############################################
 # parse testing data::
 # extract the info needed from testText.
 testTerms = extractSplit(testText, '</instance>')

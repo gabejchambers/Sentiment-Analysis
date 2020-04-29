@@ -58,8 +58,10 @@ usage instructions:
 
 run with: python3 scorer.py my-sentiment-answers.txt sentiment-test-key.txt
 
-
-
+car1.setdaemin(true)
+car2.setdaemin(true)
+car1.start()
+car2.start()
 
  3) describe the algorithm you have used to solve the problem, specified in a stepwise or point by point fashion. 
 
